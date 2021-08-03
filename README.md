@@ -1,5 +1,6 @@
 # Stundenprotokolle 12. Klasse 1. Halbjahr
-Informatik, Bu
+Informatik, Bl
+
 David Borgmann, Simon Rettmann
 
 # Stunde vom 3.8.2021
