@@ -16,6 +16,7 @@ In dieser ersten Informatikstunde des Schuljahres wurden die Erwartungen und der
 Diese Informatikstunde startete mit der genaueren Planung und Aufgabenverteilung. Über einen gemeinsamen Leitfaden für die Stundenprotokolle wurde geredet. Anschließend wurden die Arduinokenntnisse weiter aufgefrischt. Die Gruppe startete mit dem Programmieren einer im Intervall blinkenden Lampe und begann an der Programmierung eines Potentiometers. Auch die Auswahl möglicher Gerätschaften stand auf der Tagesordnung. Im Fokus stand vor allem die Auswahl eines Thermometers. 
   
 Bei der leuchtenden Lampe handelt es sich um eine weiße Leuchtdiode, die durch den Arduino gesteuert wird. Die Lampe ist jeweils eine Sekunde an und anschließend ausgeschaltet. Um eine Zerstörung der Diode zu verhindern, wurde ein Widerstand in den Kreislauf gebaut. 
- <img width="952" alt="Arduino Lampe Test" src="https://user-images.githubusercontent.com/88385654/128381692-8ddc0715-4922-4714-9aa1-11dfbd19f67c.png">
+  
+ ! [bsp lampe] <img width="952" alt="Arduino Lampe Test" src="https://user-images.githubusercontent.com/88385654/128381692-8ddc0715-4922-4714-9aa1-11dfbd19f67c.png">
   
 
