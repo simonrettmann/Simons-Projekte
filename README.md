@@ -17,6 +17,13 @@ Diese Informatikstunde startete mit der genaueren Planung und Aufgabenverteilung
   
 Bei der leuchtenden Lampe handelt es sich um eine weiße Leuchtdiode, die durch den Arduino gesteuert wird. Die Lampe ist jeweils eine Sekunde an und anschließend ausgeschaltet. Um eine Zerstörung der Diode zu verhindern, wurde ein Widerstand in den Kreislauf gebaut. 
   
-<img width="952" alt="Arduino Lampe Test" src="https://user-images.githubusercontent.com/88385654/128381692-8ddc0715-4922-4714-9aa1-11dfbd19f67c.png">
+<img width="239" alt="Arduino Lampe Test" src="https://user-images.githubusercontent.com/88385654/128382084-594bb924-c086-4739-a261-9c7884d05ec9.png">
+Programmcode für eine blinkende Leuchtdiode
   
+![Leuchtdiode-ausgeschaltet](https://user-images.githubusercontent.com/88385654/128382768-cce23b2b-80b9-4238-ae3e-ae311ef84e68.jpg) 
+Versuchsaufbau mit ausgeschalteter Leuchtdiode
+  
+![Leuchtdiode-eingeschaltet](https://user-images.githubusercontent.com/88385654/128382760-c511e59c-cfb4-4d0a-ae72-8200b00c6875.jpg)
+Versuchsaufbau mit ausgeschalteter Leuchtdiode
+
 
