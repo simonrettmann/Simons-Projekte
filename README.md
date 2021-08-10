@@ -8,6 +8,7 @@ David Borgmann, Simon Rettmann
 
 1. Stunde vom 3.8.2021
 2. Stunde vom 4.8.2021
+3. Stunde vom 10.8.2021
 
 ## <h2> Stunde vom 3.8.2021 </h2>
 In dieser ersten Informatikstunde des Schuljahres wurden die Erwartungen und der Ablauf des Kurses erklärt. Ein "GitHub" Account wurde angelegt und die Grundlagen gelegt. Gegen Ende der Stunde war außerdem noch Zeit vorhanden um sich bereits Gedanken über mögliche Projekte Gedanken zu machen. Allgemeiner Konsens war, dass es sich um ein arduinobasiertes "physical compuing Projekt" handeln soll. Aufgrund eines Roboterkurses waren nämlich schon kleine Mikrocontrollerkenntnisse vorhanden. Diskutierte Ideen waren ein adaptiv gesteuertet Eierkocher, ein regulierbarer und temperaturmessender Gaskocher und die Entwicklung eines Roboters, der Hindernisse wahrnimmt und auf diese reagiert. Nach Rücksprache mit Herrn Buhl wurde der regulierbare Gaskocher mit einigen Unterstufen ins Auge gefasst. Als Nachbereitung der Stunde wurden die Vorkenntnisse aufgefrischt und das bereits vorhandenen Material sortiert. Außerdem begann die Einarbeitungspahse in "GitHub". 
@@ -28,6 +29,7 @@ Bei der leuchtenden Lampe handelt es sich um eine weiße Leuchtdiode, die durch 
 ### Versuchsaufbau mit eingeschalteter Leuchtdiode
 ![Leuchtdiode-eingeschaltet](https://user-images.githubusercontent.com/88385654/128383828-eeb82b61-0753-48aa-b36b-35d966454e42.jpg)
 
-
+## <h2> Stunde vom 10.8.2021
+In dieser Doppelstunde wurden die ersten Arduinocodes auf dem Weg zum Projekt geschrieben. Fokussiert haben wir uns auf die Temperaturmessung und anschließende Steuerung einer Leuchtdiode. Besonders bei diesem Teilschritt war die Abhängigkeit von zwei Variablen besonders 
 
 
