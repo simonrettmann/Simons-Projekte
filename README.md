@@ -19,8 +19,7 @@ Diese Informatikstunde startete mit der genaueren Planung und Aufgabenverteilung
 Bei der leuchtenden Lampe handelt es sich um eine weiße Leuchtdiode, die durch den Arduino gesteuert wird. Die Lampe ist jeweils eine Sekunde an und anschließend ausgeschaltet. Um eine Zerstörung der Diode zu verhindern, wurde ein Widerstand in den Kreislauf gebaut. 
   
 ### Programmcode für eine blinkende Leuchtdiode
-<img src= https://user-images.githubusercontent.com/88385654/128889685-deb62757-e084-4856-be0d-34eff76f5a60.jpg heigt="100" weidth="100" border="10" align "left">
-
+<img src= https://user-images.githubusercontent.com/88385654/128890321-ca18d51c-8ae5-4e0b-bb55-b2057339ba3c.jpg heigt="100" weidth="100" border="10" align "left">
   
 ### Versuchsaufbau mit ausgeschalteter Leuchtdiode
 <img src= https://user-images.githubusercontent.com/88385654/128383857-b48c9321-e1f8-49d3-ad0a-d812d0911ad0.jpg heigt="100" weidth="100" border="10" align="left">
@@ -29,6 +28,7 @@ Bei der leuchtenden Lampe handelt es sich um eine weiße Leuchtdiode, die durch 
 ### Versuchsaufbau mit eingeschalteter Leuchtdiode
 <img src= https://user-images.githubusercontent.com/88385654/128383828-eeb82b61-0753-48aa-b36b-35d966454e42.jpg heigt="100" weidth="100" border="10" align="left">
 
+  
   
 ## <h2> Stunde vom 10.8.2021
 In dieser Doppelstunde wurden die ersten Arduinocodes auf dem Weg zum Projekt geschrieben. Fokussiert haben wir uns auf die Temperaturmessung und anschließende Steuerung einer Leuchtdiode. Besonders bei diesem Teilschritt war die Abhängigkeit von zwei Variablen besonders 
