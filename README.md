@@ -29,6 +29,7 @@ Bei der leuchtenden Lampe handelt es sich um eine weiße Leuchtdiode, die durch 
 ### Versuchsaufbau mit eingeschalteter Leuchtdiode
 <img src= https://user-images.githubusercontent.com/88385654/128383828-eeb82b61-0753-48aa-b36b-35d966454e42.jpg heigt="100" weidth="100" border="10" align="left">
 
+  
 ## <h2> Stunde vom 10.8.2021
 In dieser Doppelstunde wurden die ersten Arduinocodes auf dem Weg zum Projekt geschrieben. Fokussiert haben wir uns auf die Temperaturmessung und anschließende Steuerung einer Leuchtdiode. Besonders bei diesem Teilschritt war die Abhängigkeit von zwei Variablen besonders 
 
