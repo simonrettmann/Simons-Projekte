@@ -23,7 +23,7 @@ Bei der leuchtenden Lampe handelt es sich um eine weiße Leuchtdiode, die durch 
 
   
 ### Versuchsaufbau mit ausgeschalteter Leuchtdiode
-![Leuchtdiode-ausgeschaltet](https://user-images.githubusercontent.com/88385654/128383857-b48c9321-e1f8-49d3-ad0a-d812d0911ad0.jpg)
+<img src= https://user-images.githubusercontent.com/88385654/128383857-b48c9321-e1f8-49d3-ad0a-d812d0911ad0.jpg heigt="100" weidth="100" border="10" align="left">
 
   
 ### Versuchsaufbau mit eingeschalteter Leuchtdiode
