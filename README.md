@@ -26,12 +26,10 @@ Bei der leuchtenden Lampe handelt es sich um eine weiße Leuchtdiode, die durch 
 ### <h3> Bildergalerie <h3>
   
 #### Programmcode für eine blinkende Leuchtdiode <img scr= "https://user-images.githubusercontent.com/88385654/129032120-6befb755-c427-4cee-a110-6845bbced54a.png heigt="20%" weidth="20% border="10" align="left"> 
-#### Versuchsaufbau mit ausgeschalteter Leuchtdiode <img src= https://user-images.githubusercontent.com/88385654/128383857-b48c9321-e1f8-49d3-ad0a-d812d0911ad0.jpg heigt="20%" weidth="20%" border="10" align="left"> 
-#### Versuchsaufbau mit eingeschalteter Leuchtdiode
-<img src= https://user-images.githubusercontent.com/88385654/128383828-eeb82b61-0753-48aa-b36b-35d966454e42.jpg heigt="20%" weidth="20%" border="10" align="left">
+#### Steckplan für eine blinkende Leuchtdiode <img src= "https://user-images.githubusercontent.com/88385654/129032521-2333fc97-947f-4160-bf10-595335f0753d.png heigt="20%" weidth="20%" border="10" align="left"> 
+#### Bild des Versuchsaufbaus mit eingeschalteter Leuchtdiode <img src= https://user-images.githubusercontent.com/88385654/128383828-eeb82b61-0753-48aa-b36b-35d966454e42.jpg heigt="20%" weidth="20%" border="10" align="left">
 
-  
-  
+
 ## <p> <h2> <a id="Stundevom10.8.2021"> Stunde vom 10.8.2021 </a> <h2>
 In dieser Doppelstunde wurden die ersten Arduinocodes auf dem Weg zum Projekt geschrieben. Fokussiert wurde sich auf die Temperaturmessung und anschließende Steuerung einer Leuchtdiode. Besonders bei diesem Teilschritt war die Abhängigkeit von zwei nötigen Bedingungen für das leuchten der Lampe: Das Thermometer musste einen höheren Wert als 30 °C messen und zusätzlich musste der Knopf gedrückt werden. Als nächsten Schritt wurde eine Servosteuerung programmiert. Auch die Rotation des Servo-Motors war erneut von dem Thermometer und dem Drücken des Knopfes abhängig. Zudem wurde ein arduinofähiges Thermoelement, welches besonders hohe Temperatur messen kann, bestellt. Die selbstgewählte Hausaufgabe war sich mit einem "Stepper Motor" auseinanderzusetzen. Dieses Einlesen soll Grundlage für die nächste Stunde sein. </p>
 
