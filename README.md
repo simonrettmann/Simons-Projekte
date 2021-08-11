@@ -22,12 +22,14 @@ In dieser ersten Informatikstunde des Schuljahres wurden die Erwartungen und der
 Diese Informatikstunde startete mit der genaueren Planung und Aufgabenverteilung. Über einen gemeinsamen Leitfaden für die Stundenprotokolle wurde geredet. Anschließend wurden die Arduinokenntnisse weiter aufgefrischt. Die Gruppe startete mit dem Programmieren einer im Intervall blinkenden Lampe und begann an der Programmierung eines Potentiometers. Auch die Auswahl möglicher Gerätschaften stand auf der Tagesordnung. Im Fokus stand vor allem die Auswahl eines Thermometers.</p>
   
 Bei der leuchtenden Lampe handelt es sich um eine weiße Leuchtdiode, die durch den Arduino gesteuert wird. Die Lampe ist jeweils eine Sekunde an und anschließend ausgeschaltet. Um eine Zerstörung der Diode zu verhindern, wurde ein Widerstand in den Kreislauf gebaut. 
-  
-### Programmcode für eine blinkende Leuchtdiode <img width="744" alt="Code Test Lampe" src="https://user-images.githubusercontent.com/88385654/129022329-90424362-31be-4962-b4dd-3ce00f9a0f38.png"> ### Versuchsaufbau mit ausgeschalteter Leuchtdiode
-<img src= https://user-images.githubusercontent.com/88385654/128383857-b48c9321-e1f8-49d3-ad0a-d812d0911ad0.jpg heigt="100" weidth="100" border="10" align="left"> ### Versuchsaufbau mit eingeschalteter Leuchtdiode
-<img src= https://user-images.githubusercontent.com/88385654/128383828-eeb82b61-0753-48aa-b36b-35d966454e42.jpg heigt="100" weidth="100" border="10" align="left">
 
+### <h3> Bildergalerie <h3>
   
+#### Programmcode für eine blinkende Leuchtdiode <img scr= "https://user-images.githubusercontent.com/88385654/129032120-6befb755-c427-4cee-a110-6845bbced54a.png heigt="20%" weidth="20% border="10" align="left"> 
+#### Versuchsaufbau mit ausgeschalteter Leuchtdiode <img src= https://user-images.githubusercontent.com/88385654/128383857-b48c9321-e1f8-49d3-ad0a-d812d0911ad0.jpg heigt="20%" weidth="20%" border="10" align="left"> 
+#### Versuchsaufbau mit eingeschalteter Leuchtdiode
+<img src= https://user-images.githubusercontent.com/88385654/128383828-eeb82b61-0753-48aa-b36b-35d966454e42.jpg heigt="20%" weidth="20%" border="10" align="left">
+
   
   
 ## <p> <h2> <a id="Stundevom10.8.2021"> Stunde vom 10.8.2021 </a> <h2>
