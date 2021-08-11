@@ -38,5 +38,5 @@ In dieser Doppelstunde wurden die ersten Arduinocodes auf dem Weg zum Projekt ge
   ## <p> <h2> <a id="Stundevom11.8.2021"> Stunde vom 11.8.2021 </a> <h2>
 Obwohl diese Informatikstunde leider aufallen musste, wurde diese dennoch genutz, um das Projetk nach vorne zu bringen. Um die Schaltpläne übersichtlicher darzustellen entschied sich das Team die Software "Fritzing" für die Erstelung digitaler Schaltpläne zu kaufen. "Fritzing" ermöglicht die Erstellung auf den Arduino zugeschnitte Schaltplanerstellung und hat viele Teile zu Verfügung. Die Einarbeitung in dieses Programm begann und die Schaltung der blinkenden Lampe und der Servoschaltung wurden digitalisiert.
 Der Rest der Zeit wurde genutzt um einen Schrittmotor zu verstehen und anzusteuern. Für erste Programmierungsversuche reichte die Zeit leider nicht auf. Dieser nächste Schritt soll von zu Hause erreicht werden.
-  <img width="100" alt="Fritzing - Software zur Erstellung von digitalen Schaltplänen" src="https://user-images.githubusercontent.com/88385654/129033788-4786fe85-1819-4c0e-94bd-8bf5a4296798.png">
+<img width="500" alt="Fritzing - Software zur Erstellung von digitalen Schaltplänen" src="https://user-images.githubusercontent.com/88385654/129033788-4786fe85-1819-4c0e-94bd-8bf5a4296798.png">
 <p>
