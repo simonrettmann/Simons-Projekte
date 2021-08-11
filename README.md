@@ -25,8 +25,8 @@ Bei der leuchtenden Lampe handelt es sich um eine weiße Leuchtdiode, die durch 
 
 ### <h3> Bildergalerie <h3>
   
-#### Programmcode für eine blinkende Leuchtdiode <img scr= "https://user-images.githubusercontent.com/88385654/129032120-6befb755-c427-4cee-a110-6845bbced54a.png heigt="20%" weidth="20% border="10" align="left"> 
-#### Steckplan für eine blinkende Leuchtdiode <img src= "https://user-images.githubusercontent.com/88385654/129032521-2333fc97-947f-4160-bf10-595335f0753d.png heigt="20%" weidth="20%" border="10" align="left"> 
+#### Programmcode für eine blinkende Leuchtdiode <img scr= https://user-images.githubusercontent.com/88385654/129032120-6befb755-c427-4cee-a110-6845bbced54a.png heigt="20%" weidth="20% border="10" align="left"> 
+#### Steckplan für eine blinkende Leuchtdiode <img src= https://user-images.githubusercontent.com/88385654/129032521-2333fc97-947f-4160-bf10-595335f0753d.png heigt="20%" weidth="20%" border="10" align="left"> 
 #### Bild des Versuchsaufbaus mit eingeschalteter Leuchtdiode <img src= https://user-images.githubusercontent.com/88385654/128383828-eeb82b61-0753-48aa-b36b-35d966454e42.jpg heigt="20%" weidth="20%" border="10" align="left">
 
 
