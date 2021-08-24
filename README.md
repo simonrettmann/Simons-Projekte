@@ -42,10 +42,10 @@ In dieser Doppelstunde wurden die ersten Arduinocodes auf dem Weg zum Projekt ge
 Als nächsten Schritt wurde eine Servosteuerung programmiert. Auch die Rotation des Servo-Motors war erneut von dem Thermometer und dem Drücken des Knopfes abhängig. Zudem wurde ein arduinofähiges Thermoelement, welches besonders hohe Temperatur messen kann, bestellt. Die selbstgewählte Hausaufgabe war sich mit einem "Stepper Motor" auseinanderzusetzen. Dieses Einlesen soll Grundlage für die nächste Stunde sein. </p>
   
 ### <h3> Bildergalerie </h3>
- #### Code einer Lampe mit zwei Bedingungen
-  <img width="400" heigt="300" alt="Code Lampe mit 2 Bedingungen" align="left" src="https://user-images.githubusercontent.com/88385654/130635486-6a00e8b1-9567-4570-9895-76ba36357181.png">
-  #### Code der Servosteuerung mit zwei Bedingungen
-  <img width="400" height="300" alt="Servosteuerung mit 2 Bedingungen" align="left" src="https://user-images.githubusercontent.com/88385654/130635862-4d983326-5c70-45b5-9170-a137690f4cbd.png">
+ #### <h4> Code einer Lampe mit zwei Bedingungen <h4>
+  <img width="500" heigt="400" alt="Code Lampe mit 2 Bedingungen" align="left" src="https://user-images.githubusercontent.com/88385654/130635486-6a00e8b1-9567-4570-9895-76ba36357181.png">
+  #### <h4> Code der Servosteuerung mit zwei Bedingungen <h4>
+  <img width="500" height="400" alt="Servosteuerung mit 2 Bedingungen" align="left" src="https://user-images.githubusercontent.com/88385654/130635862-4d983326-5c70-45b5-9170-a137690f4cbd.png">
 
   ## <p> <h2> <a id="Stundevom11.8.2021"> Stunde vom 11.8.2021 </a> <h2>
 Obwohl diese Informatikstunde leider aufallen musste, wurde diese dennoch genutz, um das Projetk nach vorne zu bringen. Um die Schaltpläne übersichtlicher darzustellen entschied sich das Team die Software "Fritzing" für die Erstelung digitaler Schaltpläne zu kaufen. "Fritzing" ermöglicht die Erstellung auf den Arduino zugeschnitte Schaltplanerstellung und hat viele Teile zu Verfügung. Die Einarbeitung in dieses Programm begann und die Schaltung der blinkenden Lampe und der Servoschaltung wurden digitalisiert.
