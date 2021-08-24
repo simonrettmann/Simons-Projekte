@@ -34,16 +34,7 @@ Bei der leuchtenden Lampe handelt es sich um eine weiße Leuchtdiode, die durch 
 <img width="270" height="200" alt="Steckplan für eine blinkende Lampe" align="left" src="https://user-images.githubusercontent.com/88385654/129034053-222223fa-71a5-4461-b734-7e1efb53467b.png">
  
 #### Bild des Versuchsaufbaus mit eingeschalteter Leuchtdiode
-<img width="270" height="220" alt="Bild einer blinkenden Lampe" align="left" src="https://user-images.githubusercontent.com/88385654/128383828-eeb82b61-0753-48aa-b36b-35d966454e42.jpg"> 
-
-  
-  
-  
-  
-  
-  
-  
-  
+<img width="270" height="200" alt="Bild einer blinkenden Lampe" align="left" src="https://user-images.githubusercontent.com/88385654/128383828-eeb82b61-0753-48aa-b36b-35d966454e42.jpg"> 
   
 ## <p> <h2> <a id="Stundevom10.8.2021"> Stunde vom 10.8.2021 </a> <h2>
 In dieser Doppelstunde wurden die ersten Arduinocodes auf dem Weg zum Projekt geschrieben. Fokussiert wurde sich auf die Temperaturmessung und anschließende Steuerung einer Leuchtdiode. Besonders bei diesem Teilschritt war die Abhängigkeit von zwei nötigen Bedingungen für das leuchten der Lampe: Das Thermometer musste einen höheren Wert als 30 °C messen und zusätzlich musste der Knopf gedrückt werden. 
@@ -53,11 +44,9 @@ Als nächsten Schritt wurde eine Servosteuerung programmiert. Auch die Rotation 
 ### <h3> Bildergalerie </h3>
  #### Code einer Lampe mit zwei Bedingungen
   <img width="270" heigt="200" alt="Code Lampe mit 2 Bedingungen" align="left" src="https://user-images.githubusercontent.com/88385654/130635486-6a00e8b1-9567-4570-9895-76ba36357181.png">
-#### Code der Servosteuerung mit zwei Bedingungen
+ #### Code der Servosteuerung mit zwei Bedingungen
   <img width="270" height="200" alt="Servosteuerung mit 2 Bedingungen" align="left" src="https://user-images.githubusercontent.com/88385654/130635862-4d983326-5c70-45b5-9170-a137690f4cbd.png">
 
-
-  
   ## <p> <h2> <a id="Stundevom11.8.2021"> Stunde vom 11.8.2021 </a> <h2>
 Obwohl diese Informatikstunde leider aufallen musste, wurde diese dennoch genutz, um das Projetk nach vorne zu bringen. Um die Schaltpläne übersichtlicher darzustellen entschied sich das Team die Software "Fritzing" für die Erstelung digitaler Schaltpläne zu kaufen. "Fritzing" ermöglicht die Erstellung auf den Arduino zugeschnitte Schaltplanerstellung und hat viele Teile zu Verfügung. Die Einarbeitung in dieses Programm begann und die Schaltung der blinkenden Lampe und der Servoschaltung wurden digitalisiert.
 Der Rest der Zeit wurde genutzt um einen Schrittmotor zu verstehen und anzusteuern. Für erste Programmierungsversuche reichte die Zeit leider nicht auf. Dieser nächste Schritt soll von zu Hause erreicht werden.
@@ -67,5 +56,7 @@ Der Rest der Zeit wurde genutzt um einen Schrittmotor zu verstehen und anzusteue
 </p>
   
   ## <p> <h2> <a id="Stundevom24.8.2021"> Stunde vom 24.8.2021 </a> <h2>
-Die Ansteuerung des Schrittmotors klappte zu Beginn der Stunde. Nach einiger Zeit wurde bemerkt, dass der Motor fühlbar sehr warm wurde. Nach einiger Recherche stellte sich heraus, dass der Motor auch ohne Bewegung Strom verwendet. Ein dementsprechender Sketch, als "if-Bedingungen", um den Motor von der Stromversorgung zu trennen, wenn er nicht in Verwendung ist, wurde geschrieben. 
+Die Ansteuerung des Schrittmotors klappte zu Beginn der Stunde. Mit einer passenden Library gelang es den Schrittmotor in verschiedenen Geschwindigkeiten sich um 360° zu drehen und anschließend in die andere Richtung zu drehen, bis der Startpunkt wieder erreicht wurde. 
+Nach einiger Zeit wurde bemerkt, dass der Motor fühlbar sehr warm wurde. Nach einiger Recherche stellte sich heraus, dass der Motor auch ohne Bewegung Strom verwendet. Ein dementsprechender Sketch, als "if-Bedingungen", um den Motor von der Stromversorgung zu trennen, wurde versucht zu schreiben. In der Zeit der Stunde gelang dies allerdings nicht. Die Lösung dieses Problems soll nun von zu Hause gelöst werden. 
+Eine weitere Problematik die sich eröffnete war die Ansteuerung des Servo Motors im Hinblick auf das weitere Profjekt. Um einen Gaskocher zu regulieren erfordert es mehr als eine Umdrehung. Problematisch ist, dass der Schrittmotor nur die Information des "Weiter" oder "Zurück" kennt, jedoch nicht seine genaue Position. In irgendeiner Form wird daher eine mathematische Lösung erfordert, die den Nullpunkt des Schrittmotors als Startpunkt definiert, von welchem aus dann Befehle im oder gegen den Uhrzeigersinn gegeben werden. Wie dieses Problem konkret gelöst werden kann ist bisher unklar. 
 <p>
