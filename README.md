@@ -41,9 +41,11 @@ In dieser Doppelstunde wurden die ersten Arduinocodes auf dem Weg zum Projekt ge
 
 Als nächsten Schritt wurde eine Servosteuerung programmiert. Auch die Rotation des Servo-Motors war erneut von dem Thermometer und dem Drücken des Knopfes abhängig. Zudem wurde ein arduinofähiges Thermoelement, welches besonders hohe Temperatur messen kann, bestellt. Die selbstgewählte Hausaufgabe war sich mit einem "Stepper Motor" auseinanderzusetzen. Dieses Einlesen soll Grundlage für die nächste Stunde sein. </p>
   
-<p>  
-### <h3> Bildergalerie </h3>
+
+### <p> <h3> Bildergalerie </h3>
+  
  #### Code einer Lampe mit zwei Bedingungen
+  
   <img width="500" heigt="400" alt="Code Lampe mit 2 Bedingungen" align="left" src="https://user-images.githubusercontent.com/88385654/130635486-6a00e8b1-9567-4570-9895-76ba36357181.png">
   
 #### Code der Servosteuerung mit zwei Bedingungen
