@@ -28,13 +28,13 @@ Bei der leuchtenden Lampe handelt es sich um eine weiße Leuchtdiode, die durch 
 ### <h3> Bildergalerie <h3>
   
 #### Programmcode für eine blinkende Leuchtdiode
-<img width="200" height="200" alt="Code einer blinkenden Lampe" align="left" src="https://user-images.githubusercontent.com/88385654/129033945-c0ebdcd1-c9e8-44f9-93c0-e8eba41e3662.png">
+<img width="250" height="200" alt="Code einer blinkenden Lampe" align="left" src="https://user-images.githubusercontent.com/88385654/129033945-c0ebdcd1-c9e8-44f9-93c0-e8eba41e3662.png">
 
 #### Steckplan für eine blinkende Leuchtdiode
-<img width="200" height="200" alt="Steckplan für eine blinkende Lampe" align="left" src="https://user-images.githubusercontent.com/88385654/129034053-222223fa-71a5-4461-b734-7e1efb53467b.png">
+<img width="250" height="200" alt="Steckplan für eine blinkende Lampe" align="left" src="https://user-images.githubusercontent.com/88385654/129034053-222223fa-71a5-4461-b734-7e1efb53467b.png">
  
 #### Bild des Versuchsaufbaus mit eingeschalteter Leuchtdiode
-<img width="200" height="200" alt="Bild einer blinkenden Lampe" align="left" src="https://user-images.githubusercontent.com/88385654/128383828-eeb82b61-0753-48aa-b36b-35d966454e42.jpg">
+<img width="250" height="200" alt="Bild einer blinkenden Lampe" align="left" src="https://user-images.githubusercontent.com/88385654/128383828-eeb82b61-0753-48aa-b36b-35d966454e42.jpg">
   
   
 
