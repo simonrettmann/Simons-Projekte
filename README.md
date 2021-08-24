@@ -48,6 +48,6 @@ Der Rest der Zeit wurde genutzt um einen Schrittmotor zu verstehen und anzusteue
 <img width="300" alt="Fritzing - Software zur Erstellung von digitalen Schaltplänen" align="right" src="https://user-images.githubusercontent.com/88385654/129033788-4786fe85-1819-4c0e-94bd-8bf5a4296798.png">
 <p>
   
-  ## <p> <h2> <a id="Stundevom24.8.21"> Stunde vom 24.8.2021 </a> <h2>
+  ## <p> <h2> <a id="Stundevom24.8.2021"> Stunde vom 24.8.2021 </a> <h2>
 Die Ansteuerung des Schrittmotors klappte zu Beginn der Stunde. Nach einiger Zeit wurde bemerkt, dass der Motor fühlbar sehr warm wurde. Nach einiger Recherche stellte sich heraus, dass der Motor auch ohne Bewegung Strom verwendet. Ein dementsprechender Sketch, als "if-Bedingungen", um den Motor von der Stromversorgung zu trennen, wenn er nicht in Verwendung ist, wurde geschrieben. 
 <p>
