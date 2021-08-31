@@ -69,4 +69,5 @@ Eine weitere Problematik die sich eröffnete war die Ansteuerung des Servo Motor
 <p>
 
   ## <p> <h2> <a id="Stundevom31.8.2021"> Stunde vom 31.8.2021 </a> <h2>
-  Zu Beginn der Stunde, wurde das bestellte Thermometer angeschlossen. 
+  Zu Beginn der Stunde, wurde das bestellte Thermometer angeschlossen. Mit der Integration einer passenden Library für das Bauteil MAX1695, konnten im seriellen Monitor Temperaturwerte abgelesen werden. Damit die Funktion getestet werden konnte, gab es einen Extremtest mit einem Teelicht. Der Test war erfolgreich und die Werte stiegen, bzw. fielen je nachdem ob das Thermometer in die Flamme gehalten wurde oder nicht. 
+ Anschließend arbeitete das Team an einem Code, der eine Temperaturbedingungen, mämlich ein Wert kleiner als 30 °C mit einer Bewegung des Steppmotors koppelte. Ziel für die nächste Stunde war es diesen Code fertigzustellen. 
