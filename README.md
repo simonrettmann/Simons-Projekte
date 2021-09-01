@@ -69,8 +69,7 @@ Nach einiger Zeit wurde bemerkt, dass der Motor fühlbar sehr warm wurde. Nach e
 Eine weitere Problematik die sich eröffnete war die Ansteuerung des Servo Motors im Hinblick auf das weitere Profjekt. Um einen Gaskocher zu regulieren erfordert es mehr als eine Umdrehung. Problematisch ist, dass der Schrittmotor nur die Information des "Weiter" oder "Zurück" kennt, jedoch nicht seine genaue Position. In irgendeiner Form wird daher eine mathematische Lösung erfordert, die den Nullpunkt des Schrittmotors als Startpunkt definiert, von welchem aus dann Befehle im oder gegen den Uhrzeigersinn gegeben werden. Wie dieses Problem konkret gelöst werden kann ist bisher unklar. 
 <p>
  <p> #### Screenshot von Fritzing
-  
-  <img width="300" height="400" alt="Ansteuerung des Schrittmotors" align="right" src="https://user-images.githubusercontent.com/88385654/131680996-f6043d89-9102-4a8f-9ab9-bbe43314acf3.png"> </p>
+  <img width="300" height="400" alt="Ansteuerung des Schrittmotors" align="left" src="https://user-images.githubusercontent.com/88385654/131680996-f6043d89-9102-4a8f-9ab9-bbe43314acf3.png"> </p>
 
 
   ## <p> <h2> <a id="Stundevom31.8.2021"> Stunde vom 31.8.2021 </a> <h2>
