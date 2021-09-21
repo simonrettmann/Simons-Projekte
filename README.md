@@ -106,6 +106,7 @@ Eine weitere Problematik die sich eröffnete war die Ansteuerung des Servo Motor
     - Das Problem, dass eine der vier Spulen des Schrittmotors nicht angesteuert wurde, sodass ein "Zucken" des Motors zwar sichtbar war, dieser sich aber nicht drehte, ergab sich durch einen Defintionsfehler in der Syntaxschreibweise der Library. Ein Komma, welches zwei Parameter trennte, wurde vergessen.
     - Des Weiteren trat das Phänomen eines schwachen Drehmoments auf. Der Motor arbeitete wie gewünscht, jedoch wurden Leerschritte gemacht, sobald Kraft auf den Motor wirkte. Beheben lies sich das Problem, indem die Einstellung der Schrittart von einem "Fullstep" auf einen "Halfstep" umgestellt wurde. Da nun in acht Zwischenschritten, statt in vier Zwischenritten pro Schritt gearbeitet wird, hat der Motor mehr Kraft und das Risiko für einen Leerschritt wird gesenkt. 
     - Die Erwärumung des Motors wurde durch eine Veränderung im Code verhindert: Dazu wurde im "main loop" eine Bedingung hinzugefügt, welche überprüft, ob der Stepper arbeitet. 
+    - Das Projekt eines arduinogesteuerten Gaskochers erfodert das Festlegen eine Startposition. Das liegt daran, dass der Gaskocher nur einen begrenzten Drehradius hat. Außerdem kennt der Schrittmotor nicht die beiden Zustände des Kochers, mämlich ob Gas fließt oder nicht. Damit dieses Problem behoben werden kann, muss ein Startpunkt definiert werden. Bei dem von uns verwendeten "move"-Befehls speicherte der Schrittmotor jedoch weder seine Startposition noch seine aktuelle Position. Lediglich die Anzahl der Schritte wurde vorgegeben. Durch einen neuen "moveTo"-Befehl, wurde diese Problematik gelöst. Nun wird sowohl der Startpunkt als auch die aktuelle Position gespeichert und die Distanz zu dem angesteuerten Ziel berechnet.
   
   
   ## <p> <h2> <a id="Stundevom14.9.2021"> Stunde vom 14.9.2021 </a> <h2>
@@ -115,4 +116,4 @@ Eine weitere Problematik die sich eröffnete war die Ansteuerung des Servo Motor
   Diese Informatikstunde musste leider ausfallen. Das Brainstorming zur Hardware wurde, wie in der letzten Stunde festgelegt, von den Gruppenteilnehmern von zu Huase aus durchgeführt. 
   
   ## <p> <h2> <a id="Stundevom21.9.2021"> Stunde vom 21.9.2021 </a> <h2>
-  
+  In dieser Stunde wurde ein Brainstorming zu den verschiedenen Ideen zur technischen Durchsetzung des Projektes durchgeführt. Zu diesem Zwecke wurde eine MindMap erstellt. 
