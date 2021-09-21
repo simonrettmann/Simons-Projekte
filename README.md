@@ -103,6 +103,9 @@ Eine weitere Problematik die sich eröffnete war die Ansteuerung des Servo Motor
   ## <p> <h2> <a id="Stundevom8.9.2021"> Stunde vom 8.9.2021 </a> <h2>
   In dieser Stunde konnten nun alle Fehlerquellen endgültig behoben werden, sodass der Code nun in seiner endgültigen From vorliegt. 
   Erklärung der auftretenden Probleme:
+    - Das Problem, dass eine der vier Spulen des Schrittmotors nicht angesteuert wurde, sodass ein "Zucken" des Motors zwar sichtbar war, dieser sich aber nicht drehte, ergab sich durch einen Defintionsfehler in der Syntaxschreibweise der Library. Ein Komma, welches zwei Parameter trennte, wurde vergessen.
+    - Des Weiteren trat das Phänomen eines schwachen Drehmoments auf. Der Motor arbeitete wie gewünscht, jedoch wurden Leerschritte gemacht, sobald Kraft auf den Motor wirkte. Beheben lies sich das Problem, indem die Einstellung der Schrittart von einem "Fullstep" auf einen "Halfstep" umgestellt wurde. Da nun in acht Zwischenschritten, statt in vier Zwischenritten pro Schritt gearbeitet wird, hat der Motor mehr Kraft und das Risiko für einen Leerschritt wird gesenkt. 
+    - Die Erwärumung des Motors wurde durch eine Veränderung im Code verhindert: Dazu wurde im "main loop" eine Bedingung hinzugefügt, welche überprüft, ob der Stepper arbeitet. 
   
   
   ## <p> <h2> <a id="Stundevom14.9.2021"> Stunde vom 14.9.2021 </a> <h2>
