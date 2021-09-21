@@ -90,16 +90,23 @@ Eine weitere Problematik die sich eröffnete war die Ansteuerung des Servo Motor
  Anschließend arbeitete das Team an einem Code, der eine Temperaturbedingungen, mämlich ein Wert kleiner als 30 °C mit einer Bewegung des Steppmotors koppelte. Ziel für die nächste Stunde war es diesen Code fertigzustellen. 
   
   ## <p> <h2> <a id="Stundevom1.9.2021"> Stunde vom 1.9.2021 </a> <h2>
-  Der in der letzten Stunde begonne Code wurde fertiggestellt. (Bild vom Code)
+  Leider gelang die Fertigstellung nicht. Bei diesem recht anspruchsvollen Code, der einen wichtigen Teilschritt für das Projekt darstellt, ergaben sich viele kleinere Probleme. Teilweise waren dies Flüchtigkeitsfehler, wie die Auslassung eines Kommas, teilweise jedoch auch schwererwiegende Probleme, die innerhalb der Stunde nicht gelöst werden konnten. 
   Außerdem wurde noch der Versuchsaufbau als Schaltplan der Ansteuerung des Schrittmotors digitalisiert und zu den Protokollen hinzugefügt. 
 
   ## <p> <h2> <a id="Stundevom7.9.2021"> Stunde vom 7.9.2021 </a> <h2>
+  Auch diese Doppelstunde am Nachmittag stand ganz im Fokus des "Debugging". Gemeinsam mit Herrn Buhl wurde nach Fehlern gesucht. Relativ frustrierend war es zu sehen, dass sich an immer neuen Stellen Probleme ergaben mit denen die Gruppe am Anfang nicht gerechnet hat. 
+  Um die Fehlerquellen besser identifizieren und zu beheben können, erfolgte ein Rückschritt. Die Codes wurden wieder voneinander getrennt und einzeln auf Fehler abgesucht. Am Ende der Stunde klappte immerhin das Ansteuerung des Schrittmotors, der aber aus noch unerfindlichen Gründen zu wenig Kraft besaß. 
   
   ## <p> <h2> <a id="Stundevom8.9.2021"> Stunde vom 8.9.2021 </a> <h2>
+  In dieser Stunde konnten nun alle Fehlerquellen endgültig behoben werden, sodass der Code nun in seiner endgültigen From vorliegt. 
+  Erklärung der auftretenden Probleme:
+  
   
   ## <p> <h2> <a id="Stundevom14.9.2021"> Stunde vom 14.9.2021 </a> <h2>
+  Diese Informatikstunde musste leider ausfallen. Nachdem der Code in der letzten Stunde fertiggestellt wurde, hat sich die Gruppe dazu entschieden an anderer Stelle das Projekt nach vorne zu bringen. Es wurde sich darauf verständigt die Woche über ein Brainstorming zur Hardware des Gaskochers zu starten. Dieses Brainstorming sollte getrennt passieren, damit mögichst viele unterschiedlichen Ideen und Ansätze bei der Besprechung in der nächsten Woche vorgetragen werden. 
   
   ## <p> <h2> <a id="Stundevom15.9.2021"> Stunde vom 15.9.2021 </a> <h2>
+  Diese Informatikstunde musste leider ausfallen. Das Brainstorming zur Hardware wurde, wie in der letzten Stunde festgelegt, von den Gruppenteilnehmern von zu Huase aus durchgeführt. 
   
   ## <p> <h2> <a id="Stundevom21.9.2021"> Stunde vom 21.9.2021 </a> <h2>
   
