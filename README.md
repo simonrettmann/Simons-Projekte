@@ -107,6 +107,74 @@ Eine weitere Problematik die sich eröffnete war die Ansteuerung des Servo Motor
     - Des Weiteren trat das Phänomen eines schwachen Drehmoments auf. Der Motor arbeitete wie gewünscht, jedoch wurden Leerschritte gemacht, sobald Kraft auf den Motor wirkte. Beheben lies sich das Problem, indem die Einstellung der Schrittart von einem "Fullstep" auf einen "Halfstep" umgestellt wurde. Da nun in acht Zwischenschritten, statt in vier Zwischenritten pro Schritt gearbeitet wird, hat der Motor mehr Kraft und das Risiko für einen Leerschritt wird gesenkt. 
     - Die Erwärumung des Motors wurde durch eine Veränderung im Code verhindert: Dazu wurde im "main loop" eine Bedingung hinzugefügt, welche überprüft, ob der Stepper arbeitet. 
     - Das Projekt eines arduinogesteuerten Gaskochers erfodert das Festlegen eine Startposition. Das liegt daran, dass der Gaskocher nur einen begrenzten Drehradius hat. Außerdem kennt der Schrittmotor nicht die beiden Zustände des Kochers, mämlich ob Gas fließt oder nicht. Damit dieses Problem behoben werden kann, muss ein Startpunkt definiert werden. Bei dem von uns verwendeten "move"-Befehls speicherte der Schrittmotor jedoch weder seine Startposition noch seine aktuelle Position. Lediglich die Anzahl der Schritte wurde vorgegeben. Durch einen neuen "moveTo"-Befehl, wurde diese Problematik gelöst. Nun wird sowohl der Startpunkt als auch die aktuelle Position gespeichert und die Distanz zu dem angesteuerten Ziel berechnet.
+    
+<details> 
+    <summary>Arduino Code </summary>
+    <p>  #include <AccelStepper.h>
+#include "max6675.h"
+
+int soPin = 4;
+int csPin = 5;
+int sckPin = 6;
+
+float Temp;
+int durchlaeufe;
+
+int KnopfPin = 2;
+bool Knopfzustand;
+ 
+#define HALFSTEP 8
+ 
+#define motorPin1 9
+#define motorPin2 10
+#define motorPin3 11
+#define motorPin4 12
+
+AccelStepper stepper1(HALFSTEP, motorPin1, motorPin3, motorPin2, motorPin4);
+
+MAX6675 thermo(sckPin, csPin, soPin);
+ 
+void setup()
+{
+  pinMode(KnopfPin, INPUT);
+  Knopfzustand = digitalRead(KnopfPin);
+  
+  Serial.begin(9600);
+  Serial.println("Start der Auslese");
+  delay(1000);
+  
+  stepper1.setCurrentPosition(0);
+  stepper1.setMaxSpeed(1000.0);
+  stepper1.setAcceleration(1000.0);
+  stepper1.setSpeed(1000);
+} 
+ 
+void loop()
+{
+  Knopfzustand = digitalRead(KnopfPin);
+  Serial.println(Knopfzustand);
+  
+  float Temp = thermo.readCelsius();
+  Serial.print("Temperatur in C =");
+  Serial.println(Temp);
+
+delay(300);
+
+   if(Knopfzustand == 1) {
+    stepper1.move(500);
+    stepper1.runToPosition();
+    stepper1.disableOutputs();
+   }
+         
+ if(thermo.readCelsius() >= 50){
+  stepper1.moveTo(0);
+  stepper1.runToPosition();
+  stepper1.disableOutputs();
+  }
+}
+        </p>
+    </details>
+        
   
   
   ## <p> <h2> <a id="Stundevom14.9.2021"> Stunde vom 14.9.2021 </a> <h2>
