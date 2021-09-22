@@ -111,7 +111,7 @@ Eine weitere Problematik die sich eröffnete war die Ansteuerung des Servo Motor
 <details> 
     <summary>Arduino Code </summary>
  
-```c
+```arduino
 #include <AccelStepper.h>
 #include "max6675.h"
 
