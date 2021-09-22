@@ -118,6 +118,6 @@ Eine weitere Problematik die sich eröffnete war die Ansteuerung des Servo Motor
   ## <p> <h2> <a id="Stundevom21.9.2021"> Stunde vom 21.9.2021 </a> <h2>
   In dieser Stunde wurde ein Brainstorming zu den verschiedenen Ideen zur technischen Durchsetzung des Projektes durchgeführt. Zu diesem Zwecke wurde eine MindMap erstellt. 
     
-    #### MindMap zum arduinogesteuerten Gaskocher
+ <h4> MindMap zum arduinogesteuerten Gaskocher <h4>
     
 <img alt="MindMap zum arduinogesteurten Gaskocher" src="https://user-images.githubusercontent.com/88385654/134305302-452749e7-4f58-47c1-a756-30710829a415.jpeg">
