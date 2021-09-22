@@ -120,4 +120,5 @@ Eine weitere Problematik die sich eröffnete war die Ansteuerung des Servo Motor
     
  <h4> MindMap zum arduinogesteuerten Gaskocher <h4>
     
-<img alt="MindMap zum arduinogesteurten Gaskocher" src="https://user-images.githubusercontent.com/88385654/134305302-452749e7-4f58-47c1-a756-30710829a415.jpeg">
+<img alt="MindMap zum arduinogesteurten Gaskocher" src="https://user-images.githubusercontent.com/88385654/134305833-4a90c295-e816-4e00-a15e-3394e86445d0.png">
+
