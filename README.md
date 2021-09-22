@@ -109,6 +109,7 @@ Eine weitere Problematik die sich eröffnete war die Ansteuerung des Servo Motor
     - Das Projekt eines arduinogesteuerten Gaskochers erfodert das Festlegen eine Startposition. Das liegt daran, dass der Gaskocher nur einen begrenzten Drehradius hat. Außerdem kennt der Schrittmotor nicht die beiden Zustände des Kochers, mämlich ob Gas fließt oder nicht. Damit dieses Problem behoben werden kann, muss ein Startpunkt definiert werden. Bei dem von uns verwendeten "move"-Befehls speicherte der Schrittmotor jedoch weder seine Startposition noch seine aktuelle Position. Lediglich die Anzahl der Schritte wurde vorgegeben. Durch einen neuen "moveTo"-Befehl, wurde diese Problematik gelöst. Nun wird sowohl der Startpunkt als auch die aktuelle Position gespeichert und die Distanz zu dem angesteuerten Ziel berechnet.
     
 <details>
+    <summary> Arduino Code <summary>
     
 ```c
 #include <AccelStepper.h>
@@ -175,7 +176,7 @@ delay(300);
 }
     
 ```
-    </details>
+
     
         
   ## <p> <h2> <a id="Stundevom14.9.2021"> Stunde vom 14.9.2021 </a> <h2>
