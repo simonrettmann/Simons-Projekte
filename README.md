@@ -111,6 +111,7 @@ Eine weitere Problematik die sich eröffnete war die Ansteuerung des Servo Motor
 <details> 
     <summary>Arduino Code </summary>
     <p> 
+```
 #include <AccelStepper.h>
 #include "max6675.h"
 
@@ -172,7 +173,8 @@ delay(300);
   stepper1.runToPosition();
   stepper1.disableOutputs();
   }
-}```
+}
+ ```
     </p>
     </details>
         
