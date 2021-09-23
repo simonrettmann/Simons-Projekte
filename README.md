@@ -69,7 +69,7 @@ void loop() {
     delay(500);                             //Verzögerung von 500ms
 
 }
-    ```c
+    ```
     </details>
     
 ## <p> <h2> <a id="Stundevom10.8.2021"> Stunde vom 10.8.2021 </a> <h2>
