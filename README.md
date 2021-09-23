@@ -194,9 +194,12 @@ Nach einiger Zeit wurde bemerkt, dass der Motor fühlbar sehr warm wurde. Nach e
 Eine weitere Problematik die sich eröffnete war die Ansteuerung des Servo Motors im Hinblick auf das weitere Profjekt. Um einen Gaskocher zu regulieren erfordert es mehr als eine Umdrehung. Problematisch ist, dass der Schrittmotor nur die Information des "Weiter" oder "Zurück" kennt, jedoch nicht seine genaue Position. In irgendeiner Form wird daher eine mathematische Lösung erfordert, die den Nullpunkt des Schrittmotors als Startpunkt definiert, von welchem aus dann Befehle im oder gegen den Uhrzeigersinn gegeben werden. Wie dieses Problem konkret gelöst werden kann ist bisher unklar. 
 </p>
   
- #### <h4> Screenshot von Fritzing <h4>
+ <details>
+     <summary>Screenshot von Fritzing</summary>
+     
   <img width="300" height="400" alt="Ansteuerung des Schrittmotors" align="left" src="https://user-images.githubusercontent.com/88385654/131680996-f6043d89-9102-4a8f-9ab9-bbe43314acf3.png">
 
+</details>
 
   ## <p> <h2> <a id="Stundevom31.8.2021"> Stunde vom 31.8.2021 </a> <h2>
   Zu Beginn der Stunde, wurde das bestellte Thermometer angeschlossen. Die Gruppe entschied sich für ein auf Amazon erhätliches Thermometer, das für extrem hohe Temperaturen geeignet ist. Die Wahl fiel auf das "MAX6675". Link von Amazon: https://www.amazon.de/ANGEEK-MAX6675-thermocouple-Temperature-arduino/dp/B07X41RG6K/ref=sr_1_2_sspa?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=max6675&qid=1630502970&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUE3WkxHNEVaR0RIODUmZW5jcnlwdGVkSWQ9QTAzODIyOTMxVUI3TVFJTVk4VzNZJmVuY3J5cHRlZEFkSWQ9QTA2ODY3NDQxUTUxRVNaSlU2QTdSJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ== 
@@ -291,8 +294,6 @@ delay(300);
 ```
 </details>
 
-    
-        
   ## <p> <h2> <a id="Stundevom14.9.2021"> Stunde vom 14.9.2021 </a> <h2>
   Diese Informatikstunde musste leider ausfallen. Nachdem der Code in der letzten Stunde fertiggestellt wurde, hat sich die Gruppe dazu entschieden an anderer Stelle das Projekt nach vorne zu bringen. Es wurde sich darauf verständigt die Woche über ein Brainstorming zur Hardware des Gaskochers zu starten. Dieses Brainstorming sollte getrennt passieren, damit mögichst viele unterschiedlichen Ideen und Ansätze bei der Besprechung in der nächsten Woche vorgetragen werden. 
   
@@ -302,7 +303,9 @@ delay(300);
   ## <p> <h2> <a id="Stundevom21.9.2021"> Stunde vom 21.9.2021 </a> <h2>
   In dieser Stunde wurde ein Brainstorming zu den verschiedenen Ideen zur technischen Durchsetzung des Projektes durchgeführt. Zu diesem Zwecke wurde eine MindMap erstellt. 
     
- <h4> MindMap zum arduinogesteuerten Gaskocher <h4>
+ <details>
+     <summary>MindMap zum arduinogesteuerten Gaskocher</summary>
     
 <img alt="MindMap zum arduinogesteurten Gaskocher" src="https://user-images.githubusercontent.com/88385654/134305833-4a90c295-e816-4e00-a15e-3394e86445d0.png">
 
+    </details>
