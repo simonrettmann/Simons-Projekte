@@ -43,15 +43,35 @@ Bei der leuchtenden Lampe handelt es sich um eine weiße Leuchtdiode, die durch 
 
 ### <h3> Bildergalerie <h3>
   
-#### Programmcode für eine blinkende Leuchtdiode
-<img width="270" height="200" alt="Code einer blinkenden Lampe" align="left" src="https://user-images.githubusercontent.com/88385654/129033945-c0ebdcd1-c9e8-44f9-93c0-e8eba41e3662.png">
-
 #### Steckplan für eine blinkende Leuchtdiode
 <img width="270" height="200" alt="Steckplan für eine blinkende Lampe" align="left" src="https://user-images.githubusercontent.com/88385654/129034053-222223fa-71a5-4461-b734-7e1efb53467b.png">
  
 #### Bild des Versuchsaufbaus mit eingeschalteter Leuchtdiode
 <img width="270" height="200" alt="Bild einer blinkenden Lampe" align="left" src="https://user-images.githubusercontent.com/88385654/128383828-eeb82b61-0753-48aa-b36b-35d966454e42.jpg"> 
-  
+    
+<details>
+    <summary>Arduino Code</summary>
+```c
+    
+//Programm                                  //Kommentare
+
+int LEDweiss = 7;                           //Definiert die Variable LEDweiss als 7
+
+void setup() {
+
+ pinMode(LEDweiss, OUTPUT);                 //Definiert Pin7 als Output
+}
+
+void loop() {
+  digitalWrite(LEDweiss, HIGH);             //setzt Pin7 auf 5 Volt
+    delay(500);                             //Verzögerung 500ms
+  digitalWrite(LEDweiss, LOW);              //setzt Pin7 auf 0 Volt
+    delay(500);                             //Verzögerung von 500ms
+
+}
+    ```c
+    </details>
+    
 ## <p> <h2> <a id="Stundevom10.8.2021"> Stunde vom 10.8.2021 </a> <h2>
 In dieser Doppelstunde wurden die ersten Arduinocodes auf dem Weg zum Projekt geschrieben. Fokussiert wurde sich auf die Temperaturmessung und anschließende Steuerung einer Leuchtdiode. Besonders bei diesem Teilschritt war die Abhängigkeit von zwei nötigen Bedingungen für das leuchten der Lampe: Das Thermometer musste einen höheren Wert als 30 °C messen und zusätzlich musste der Knopf gedrückt werden. 
 
