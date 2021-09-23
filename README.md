@@ -42,7 +42,7 @@ Diese Informatikstunde startete mit der genaueren Planung und Aufgabenverteilung
 Bei der leuchtenden Lampe handelt es sich um eine weiße Leuchtdiode, die durch den Arduino gesteuert wird. Die Lampe ist jeweils eine Sekunde an und anschließend ausgeschaltet. Um eine Zerstörung der Diode zu verhindern, wurde ein Widerstand in den Kreislauf gebaut. 
 
 <details>
-    <summary><h3> Bildergalerie <h3></summary>
+    <summary>Bildergalerie</summary>
   
 #### Steckplan für eine blinkende Leuchtdiode
 <img width="270" height="200" alt="Steckplan für eine blinkende Lampe" align="left" src="https://user-images.githubusercontent.com/88385654/129034053-222223fa-71a5-4461-b734-7e1efb53467b.png">
