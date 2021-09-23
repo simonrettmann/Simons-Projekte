@@ -182,10 +182,11 @@ Der Rest der Zeit wurde genutzt um einen Schrittmotor zu verstehen und anzusteue
   </p> 
     
 <details>
- #### <h4> Screenshot von Fritzing <h4>
+    <summary>Screenshot von Fritzing<summary>
+        
 <img width="300" alt="Fritzing - Software zur Erstellung von digitalen Schaltplänen" align="left" src="https://user-images.githubusercontent.com/88385654/129033788-4786fe85-1819-4c0e-94bd-8bf5a4296798.png">
 
-    </details>
+</details>
     
   ## <p> <h2> <a id="Stundevom24.8.2021"> Stunde vom 24.8.2021 </a> <h2>
 Die Ansteuerung des Schrittmotors klappte zu Beginn der Stunde. Mit einer passenden Library gelang es den Schrittmotor in verschiedenen Geschwindigkeiten sich um 360° zu drehen und anschließend in die andere Richtung zu drehen, bis der Startpunkt wieder erreicht wurde. 
