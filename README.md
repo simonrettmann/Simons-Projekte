@@ -56,20 +56,20 @@ Bei der leuchtenden Lampe handelt es sich um eine weiße Leuchtdiode, die durch 
     <summary>Arduino Code</summary>
     
 ```c
-//Programm                                  //Kommentare
+//Programm
 
-int LEDweiss = 7;                           //Definiert die Variable LEDweiss als 7
+int LEDweiss = 7;
 
 void setup() {
 
- pinMode(LEDweiss, OUTPUT);                 //Definiert Pin7 als Output
+ pinMode(LEDweiss, OUTPUT);
 }
 
 void loop() {
-  digitalWrite(LEDweiss, HIGH);             //setzt Pin7 auf 5 Volt
-    delay(500);                             //Verzögerung 500ms
-  digitalWrite(LEDweiss, LOW);              //setzt Pin7 auf 0 Volt
-    delay(500);                             //Verzögerung von 500ms
+  digitalWrite(LEDweiss, HIGH);
+    delay(500);
+  digitalWrite(LEDweiss, LOW);
+    delay(500);                             
 
 }
     ```
