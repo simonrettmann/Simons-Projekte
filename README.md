@@ -175,18 +175,18 @@ else {
     
 </details>
   
-#### Code der Servosteuerung mit zwei Bedingungen
-  <img width="470" height="370" alt="Servosteuerung mit 2 Bedingungen" align="right" src="https://user-images.githubusercontent.com/88385654/130635862-4d983326-5c70-45b5-9170-a137690f4cbd.png">
-  </p>
-  
   ## <p> <h2> <a id="Stundevom11.8.2021"> Stunde vom 11.8.2021 </a> <h2>
-Obwohl diese Informatikstunde leider aufallen musste, wurde diese dennoch genutz, um das Projetk nach vorne zu bringen. Um die Schaltpläne übersichtlicher darzustellen entschied sich das Team die Software "Fritzing" für die Erstelung digitaler Schaltpläne zu kaufen. "Fritzing" ermöglicht die Erstellung auf den Arduino zugeschnitte Schaltplanerstellung und hat viele Teile zu Verfügung. Die Einarbeitung in dieses Programm begann und die Schaltung der blinkenden Lampe und der Servoschaltung wurden digitalisiert.
+Obwohl diese Informatikstunde leider aufallen musste, wurde diese dennoch genutz, um das Projetk nach vorne zu bringen. Um die Schaltpläne übersichtlicher darzustellen entschied sich das Team die Software "Fritzing" für die Erstelung digitaler Schaltpläne zu kaufen. "Fritzing" ermöglicht die Erstellung auf den Arduino zugeschnitte Schaltplanerstellung und hat viele Teile zu Verfügung. Link zu der Website von "Fritzing": https://fritzing.org/
+Die Einarbeitung in dieses Programm begann und die Schaltung der blinkenden Lampe und der Servoschaltung wurden digitalisiert.
 Der Rest der Zeit wurde genutzt um einen Schrittmotor zu verstehen und anzusteuern. Für erste Programmierungsversuche reichte die Zeit leider nicht auf. Dieser nächste Schritt soll von zu Hause erreicht werden.
   </p> 
-  
+    
+<details>
  #### <h4> Screenshot von Fritzing <h4>
 <img width="300" alt="Fritzing - Software zur Erstellung von digitalen Schaltplänen" align="left" src="https://user-images.githubusercontent.com/88385654/129033788-4786fe85-1819-4c0e-94bd-8bf5a4296798.png">
-  
+
+    </details>
+    
   ## <p> <h2> <a id="Stundevom24.8.2021"> Stunde vom 24.8.2021 </a> <h2>
 Die Ansteuerung des Schrittmotors klappte zu Beginn der Stunde. Mit einer passenden Library gelang es den Schrittmotor in verschiedenen Geschwindigkeiten sich um 360° zu drehen und anschließend in die andere Richtung zu drehen, bis der Startpunkt wieder erreicht wurde. 
 Nach einiger Zeit wurde bemerkt, dass der Motor fühlbar sehr warm wurde. Nach einiger Recherche stellte sich heraus, dass der Motor auch ohne Bewegung Strom verwendet. Ein dementsprechender Sketch, als "if-Bedingungen", um den Motor von der Stromversorgung zu trennen, wurde versucht zu schreiben. In der Zeit der Stunde gelang dies allerdings nicht. Die Lösung dieses Problems soll nun von zu Hause gelöst werden. 
