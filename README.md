@@ -79,8 +79,9 @@ Als nächsten Schritt wurde eine Servosteuerung programmiert. Auch die Rotation 
     
 <details>
     <summary>Code einer Lampe mit zwei Bedingungen</summary>
+  
+```c
     
-    ```c
 int Knopfzustand;
 int LEDpin = A1;
 int ntc_pin = A0;
@@ -119,9 +120,9 @@ Serial.println (Knopfzustand);Monitor ein
 else {
       analogWrite(LEDpin, 0);
       delay(30);
-    ```
+```
     
-    </details>
+</details>
     
  #### Code einer Lampe mit zwei Bedingungen
   
