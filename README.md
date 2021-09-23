@@ -180,12 +180,11 @@ Obwohl diese Informatikstunde leider aufallen musste, wurde diese dennoch genutz
 Die Einarbeitung in dieses Programm begann und die Schaltung der blinkenden Lampe und der Servoschaltung wurden digitalisiert.
 Der Rest der Zeit wurde genutzt um einen Schrittmotor zu verstehen und anzusteuern. Für erste Programmierungsversuche reichte die Zeit leider nicht auf. Dieser nächste Schritt soll von zu Hause erreicht werden.
   </p> 
-    
+
 <details>
     <summary>Screenshot von Fritzing<summary>
         
 <img width="300" alt="Fritzing - Software zur Erstellung von digitalen Schaltplänen" align="left" src="https://user-images.githubusercontent.com/88385654/129033788-4786fe85-1819-4c0e-94bd-8bf5a4296798.png">
-
 </details>
     
   ## <p> <h2> <a id="Stundevom24.8.2021"> Stunde vom 24.8.2021 </a> <h2>
