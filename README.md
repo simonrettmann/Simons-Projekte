@@ -314,10 +314,11 @@ delay(300);
     </details>
     </p>
     
-## <p> <h2> <a id="Stundevom22.9.2021"> Stunde vom 22.9.2021 </a> <h2>
+    ## <p> <h2> <a id="Stundevom22.9.2021"> Stunde vom 22.9.2021 </a> <h2>
     
-    In dieser Unterichtseinheit widmete sich die Gruppe einem erneurten Konzept zu der Dokumentation auf Git hub. Die Gruppe entschied sich für das Layout die Codes und auch die Bilder als aufklappbare Module zu gestalten. Dies gelingt mit den Codes (<details>;<summary>...</summary>;</details>). Außerdem werden, durch die Angabe der Programmiersprache "c", die Arduino Codes automatisch eingefärbt. Zusätzlich wurde auch ein Gaskocher als Herzstück für die praktische Umsetzung bestellt.
-    Link von Amazon zum Kocher: https://www.amazon.de/gp/product/B085ZJJ2Q5/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
+In dieser Unterichtseinheit widmete sich die Gruppe einem erneurten Konzept zu der Dokumentation auf Git hub. Die Gruppe entschied sich für das Layout die Codes und auch die Bilder als aufklappbare Module zu gestalten. Dies gelingt mit den Codes (<details>;<summary>...</summary>;</details>). Außerdem werden, durch die Angabe der Programmiersprache "c", die Arduino Codes automatisch eingefärbt. Zusätzlich wurde auch ein Gaskocher als Herzstück für die praktische Umsetzung bestellt.
+Link von Amazon zum Kocher: https://www.amazon.de/gp/product/B085ZJJ2Q5/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
 Die Gruppe entschied sich nach einem alten Kochtopf, der bereits im Besitz ist, zu suchen. 
+    
     </p>
     
