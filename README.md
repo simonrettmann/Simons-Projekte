@@ -123,10 +123,6 @@ else {
 ```
     
 </details>
-    
- #### Code einer Lampe mit zwei Bedingungen
-  
-  <img width="500" heigt="400" alt="Code Lampe mit 2 Bedingungen" align="left" src="https://user-images.githubusercontent.com/88385654/130635486-6a00e8b1-9567-4570-9895-76ba36357181.png">
   
 #### Code der Servosteuerung mit zwei Bedingungen
   <img width="470" height="370" alt="Servosteuerung mit 2 Bedingungen" align="right" src="https://user-images.githubusercontent.com/88385654/130635862-4d983326-5c70-45b5-9170-a137690f4cbd.png">
