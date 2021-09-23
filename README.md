@@ -55,8 +55,6 @@ Bei der leuchtenden Lampe handelt es sich um eine weiße Leuchtdiode, die durch 
     <summary>Arduino Code</summary>
     
 ```c
-//Programm
-
 int LEDweiss = 7;
 
 void setup() {
@@ -69,9 +67,9 @@ void loop() {
     delay(500);
   digitalWrite(LEDweiss, LOW);
     delay(500);                             
-
 }
-    ```
+ ```
+    
 </details>
     
 ## <p> <h2> <a id="Stundevom10.8.2021"> Stunde vom 10.8.2021 </a> <h2>
