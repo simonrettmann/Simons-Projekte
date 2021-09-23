@@ -123,6 +123,57 @@ else {
 ```
     
 </details>
+    
+<details>
+    <summary>Code der Servosteuerung mit zwei Bedingungen</summary>
+    
+```c
+    #include <Servo.h>
+
+int Knopfzustand;
+Servo myServo;
+int ntc_pin = A0;                                                               
+float R1 = 10000;                                                               
+
+float temp_c;
+
+void setup() {
+  Serial.begin(9600);
+  pinMode(2, INPUT);
+  myServo.attach (3);
+ 
+}
+
+void loop() {
+// kopiert von: https://www.aeq-web.com/arduino-measure-temperature-with-ntc-resistor/
+  float ain = analogRead(ntc_pin);
+  float R2 = R1 * (1023.0 / (float)ain - 1.0);
+  float lgr = log(R2);
+  float tmp = (1.0 / (1.009249522e-03 + 2.378405444e-04 * lgr + 2.019202697e-07 * lgr * lgr * lgr));
+  temp_c = tmp - 273.15;
+//ende Kopie  
+
+  Serial.print("Temperature: ");
+  Serial.print(temp_c);
+  Serial.println(" C");
+  delay(100);
+
+Knopfzustand = digitalRead(2);
+
+Serial.println (Knopfzustand);
+  if (temp_c > 30.00 && Knopfzustand ==1) 
+  {
+    myServo.write(178);                                                        
+      delay(1000);
+  }
+else {
+      myServo.write(2);
+      delay(1000);
+      }
+}
+```
+    
+</details>
   
 #### Code der Servosteuerung mit zwei Bedingungen
   <img width="470" height="370" alt="Servosteuerung mit 2 Bedingungen" align="right" src="https://user-images.githubusercontent.com/88385654/130635862-4d983326-5c70-45b5-9170-a137690f4cbd.png">
