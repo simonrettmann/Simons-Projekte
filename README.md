@@ -51,8 +51,8 @@ Bei der leuchtenden Lampe handelt es sich um eine weiße Leuchtdiode, die durch 
     
 <details>
     <summary>Arduino Code</summary>
-```c
     
+```c
 //Programm                                  //Kommentare
 
 int LEDweiss = 7;                           //Definiert die Variable LEDweiss als 7
