@@ -22,14 +22,15 @@ David Borgmann, Simon Rettmann
 
 <a href="#Stundevom7.9.2021"> 8. Stunde vom 7.9.2021 </a>
 
-<a href="#Stundevom8.9.2021"> 9. Stunde vom 8.9.2021 <a/>
+<a href="#Stundevom8.9.2021"> 9. Stunde vom 8.9.2021 </a>
 
-<a href="#Stundevom14.9.2021"> 10. Stunde vom 14.9.2021 <a/>
+<a href="#Stundevom14.9.2021"> 10. Stunde vom 14.9.2021 </a>
 
-<a href="#Stundevom15.9.2021"> 11. Stunde vom 15.9.2021 <a/>
+<a href="#Stundevom15.9.2021"> 11. Stunde vom 15.9.2021 </a>
   
-<a href="#Stundevom21.9.2021"> 12. Stunde vom 21.9.2021<a/>
- 
+<a href="#Stundevom21.9.2021"> 12. Stunde vom 21.9.2021</a>
+
+<a href="#Stundevom22.9.2021"> 13. Stunde vom 22.9.2021</a>
 
 
 ## <p> <h2> <a id="Stundevom3.8.2021"> Stunde vom 3.8.2021 </a> </h2>
@@ -296,11 +297,13 @@ delay(300);
 
   ## <p> <h2> <a id="Stundevom14.9.2021"> Stunde vom 14.9.2021 </a> <h2>
   Diese Informatikstunde musste leider ausfallen. Nachdem der Code in der letzten Stunde fertiggestellt wurde, hat sich die Gruppe dazu entschieden an anderer Stelle das Projekt nach vorne zu bringen. Es wurde sich darauf verständigt die Woche über ein Brainstorming zur Hardware des Gaskochers zu starten. Dieses Brainstorming sollte getrennt passieren, damit mögichst viele unterschiedlichen Ideen und Ansätze bei der Besprechung in der nächsten Woche vorgetragen werden. 
-  
+    </p>
+    
   ## <p> <h2> <a id="Stundevom15.9.2021"> Stunde vom 15.9.2021 </a> <h2>
   Diese Informatikstunde musste leider ausfallen. Das Brainstorming zur Hardware wurde, wie in der letzten Stunde festgelegt, von den Gruppenteilnehmern von zu Huase aus durchgeführt. 
-  
-  ## <p> <h2> <a id="Stundevom21.9.2021"> Stunde vom 21.9.2021 </a> <h2>
+    </p>
+    
+## <p> <h2> <a id="Stundevom21.9.2021"> Stunde vom 21.9.2021 </a> <h2>
   In dieser Stunde wurde ein Brainstorming zu den verschiedenen Ideen zur technischen Durchsetzung des Projektes durchgeführt. Zu diesem Zwecke wurde eine MindMap erstellt. 
     
  <details>
@@ -309,12 +312,12 @@ delay(300);
 <img alt="MindMap zum arduinogesteurten Gaskocher" src="https://user-images.githubusercontent.com/88385654/134305833-4a90c295-e816-4e00-a15e-3394e86445d0.png">
 
     </details>
+    </p>
     
-    ## <p> <h2> <a id="Stundevom22.9.2021"> Stunde vom 22.9.2021 </a> <h2>
+## <p> <h2> <a id="Stundevom22.9.2021"> Stunde vom 22.9.2021 </a> <h2>
     
     In dieser Unterichtseinheit widmete sich die Gruppe einem erneurten Konzept zu der Dokumentation auf Git hub. Die Gruppe entschied sich für das Layout die Codes und auch die Bilder als aufklappbare Module zu gestalten. Dies gelingt mit den Codes (<details>;<summary>...</summary>;</details>). Außerdem werden, durch die Angabe der Programmiersprache "c", die Arduino Codes automatisch eingefärbt. Zusätzlich wurde auch ein Gaskocher als Herzstück für die praktische Umsetzung bestellt.
     Link von Amazon zum Kocher: https://www.amazon.de/gp/product/B085ZJJ2Q5/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
 Die Gruppe entschied sich nach einem alten Kochtopf, der bereits im Besitz ist, zu suchen. 
-    
-    
+    </p>
     
