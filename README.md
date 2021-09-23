@@ -79,7 +79,55 @@ Als nächsten Schritt wurde eine Servosteuerung programmiert. Auch die Rotation 
   
 
 ### <p> <h3> Bildergalerie </h3>
+    
+<details>
+    <summary>Code einer Lampe mit zwei Bedingungen</summary>
+    
+    ```c
+    
+    //Programm
+
+int Knopfzustand;
+int LEDpin = A1;
+int ntc_pin = A0;
+float R1 = 10000;
+
+float temp_c;
+
+void setup() {
+  Serial.begin(9600);
+  pinMode(2, INPUT);
+}
+
+void loop() {
+// kopiert von: https://www.aeq-web.com/arduino-measure-temperature-with-ntc-resistor/ 
+  float ain = analogRead(ntc_pin);                                                                          
+  float R2 = R1 * (1023.0 / (float)ain - 1.0);
+  float lgr = log(R2);
+  float tmp = (1.0 / (1.009249522e-03 + 2.378405444e-04 * lgr + 2.019202697e-07 * lgr * lgr * lgr));
+  temp_c = tmp - 273.15;
   
+//ende Kopie  
+
+  Serial.print("Temperature: ");
+  Serial.print(temp_c);
+  Serial.println(" C"); 
+  delay(100);
+
+Knopfzustand = digitalRead(2);
+
+Serial.println (Knopfzustand);Monitor ein                                                                      
+  if (temp_c > 30.00 && Knopfzustand ==1)                                                                
+  {
+    analogWrite(LEDpin, 255);
+      delay(30);
+  }
+else {
+      analogWrite(LEDpin, 0);
+      delay(30);
+    ```
+    
+    </details>
  #### Code einer Lampe mit zwei Bedingungen
   
   <img width="500" heigt="400" alt="Code Lampe mit 2 Bedingungen" align="left" src="https://user-images.githubusercontent.com/88385654/130635486-6a00e8b1-9567-4570-9895-76ba36357181.png">
