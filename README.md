@@ -321,3 +321,27 @@ Link von Amazon zum Kocher: https://www.amazon.de/gp/product/B085ZJJ2Q5/ref=ppx_
 Für die Hausaufgabe entschied sich die Gruppe nach einem alten Kochtopf, der bereits im Besitz ist, zu suchen. 
     
 </p>
+    
+## <p> <h2> <a id="Stundevom28.9.2021"> Stunde vom 28.9.2021 </a> <h2>
+ 
+    Das Thema der Informatikstunde war die Ansteuerung eines Rotary Encoders, um in Hinblick auf das Gesamtprojekt über einen Eingaberegler eine einstellbare Gradzahl zu erhalten. 
+
+<details>
+    <summary>Arduino Code</summary>
+    
+    ```c
+    
+    
+</details>
+    
+Des Weiteren wurde der bestellte Gaskocher begutachtet und auf seine Funktion geprüft. 
+    
+<details>
+    <summary>Bilder des Gaskochers</summary>
+    
+    <img alt="Gaskocher" src=https://user-images.githubusercontent.com/88385654/135102210-1ae633c2-4d40-4c06-969e-4b87265e4c0a.jpeg
+    <img alt="zündender Gaskocher" src=https://user-images.githubusercontent.com/88385654/135102281-da073c62-8bce-4344-8e4c-2852d3b0658a.jpeg
+![image](https://user-images.githubusercontent.com/88385654/135102245-8d134890-a42c-4488-806d-178076c5ecbc.jpeg)
+![image](https://user-images.githubusercontent.com/88385654/135102335-6fd78250-aa52-4efd-b277-b89b34263296.jpeg)
+
+</details>
