@@ -32,6 +32,7 @@ David Borgmann, Simon Rettmann
 
 <a href="#Stundevom22.9.2021"> 13. Stunde vom 22.9.2021</a>
 
+<a href="#Stundevom28.9.2021"> 14. Stunde vom 28.9.2021</a>
 
 ## <p> <h2> <a id="Stundevom3.8.2021"> Stunde vom 3.8.2021 </a> </h2>
 In dieser ersten Informatikstunde des Schuljahres wurden die Erwartungen und der Ablauf des Kurses erklärt. Ein "GitHub" Account wurde angelegt und die Grundlagen gelegt. Gegen Ende der Stunde war außerdem noch Zeit vorhanden um sich bereits Gedanken über mögliche Projekte Gedanken zu machen. Allgemeiner Konsens war, dass es sich um ein arduinobasiertes "physical compuing Projekt" handeln soll. Aufgrund eines Roboterkurses waren nämlich schon kleine Mikrocontrollerkenntnisse vorhanden. Diskutierte Ideen waren ein adaptiv gesteuertet Eierkocher, ein regulierbarer und temperaturmessender Gaskocher und die Entwicklung eines Roboters, der Hindernisse wahrnimmt und auf diese reagiert. Nach Rücksprache mit Herrn Buhl wurde der regulierbare Gaskocher mit einigen Unterstufen ins Auge gefasst. Als Nachbereitung der Stunde wurden die Vorkenntnisse aufgefrischt und das bereits vorhandenen Material sortiert. Außerdem begann die Einarbeitungspahse in "GitHub". </p>
@@ -329,8 +330,6 @@ Für die Hausaufgabe entschied sich die Gruppe nach einem alten Kochtopf, der be
 <details>
     <summary>Arduino Code</summary>
     
-    ```c
-    
     
 </details>
     
@@ -339,9 +338,9 @@ Des Weiteren wurde der bestellte Gaskocher begutachtet und auf seine Funktion ge
 <details>
     <summary>Bilder des Gaskochers</summary>
     
-    <img alt="Gaskocher" src=https://user-images.githubusercontent.com/88385654/135102210-1ae633c2-4d40-4c06-969e-4b87265e4c0a.jpeg
-    <img alt="zündender Gaskocher" src=https://user-images.githubusercontent.com/88385654/135102281-da073c62-8bce-4344-8e4c-2852d3b0658a.jpeg
-![image](https://user-images.githubusercontent.com/88385654/135102245-8d134890-a42c-4488-806d-178076c5ecbc.jpeg)
-![image](https://user-images.githubusercontent.com/88385654/135102335-6fd78250-aa52-4efd-b277-b89b34263296.jpeg)
-
+    <img alt="Gaskocher" src="https://user-images.githubusercontent.com/88385654/135102210-1ae633c2-4d40-4c06-969e-4b87265e4c0a.jpeg">
+    <img alt="zündender Gaskocher" src="https://user-images.githubusercontent.com/88385654/135102281-da073c62-8bce-4344-8e4c-2852d3b0658a.jpeg">
+<img alt="1" src="https://user-images.githubusercontent.com/88385654/135102245-8d134890-a42c-4488-806d-178076c5ecbc.jpeg">
+<img alt="2" src="https://user-images.githubusercontent.com/88385654/135102335-6fd78250-aa52-4efd-b277-b89b34263296.jpeg">
+    
 </details>
