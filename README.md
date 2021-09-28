@@ -340,10 +340,10 @@ Des Weiteren wurde der bestellte Gaskocher begutachtet und auf seine Funktion ge
     
 <img alt="Gaskocher" src="https://user-images.githubusercontent.com/88385654/135102210-1ae633c2-4d40-4c06-969e-4b87265e4c0a.jpeg">
     
-<img alt="zündender Gaskocher" src="https://user-images.githubusercontent.com/88385654/135102281-da073c62-8bce-4344-8e4c-2852d3b0658a.jpeg">
+<img alt="Nahaufnahme vom Gaskocher" src="https://user-images.githubusercontent.com/88385654/135102281-da073c62-8bce-4344-8e4c-2852d3b0658a.jpeg">
     
 <img alt="zündender Gaskocher" src="https://user-images.githubusercontent.com/88385654/135102245-8d134890-a42c-4488-806d-178076c5ecbc.jpeg">
     
-<img alt="2" src="https://user-images.githubusercontent.com/88385654/135102335-6fd78250-aa52-4efd-b277-b89b34263296.jpeg">
+<img alt="Anschlussstelle für die Gasflasche" src="https://user-images.githubusercontent.com/88385654/135102335-6fd78250-aa52-4efd-b277-b89b34263296.jpeg">
     
 </details>
