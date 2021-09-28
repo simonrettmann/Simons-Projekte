@@ -325,11 +325,10 @@ Für die Hausaufgabe entschied sich die Gruppe nach einem alten Kochtopf, der be
     
 ## <p> <h2> <a id="Stundevom28.9.2021"> Stunde vom 28.9.2021 </a> <h2>
  
-    Das Thema der Informatikstunde war die Ansteuerung eines Rotary Encoders, um in Hinblick auf das Gesamtprojekt über einen Eingaberegler eine einstellbare Gradzahl zu erhalten. 
+Das Thema der Informatikstunde war die Ansteuerung eines Rotary Encoders, um in Hinblick auf das Gesamtprojekt über einen Eingaberegler eine einstellbare Gradzahl zu erhalten. 
 
 <details>
     <summary>Arduino Code</summary>
-    
     
 </details>
     
