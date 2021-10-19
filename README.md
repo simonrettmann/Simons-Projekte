@@ -380,12 +380,7 @@ void setup()
  
 void loop()
 {
-  //Knopfzustand = digitalRead(KnopfPin);
-  //Serial.println(Knopfzustand);
-  
   float Temp = thermo.readCelsius();
-  //Serial.print("Temperatur in C =");
-  //Serial.println(Temp);
 
 delay(300);      
  if(thermo.readCelsius() >= 50){
