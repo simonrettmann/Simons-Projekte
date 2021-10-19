@@ -329,7 +329,8 @@ Das Thema der Informatikstunde war die Ansteuerung eines Rotary Encoders, um in 
 
 <details>
     <summary>Arduino Code</summary>
-    #include <AccelStepper.h>
+```c
+#include <AccelStepper.h>
 #include "max6675.h"
 
 const int PinA = 2;
@@ -429,6 +430,7 @@ void isr ()  {
   
   lastInterruptTime = interruptTime;
 } 
+   
 </details>
     
 Des Weiteren wurde der bestellte Gaskocher begutachtet und auf seine Funktion geprüft. 
