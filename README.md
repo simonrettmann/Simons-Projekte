@@ -329,7 +329,106 @@ Das Thema der Informatikstunde war die Ansteuerung eines Rotary Encoders, um in 
 
 <details>
     <summary>Arduino Code</summary>
+    #include <AccelStepper.h>
+#include "max6675.h"
+
+const int PinA = 2;
+const int PinB = 3;
+const int PinSW = 8;
+
+const int soPin = 4;
+const int csPin = 5;
+const int sckPin = 6;
+
+float Temp;
+
+int lastCount = 0; 
+volatile int virtualPosition = 0; 
+
+ 
+#define HALFSTEP 8
+#define motorPin1 9
+#define motorPin2 10
+#define motorPin3 11
+#define motorPin4 12
+
+AccelStepper stepper1(HALFSTEP, motorPin1, motorPin3, motorPin2, motorPin4);
+
+MAX6675 thermo(sckPin, csPin, soPin);
+ 
+void setup()
+{
+  Serial.begin(9600);
+  delay(1000);
+  
+  stepper1.setCurrentPosition(0);
+  stepper1.setMaxSpeed(1000.0);
+  stepper1.setAcceleration(1000.0);
+  stepper1.setSpeed(1000);
+
+  pinMode(PinA, INPUT);
+  pinMode(PinB, INPUT);
+  pinMode(PinSW, INPUT_PULLUP);
+
+  attachInterrupt(digitalPinToInterrupt(PinA), isr, LOW);
+
+  Serial.println("Start");
+} 
+ 
+void loop()
+{
+  //Knopfzustand = digitalRead(KnopfPin);
+  //Serial.println(Knopfzustand);
+  
+  float Temp = thermo.readCelsius();
+  //Serial.print("Temperatur in C =");
+  //Serial.println(Temp);
+
+delay(300);      
+ if(thermo.readCelsius() >= 50){
+  stepper1.moveTo(0);
+  stepper1.runToPosition();
+  stepper1.disableOutputs();
+  }
+ 
+  if ((!digitalRead(PinSW))) {
+    stepper1.moveTo(virtualPosition);
+    Serial.print("Run to: ");
+    Serial.println(virtualPosition);
+    stepper1.runToPosition();
+    stepper1.disableOutputs();
+    while (!digitalRead(PinSW))
+      delay(10);
+    Serial.println("Run completet");
+  }
+
+  
+  if (virtualPosition != lastCount) {
     
+    Serial.print(virtualPosition > lastCount ? "Up  :" : "Down:");
+    Serial.println(virtualPosition);
+
+    lastCount = virtualPosition ;
+  }
+}
+
+void isr ()  {
+  static unsigned long lastInterruptTime = 0;
+  unsigned long interruptTime = millis();
+
+  if (interruptTime - lastInterruptTime > 5) {
+    if (digitalRead(PinB) == LOW)
+    {
+      virtualPosition-=2 ;
+    }
+    else {
+      virtualPosition+=2 ;
+    }
+
+  }
+  
+  lastInterruptTime = interruptTime;
+} 
 </details>
     
 Des Weiteren wurde der bestellte Gaskocher begutachtet und auf seine Funktion geprüft. 
