@@ -452,7 +452,7 @@ Des Weiteren wurde der bestellte Gaskocher begutachtet und auf seine Funktion ge
 
 ## <p> <h2> <a id="Stundevom29.9.2021"> Stunde vom 29.9.2021 </a> <h2>
     
-    Aufgrund einer Vorabiturklausur musste diese Informatikstunde leider ausfallen. Für die Ferien nahm sich die Gruppe vor an dem Projekt weiter zu arbeiten, damit das Projekt nach den Ferien in die finale Phase gebracht werden kann. 
+Aufgrund einer Vorabiturklausur musste diese Informatikstunde leider ausfallen. Für die Ferien nahm sich die Gruppe vor an dem Projekt weiter zu arbeiten, damit das Projekt nach den Ferien in die finale Phase gebracht werden kann. 
     
 ## <p> <h2> <a id="Stundevom19.10.2021"> Stunde vom 19.10.2021 </a> <h2>
     
