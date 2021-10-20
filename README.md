@@ -458,7 +458,7 @@ Aufgrund einer Vorabiturklausur musste diese Informatikstunde leider ausfallen. 
     
 In dieser Stunde wurde der Abgabetermin des Projektes auf den 6.12.2021 festgelegt. Aufgrund dieser Festlegung nahm sich die Gruppe Zeit einmal den bisherigen Verlauf der Arbeit zu reflektieren, den momentanen Stand zu analysieren und kommende Schritte zu planen. 
     
-### bisheriger Stand deys Projekts
+### bisheriger Stand des Projekts
     
 <b> Software </b>
 
@@ -475,3 +475,19 @@ In dieser Stunde wurde der Abgabetermin des Projektes auf den 6.12.2021 festgele
       <li>Für die Hardware wurde bereits einen Gasbrenner mit passender Gasflasche organisiert. </li>
 </ul)
 
+### noch zu erledigende Arbeitsschritte
+    
+<b> Software </b>
+    
+<ul>
+    <li>Eine Umrechnung von dem eingestellten Wert beim "rotary Encoder" in eine Temperatur in ° C und eine Umrechnung von dieser Temperatur in eine prozentuale Öffnung der Gasflasche bzw. eine Anzahl von Schritten, die der Schrittmotor gehen soll. Um dieses Prinzip zu vereinfachen wird eine Differenz zwischen der eingestellten und gemessenen Temperatur gebildet. Anhand dieser Differenz wird anschließend berechnet wie stark die Gasflasche geöffnet werden soll</li>
+    <li>Programmierung eines einfachen LCD Displays, um die Gradanzahl anzeigen zu lassen.</li>
+</ul>
+
+<b> Hardware </b>
+    
+<ul>
+    <li>Es muss ein 3-D gedrucktes Verbindungsstück von Schrittmotor zu Gasregler des Brenners designt werden</li>
+    <li>Es muss eine geeignete Vorrichtung, auf der der Arduino platziert werden kann, gebaut werden.</li>
+    <li>Es muss ein Topf, in den das Thermometer eingearbeitet werden.</li>
+</ul>
