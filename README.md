@@ -458,15 +458,14 @@ Aufgrund einer Vorabiturklausur musste diese Informatikstunde leider ausfallen. 
     
 In dieser Stunde wurde der Abgabetermin des Projektes auf den 6.12.2021 festgelegt. Aufgrund dieser Festlegung nahm sich die Gruppe Zeit einmal den bisherigen Verlauf der Arbeit zu reflektieren, den momentanen Stand zu analysieren und kommende Schritte zu planen. 
     
-### <p> bisheriger Stand deys Projekts
+### bisheriger Stand deys Projekts
     
 <b> Software </b>
 
 <ul>
-    
-    <li> Ein "rotary Encoder" kann eingestellt werden und mit Hilfe einer "interrupt-Funktion", können diese eingestellten Werte ausgegeben werden. Dieser soll beim fertigen Projekt die Funktion einer einstellbaren Temperatur übernehmen. </li>
-    <li>Dieser eingestellte Wert, kann als Schrittanzahl an einen Schrittmotor weitergeleitet werden. Dieser Motor läuft die Anzahl der eingestellten Schritte ab und soll beim fertigen Produkt den Gasfluss regulieren</li>
-    <li>Die Werte eines Thermoters könenn gelesen werden</li>
+    <li>Ein "rotary Encoder" kann eingestellt werden und mit Hilfe einer "interrupt-Funktion", können diese eingestellten Werte ausgegeben werden. Dieser soll beim fertigen Projekt die Funktion einer einstellbaren Temperatur übernehmen.</li>
+    <li>Dieser eingestellte Wert, kann als Schrittanzahl an einen Schrittmotor weitergeleitet werden. Dieser Motor läuft die Anzahl der eingestellten Schritte ab und soll beim fertigen Produkt den Gasfluss regulieren.</li>
+    <li>Die Werte eines Thermoters könenn gelesen werden.</li>
 </ul>
     
 <b> Hardware </b>
@@ -474,6 +473,5 @@ In dieser Stunde wurde der Abgabetermin des Projektes auf den 6.12.2021 festgele
 <ul>
       <li>Ein für das Projekt passendes, für besonders hohe Temperaturen geeignetes Thermoter, wurde angeschafft.</li>
       <li>Für die Hardware wurde bereits einen Gasbrenner mit passender Gasflasche organisiert. </li>
-   
- </ul)
-    </p>
+</ul)
+
