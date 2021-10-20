@@ -462,6 +462,8 @@ In dieser Stunde wurde der Abgabetermin des Projektes auf den 6.12.2021 festgele
     
 ### -bisheriger Stand des Projekts
     
+<details>
+    <summary> bisheriger Stand des Projekts </summary>
 <b>Software</b>
 
 <ul>
@@ -476,8 +478,13 @@ In dieser Stunde wurde der Abgabetermin des Projektes auf den 6.12.2021 festgele
       <li>Ein für das Projekt passendes, für besonders hohe Temperaturen geeignetes Thermoter, wurde angeschafft.</li>
       <li>Für die Hardware wurde bereits einen Gasbrenner mit passender Gasflasche organisiert. </li>  
 </ul>
-   
+
+</details>
+    
 ### -noch zu erledigende Arbeitsschritte
+    
+<details>
+    <summary> noch zu erledigende Arbeitsschritte </summary>
 
 <b>Software</b>
     
@@ -494,6 +501,8 @@ In dieser Stunde wurde der Abgabetermin des Projektes auf den 6.12.2021 festgele
     <li>Es muss ein Topf, in den das Thermometer eingearbeitet werden.</li> 
 </ul>
 
+</details>
+    
 Nachdem diese Übersicht erstellt worden war, arbeitete die Gruppe an dem Problem der Umrechnung von eingestelltem Wert in eine Steuerung des Gasflusses. Dazu wurden folgende Berechnungen angestellt:
     "Berechnungen"
  Außerdem wurde an der Software weitergearbeitet.
