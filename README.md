@@ -460,8 +460,6 @@ Aufgrund einer Vorabiturklausur musste diese Informatikstunde leider ausfallen. 
     
 In dieser Stunde wurde der Abgabetermin des Projektes auf den 6.12.2021 festgelegt. Aufgrund dieser Festlegung nahm sich die Gruppe Zeit einmal den bisherigen Verlauf der Arbeit zu reflektieren, den momentanen Stand zu analysieren und kommende Schritte zu planen. 
     
-### -bisheriger Stand des Projekts
-    
 <details>
     <summary> bisheriger Stand des Projekts </summary>
 <b>Software</b>
@@ -480,8 +478,6 @@ In dieser Stunde wurde der Abgabetermin des Projektes auf den 6.12.2021 festgele
 </ul>
 
 </details>
-    
-### -noch zu erledigende Arbeitsschritte
     
 <details>
     <summary> noch zu erledigende Arbeitsschritte </summary>
