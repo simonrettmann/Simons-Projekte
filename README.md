@@ -458,7 +458,7 @@ Aufgrund einer Vorabiturklausur musste diese Informatikstunde leider ausfallen. 
     
 In dieser Stunde wurde der Abgabetermin des Projektes auf den 6.12.2021 festgelegt. Aufgrund dieser Festlegung nahm sich die Gruppe Zeit einmal den bisherigen Verlauf der Arbeit zu reflektieren, den momentanen Stand zu analysieren und kommende Schritte zu planen. 
     
-### bisheriger Stand des Projekts
+### -bisheriger Stand des Projekts
     
 <b>Software</b>
 
@@ -475,7 +475,7 @@ In dieser Stunde wurde der Abgabetermin des Projektes auf den 6.12.2021 festgele
       <li>Für die Hardware wurde bereits einen Gasbrenner mit passender Gasflasche organisiert. </li>  
 </ul>
    
-### noch zu erledigende Arbeitsschritte
+### -noch zu erledigende Arbeitsschritte
 
 <b>Software</b>
     
@@ -491,3 +491,12 @@ In dieser Stunde wurde der Abgabetermin des Projektes auf den 6.12.2021 festgele
     <li>Es muss eine geeignete Vorrichtung, auf der der Arduino platziert werden kann, gebaut werden.</li>
     <li>Es muss ein Topf, in den das Thermometer eingearbeitet werden.</li> 
 </ul>
+
+Nachdem diese Übersicht erstellt worden war, arbeitete die Gruppe an dem Problem der Umrechnung von eingestelltem Wert in eine Steuerung des Gasflusses. Dazu wurden folgende Berechnungen angestellt:
+    <<<<<Berechnungen>>>>>>
+ Außerdem wurde an der Software weitergearbeitet.
+    
+ ## <p> <h2> <a id="Stundevom20.10.2021"> Stunde vom 20.10.2021 </a> <h2>
+    
+    In dieser Stunde wurde arbeitsteilig vorgegangen. Während weiter an der Software programmiert wurde, beschäftigte sich ein Teil der Gruppe auch mit der technischen Umsetzung des Verbindungsstückes von Schrittmotor zu Gasflasche. Dafür wurde die Software "FreeCAD" installiert. Link zu "FreeCAD": https://www.freecadweb.org/downloads.php 
+Die Einarbeitung in dieses Programm begann, damit in naher Zukunft erste 3-D Modelle und Probedrucke entstehen können, um Software und Hardware, miteinander fusioniert, testen zu können. 
