@@ -458,9 +458,9 @@ Aufgrund einer Vorabiturklausur musste diese Informatikstunde leider ausfallen. 
     
 In dieser Stunde wurde der Abgabetermin des Projektes auf den 6.12.2021 festgelegt. Aufgrund dieser Festlegung nahm sich die Gruppe Zeit einmal den bisherigen Verlauf der Arbeit zu reflektieren, den momentanen Stand zu analysieren und kommende Schritte zu planen. 
     
-##bisheriger Stand des Projekts
+## bisheriger Stand des Projekts
     
-<b> Software </b>
+<b>Software</b>
 
 <ul>
     <li>Ein "rotary Encoder" kann eingestellt werden und mit Hilfe einer "interrupt-Funktion", können diese eingestellten Werte ausgegeben werden. Dieser soll beim fertigen Projekt die Funktion einer einstellbaren Temperatur übernehmen.</li>
@@ -468,8 +468,8 @@ In dieser Stunde wurde der Abgabetermin des Projektes auf den 6.12.2021 festgele
     <li>Die Werte eines Thermoters könenn gelesen werden.</li>
 </ul>
     
-<b> Hardware </b>
-
+<b>Hardware</b>
+    
 <ul>
       <li>Ein für das Projekt passendes, für besonders hohe Temperaturen geeignetes Thermoter, wurde angeschafft.</li>
       <li>Für die Hardware wurde bereits einen Gasbrenner mit passender Gasflasche organisiert. </li>  
@@ -477,7 +477,7 @@ In dieser Stunde wurde der Abgabetermin des Projektes auf den 6.12.2021 festgele
    
 ## noch zu erledigende Arbeitsschritte
     
-<b> Software </b>
+<b>Software</b>
     
 <ul>
     <li>Eine Umrechnung von dem eingestellten Wert beim "rotary Encoder" in eine Temperatur in ° C und eine Umrechnung von dieser Temperatur in eine prozentuale Öffnung der Gasflasche bzw. eine Anzahl von Schritten, die der Schrittmotor gehen soll. Um dieses Prinzip zu vereinfachen wird eine Differenz zwischen der eingestellten und gemessenen Temperatur gebildet. Anhand dieser Differenz wird anschließend berechnet wie stark die Gasflasche geöffnet werden soll</li>
