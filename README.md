@@ -456,4 +456,5 @@ Aufgrund einer Vorabiturklausur musste diese Informatikstunde leider ausfallen. 
     
 ## <p> <h2> <a id="Stundevom19.10.2021"> Stunde vom 19.10.2021 </a> <h2>
     
+In dieser Stunde wurde der Abgabetermin des Projektes auf den 6.12.2021 festgelegt. 
     
