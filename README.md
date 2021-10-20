@@ -458,9 +458,9 @@ Aufgrund einer Vorabiturklausur musste diese Informatikstunde leider ausfallen. 
     
 In dieser Stunde wurde der Abgabetermin des Projektes auf den 6.12.2021 festgelegt. Aufgrund dieser Festlegung nahm sich die Gruppe Zeit einmal den bisherigen Verlauf der Arbeit zu reflektieren, den momentanen Stand zu analysieren und kommende Schritte zu planen. 
     
-### bisheriger Stand deys Projekts
-
-<b> Software <b>
+### <p> bisheriger Stand deys Projekts
+    
+<b> Software </b>
 
 <ul>
     
@@ -469,11 +469,11 @@ In dieser Stunde wurde der Abgabetermin des Projektes auf den 6.12.2021 festgele
     <li>Die Werte eines Thermoters könenn gelesen werden</li>
 </ul>
     
-<b> Hardware <b>
+<b> Hardware </b>
 
 <ul>
       <li>Ein für das Projekt passendes, für besonders hohe Temperaturen geeignetes Thermoter, wurde angeschafft.</li>
       <li>Für die Hardware wurde bereits einen Gasbrenner mit passender Gasflasche organisiert. </li>
    
  </ul)
-    
+    </p>
