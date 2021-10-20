@@ -466,7 +466,7 @@ In dieser Stunde wurde der Abgabetermin des Projektes auf den 6.12.2021 festgele
     <li>Ein "rotary Encoder" kann eingestellt werden und mit Hilfe einer "interrupt-Funktion", können diese eingestellten Werte ausgegeben werden. Dieser soll beim fertigen Projekt die Funktion einer einstellbaren Temperatur übernehmen.</li>
     <li>Dieser eingestellte Wert, kann als Schrittanzahl an einen Schrittmotor weitergeleitet werden. Dieser Motor läuft die Anzahl der eingestellten Schritte ab und soll beim fertigen Produkt den Gasfluss regulieren.</li>
     <li>Die Werte eines Thermoters könenn gelesen werden.</li>
-</ul>
+
     
 <b> Hardware </b>
 
@@ -474,9 +474,7 @@ In dieser Stunde wurde der Abgabetermin des Projektes auf den 6.12.2021 festgele
       <li>Ein für das Projekt passendes, für besonders hohe Temperaturen geeignetes Thermoter, wurde angeschafft.</li>
       <li>Für die Hardware wurde bereits einen Gasbrenner mit passender Gasflasche organisiert. </li>
 </ul)
-
-    
-    
+   
 ### noch zu erledigende Arbeitsschritte
     
 <b> Software </b>
