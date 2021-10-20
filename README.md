@@ -456,5 +456,13 @@ Aufgrund einer Vorabiturklausur musste diese Informatikstunde leider ausfallen. 
     
 ## <p> <h2> <a id="Stundevom19.10.2021"> Stunde vom 19.10.2021 </a> <h2>
     
-In dieser Stunde wurde der Abgabetermin des Projektes auf den 6.12.2021 festgelegt. 
+In dieser Stunde wurde der Abgabetermin des Projektes auf den 6.12.2021 festgelegt. Aufgrund dieser Festlegung nahm sich die Gruppe Zeit einmal den bisherigen Verlauf der Arbeit zu reflektieren, den momentanen Stand zu analysieren und kommende Schritte zu planen. 
+###bisher erreichter Stand
+  <ul>
+      <li>Software, die einen rotary Encoder-Wert mit Hilfe einer "interrupt-Funktion" erkennt. Dieser soll beim fertigen Projekt die Funktion einer einstellbaren Temperatur übernehmen. </li>
+      <li>Außerdem kann die Software den eingestellten Wert in Schritten an einen angesteuerten Schrittmotor weiterleiten. Der Schrittmotor folgt der Bewegung des rotary Encoders. </li>
+      <li>ein für das Projekt angeschafftes Thermometer kann ausgelesen werden. </li>
+      <li>Für die Hardware haben wir bereits einen Gasbrenner mit passender Gasflasche. </li>
+      
+ </ul)
     
