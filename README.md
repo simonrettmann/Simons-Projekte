@@ -473,7 +473,7 @@ In dieser Stunde wurde der Abgabetermin des Projektes auf den 6.12.2021 festgele
 <ul>
       <li>Ein für das Projekt passendes, für besonders hohe Temperaturen geeignetes Thermoter, wurde angeschafft.</li>
       <li>Für die Hardware wurde bereits einen Gasbrenner mit passender Gasflasche organisiert. </li>  
-</ul)
+</ul>
    
 ### noch zu erledigende Arbeitsschritte
 
