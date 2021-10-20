@@ -480,7 +480,7 @@ In dieser Stunde wurde der Abgabetermin des Projektes auf den 6.12.2021 festgele
 <b>Software</b>
     
 <ul>
-    <li>Eine Umrechnung von dem eingestellten Wert beim "rotary Encoder" in eine Temperatur in ° C und eine Umrechnung von dieser Temperatur in eine prozentuale Öffnung der Gasflasche bzw. eine Anzahl von Schritten, die der Schrittmotor gehen soll. Um dieses Prinzip zu vereinfachen wird eine Differenz zwischen der eingestellten und gemessenen Temperatur gebildet. Anhand dieser Differenz wird anschließend berechnet wie stark die Gasflasche geöffnet werden soll</li>
+    <li>Eine Umrechnung von dem eingestellten Wert beim "rotary Encoder" in eine Temperatur in ° C und eine Umrechnung von dieser Temperatur in eine prozentuale Öffnung der Gasflasche bzw. eine Anzahl von Schritten, die der Schrittmotor gehen soll. Um dieses Prinzip zu vereinfachen wird eine Differenz zwischen der eingestellten und gemessenen Temperatur gebildet. Anhand dieser Differenz wird anschließend berechnet wie stark die Gasflasche geöffnet werden soll.</li>
     <li>Programmierung eines einfachen LCD Displays, um die Gradanzahl anzeigen zu lassen.</li> 
 </ul>
     
