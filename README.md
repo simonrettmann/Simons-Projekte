@@ -454,7 +454,7 @@ Des Weiteren wurde der bestellte Gaskocher begutachtet und auf seine Funktion ge
     
 Aufgrund einer Vorabiturklausur musste diese Informatikstunde leider ausfallen. Für die Ferien nahm sich die Gruppe vor an dem Projekt weiter zu arbeiten, damit das Projekt nach den Ferien in die finale Phase gebracht werden kann. 
     
-## <p> <h2> <a id="Stundevom19.10.2021"> Stunde vom 19.10.2021 </a> <h2>
+## <h2> <a id="Stundevom19.10.2021"> Stunde vom 19.10.2021 </a> <h2>
     
 In dieser Stunde wurde der Abgabetermin des Projektes auf den 6.12.2021 festgelegt. Aufgrund dieser Festlegung nahm sich die Gruppe Zeit einmal den bisherigen Verlauf der Arbeit zu reflektieren, den momentanen Stand zu analysieren und kommende Schritte zu planen. 
     
