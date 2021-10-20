@@ -475,6 +475,8 @@ In dieser Stunde wurde der Abgabetermin des Projektes auf den 6.12.2021 festgele
       <li>Für die Hardware wurde bereits einen Gasbrenner mit passender Gasflasche organisiert. </li>
 </ul)
 
+    
+    
 ### noch zu erledigende Arbeitsschritte
     
 <b> Software </b>
