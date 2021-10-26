@@ -515,6 +515,8 @@ Von Zuhause wurden erste 3-D Modelle erstellt und mit Hilfe der Software Cura, w
     
 <details>
     <summary>Bildergalerie</summary>
+    
+<b>Arbeitsoberfläche von Tinker CAD</b>
 <img alt="Arbeitsoberfläche TinkerCAD" src="https://user-images.githubusercontent.com/88385654/138922421-797a0145-09c3-492d-af3f-21c22fe34ce3.PNG">
     
 
