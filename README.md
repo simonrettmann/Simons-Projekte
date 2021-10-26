@@ -528,10 +528,20 @@ Von Zuhause wurden erste 3-D Modelle erstellt und mit Hilfe der Software Cura, w
 
 ## <p> <h2> <a id="Stundevom26.10.2021"> Stunde vom 26.10.2021 </a> <h2>
   
-Ziel dieser Doppelstunde war die Analyse des bisherigen 3-D Modells. Einige Maße, zum Beispiel der Durchmesser des Loches für den Gasregler, fielen zu klein aus. Nach erneuter Vermessung mit einer Schieblehre wurden zwei verschiedene Designs erstellt. Diese sollten zu Hause gedruckt werden und Grundlage für die Arbeit in der nächsten Stunde sein. Außerdem war die Befestigung von Schrittmotor, Arduino und Gasflasche ein Thema, da der Schrittmotor so befestigt sein muss, dass dieser sich nicht mitdreht. Durch die glatte und abgerundete Oberfläche der Gasflasche und der Zuleitung des Gaskochers gestaltete sich diese Frage als schwierig. Über die zusätzliche Erstellung von weiteren 3-D Drucken wurde gesprochen. 
+Ziel dieser Doppelstunde war die Analyse des bisherigen 3-D Modells. Einige Maße, zum Beispiel der Durchmesser des Loches für den Gasregler, fielen zu klein aus. Des Weiteren fiel auf, dass die mit dem Schrittmotor verbundene Platte eine freie Drehung verhindert und daher als gesondertes Teil designt werden muss. Nach erneuter Vermessung mit einer Schieblehre wurden zwei verschiedene Designs erstellt. Diese sollten zu Hause gedruckt werden und Grundlage für die Arbeit in der nächsten Stunde sein. Außerdem war die Befestigung von Schrittmotor, Arduino und Gasflasche ein Thema, da der Schrittmotor so befestigt sein muss, dass dieser sich nicht mitdreht. Durch die glatte und abgerundete Oberfläche der Gasflasche und der Zuleitung des Gaskochers gestaltete sich diese Frage als schwierig. Über die zusätzliche Erstellung von weiteren 3-D Drucken wurde gesprochen. 
     
 <details>
     <summary>Screenshots der 3-D Modelle</summary>
     
-<b>Testkörper #2</b>
-    
+<b>Testkörper #2a</b>
+<img alt="Testkörper #2a von der Seite" src="https://user-images.githubusercontent.com/88385654/138924908-7050cb53-8365-42f8-9390-4ead4f05cb67.PNG"
+<img alt="Testkörper #2a von unten" src="https://user-images.githubusercontent.com/88385654/138924970-f345f043-6bc3-4c6c-a1a5-a9c1dca53208.PNG"
+<img alt="Testkörper #2a durchichtig" src="https://user-images.githubusercontent.com/88385654/138925059-03278e96-ff99-4742-84f5-2e5742e0dd57.PNG"
+
+<b>Testkörper #2b</b>
+<img alt="Testkörper #2b von der Seite" src="https://user-images.githubusercontent.com/88385654/138925638-66a30600-2254-4d1a-ba06-c520c1020753.png">
+<img alt="Testkörper #2b von unten" src="https://user-images.githubusercontent.com/88385654/138925685-33fc2834-a1cf-4624-8eed-b5633e9a9a4b.png">
+<img alt="Testkörper #2b durchsichtig" src="https://user-images.githubusercontent.com/88385654/138925747-90a1d41d-6b1c-4655-a728-e38205859cad.png">
+<img alt="Testkörper #2b durchsichtig" src="https://user-images.githubusercontent.com/88385654/138925765-0f321573-1e3b-460e-b747-c63c4d1051b9.png">
+
+</details>
