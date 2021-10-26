@@ -40,6 +40,8 @@ David Borgmann, Simon Rettmann
 
 <a href="#Stundevom20.10.2021"> 17. Stunde vom 20.10.2021 </a>
 
+<a href="#Stundevom26.10.2021"> 18. Stunde vom 26.10.2021 </a>
+
 ## <p> <h2> <a id="Stundevom3.8.2021"> Stunde vom 3.8.2021 </a> </h2>
 In dieser ersten Informatikstunde des Schuljahres wurden die Erwartungen und der Ablauf des Kurses erklärt. Ein "GitHub" Account wurde angelegt und die Grundlagen gelegt. Gegen Ende der Stunde war außerdem noch Zeit vorhanden um sich bereits Gedanken über mögliche Projekte Gedanken zu machen. Allgemeiner Konsens war, dass es sich um ein arduinobasiertes "physical compuing Projekt" handeln soll. Aufgrund eines Roboterkurses waren nämlich schon kleine Mikrocontrollerkenntnisse vorhanden. Diskutierte Ideen waren ein adaptiv gesteuertet Eierkocher, ein regulierbarer und temperaturmessender Gaskocher und die Entwicklung eines Roboters, der Hindernisse wahrnimmt und auf diese reagiert. Nach Rücksprache mit Herrn Buhl wurde der regulierbare Gaskocher mit einigen Unterstufen ins Auge gefasst. Als Nachbereitung der Stunde wurden die Vorkenntnisse aufgefrischt und das bereits vorhandenen Material sortiert. Außerdem begann die Einarbeitungspahse in "GitHub". </p>
 
@@ -507,5 +509,13 @@ Nachdem diese Übersicht erstellt worden war, arbeitete die Gruppe an dem Proble
     
  ## <p> <h2> <a id="Stundevom20.10.2021"> Stunde vom 20.10.2021 </a> <h2>
     
-In dieser Stunde wurde arbeitsteilig vorgegangen. Während weiter an der Software programmiert wurde, beschäftigte sich ein Teil der Gruppe auch mit der technischen Umsetzung des Verbindungsstückes von Schrittmotor zu Gasflasche. Dafür wurde die Software "FreeCAD" installiert. Link zu "FreeCAD": https://www.freecadweb.org/downloads.php 
-Die Einarbeitung in dieses Programm begann, damit in naher Zukunft erste 3-D Modelle und Probedrucke entstehen können, um Software und Hardware, miteinander fusioniert, testen zu können. </p>
+In dieser Stunde wurde arbeitsteilig vorgegangen. Während weiter an der Software programmiert wurde, beschäftigte sich ein Teil der Gruppe auch mit der technischen Umsetzung des Verbindungsstückes von Schrittmotor zu Gasflasche. Dafür wurde die Software "TinkerCAD" installiert. Link zu "TinkerCAD": https://www.tinkercad.com/
+Die Einarbeitung in dieses Programm begann, damit in naher Zukunft erste 3-D Modelle und Probedrucke entstehen können, um Software und Hardware, miteinander fusioniert, testen zu können. 
+Von Zuhause wurden erste 3-D Modelle erstellt und mit Hilfe der Software Cura, wurde dieses Modell als G-Code exportiert und gedruckt. </p>
+
+## <p> <h2> <a id="Stundevom26.10.2021"> Stunde vom 26.10.2021 </a> <h2>
+  
+Ziel dieser Doppelstunde war die Analyse des bisherigen 3-D Modells. Einige Maße, zum Beispiel der Durchmesser des Loches für den Gasregler, fielen zu klein aus. Nach erneuter Vermessung mit einer Schieblehre wurden zwei verschiedene Designs erstellt. Diese sollten zu Hause gedruckt werden und Grundlage für die Arbeit in der nächsten Stunde sein. Außerdem war die Befestigung von Schrittmotor, Arduino und Gasflasche ein Thema, da der Schrittmotor so befestigt sein muss, dass dieser sich nicht mitdreht. Durch die glatte und abgerundete Oberfläche der Gasflasche und der Zuleitung des Gaskochers gestaltete sich diese Frage als schwierig. Über die zusätzliche Erstellung von weiteren 3-D Drucken wurde gesprochen. 
+    
+<details>
+    <summary>Screenshots der 3-D Modelle</summary>
