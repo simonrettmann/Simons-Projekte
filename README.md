@@ -534,9 +534,9 @@ Ziel dieser Doppelstunde war die Analyse des bisherigen 3-D Modells. Einige Maß
     <summary>Screenshots der 3-D Modelle</summary>
     
 <b>Testkörper #2a</b>
-<img alt="Testkörper #2a von der Seite" src="https://user-images.githubusercontent.com/88385654/138924908-7050cb53-8365-42f8-9390-4ead4f05cb67.PNG"
-<img alt="Testkörper #2a von unten" src="https://user-images.githubusercontent.com/88385654/138924970-f345f043-6bc3-4c6c-a1a5-a9c1dca53208.PNG"
-<img alt="Testkörper #2a durchichtig" src="https://user-images.githubusercontent.com/88385654/138925059-03278e96-ff99-4742-84f5-2e5742e0dd57.PNG"
+<img alt="Testkörper #2a von der Seite" src="https://user-images.githubusercontent.com/88385654/138924908-7050cb53-8365-42f8-9390-4ead4f05cb67.PNG">
+<img alt="Testkörper #2a von unten" src="https://user-images.githubusercontent.com/88385654/138924970-f345f043-6bc3-4c6c-a1a5-a9c1dca53208.PNG">
+<img alt="Testkörper #2a durchichtig" src="https://user-images.githubusercontent.com/88385654/138925059-03278e96-ff99-4742-84f5-2e5742e0dd57.PNG">
 
 <b>Testkörper #2b</b>
 <img alt="Testkörper #2b von der Seite" src="https://user-images.githubusercontent.com/88385654/138925638-66a30600-2254-4d1a-ba06-c520c1020753.png">
