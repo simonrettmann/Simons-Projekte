@@ -54,10 +54,10 @@ Bei der leuchtenden Lampe handelt es sich um eine weiße Leuchtdiode, die durch 
     <summary>Bildergalerie</summary>
   
 #### Steckplan für eine blinkende Leuchtdiode
-<img width="270" height="200" alt="Steckplan für eine blinkende Lampe" align="left" src="https://user-images.githubusercontent.com/88385654/129034053-222223fa-71a5-4461-b734-7e1efb53467b.png">
+<img alt="Steckplan für eine blinkende Lampe" src="https://user-images.githubusercontent.com/88385654/129034053-222223fa-71a5-4461-b734-7e1efb53467b.png">
  
 #### Bild des Versuchsaufbaus mit eingeschalteter Leuchtdiode
-<img width="270" height="200" alt="Bild einer blinkenden Lampe" align="left" src="https://user-images.githubusercontent.com/88385654/128383828-eeb82b61-0753-48aa-b36b-35d966454e42.jpg"> 
+<img alt="Bild einer blinkenden Lampe" src="https://user-images.githubusercontent.com/88385654/128383828-eeb82b61-0753-48aa-b36b-35d966454e42.jpg"> 
 </details>
 
     
@@ -194,7 +194,7 @@ Der Rest der Zeit wurde genutzt um einen Schrittmotor zu verstehen und anzusteue
 <details>
     <summary>Screenshot von Fritzing</summary>
         
-<img width="300" alt="Screenshot von Fritzing" align="left" src="https://user-images.githubusercontent.com/88385654/129033788-4786fe85-1819-4c0e-94bd-8bf5a4296798.png">
+<img alt="Screenshot von Fritzing" src="https://user-images.githubusercontent.com/88385654/129033788-4786fe85-1819-4c0e-94bd-8bf5a4296798.png">
  
 </details>
     
@@ -207,7 +207,7 @@ Eine weitere Problematik die sich eröffnete war die Ansteuerung des Servo Motor
  <details>
      <summary>Screenshot von Fritzing</summary>
      
-  <img width="300" height="400" alt="Ansteuerung des Schrittmotors" align="left" src="https://user-images.githubusercontent.com/88385654/131680996-f6043d89-9102-4a8f-9ab9-bbe43314acf3.png">
+  <img alt="Ansteuerung des Schrittmotors" src="https://user-images.githubusercontent.com/88385654/131680996-f6043d89-9102-4a8f-9ab9-bbe43314acf3.png">
 
 </details>
 
@@ -219,11 +219,11 @@ Eine weitere Problematik die sich eröffnete war die Ansteuerung des Servo Motor
   
   ## <p> <h2> <a id="Stundevom1.9.2021"> Stunde vom 1.9.2021 </a> <h2>
   Leider gelang die Fertigstellung nicht. Bei diesem recht anspruchsvollen Code, der einen wichtigen Teilschritt für das Projekt darstellt, ergaben sich viele kleinere Probleme. Teilweise waren dies Flüchtigkeitsfehler, wie die Auslassung eines Kommas, teilweise jedoch auch schwererwiegende Probleme, die innerhalb der Stunde nicht gelöst werden konnten. 
-  Außerdem wurde noch der Versuchsaufbau als Schaltplan der Ansteuerung des Schrittmotors digitalisiert und zu den Protokollen hinzugefügt. </p>
+  Außerdem wurde noch der Versuchsaufbau als Schaltplan der Ansteuerung des Schrittmotors digitalisiert und zu den Protokollen hinzugefügt.</p>
 
   ## <p> <h2> <a id="Stundevom7.9.2021"> Stunde vom 7.9.2021 </a> <h2>
   Auch diese Doppelstunde am Nachmittag stand ganz im Fokus des "Debugging". Gemeinsam mit Herrn Buhl wurde nach Fehlern gesucht. Relativ frustrierend war es zu sehen, dass sich an immer neuen Stellen Probleme ergaben mit denen die Gruppe am Anfang nicht gerechnet hat. 
-  Um die Fehlerquellen besser identifizieren und zu beheben können, erfolgte ein Rückschritt. Die Codes wurden wieder voneinander getrennt und einzeln auf Fehler abgesucht. Am Ende der Stunde klappte immerhin das Ansteuerung des Schrittmotors, der aber aus noch unerfindlichen Gründen zu wenig Kraft besaß. </p>
+  Um die Fehlerquellen besser identifizieren und zu beheben können, erfolgte ein Rückschritt. Die Codes wurden wieder voneinander getrennt und einzeln auf Fehler abgesucht. Am Ende der Stunde klappte immerhin das Ansteuerung des Schrittmotors, der aber aus noch unerfindlichen Gründen zu wenig Kraft besaß.</p>
   
   ## <p> <h2> <a id="Stundevom8.9.2021"> Stunde vom 8.9.2021 </a> <h2>
   In dieser Stunde konnten nun alle Fehlerquellen endgültig behoben werden, sodass der Code nun in seiner endgültigen From vorliegt. 
