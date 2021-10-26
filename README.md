@@ -511,7 +511,14 @@ Nachdem diese Übersicht erstellt worden war, arbeitete die Gruppe an dem Proble
     
 In dieser Stunde wurde arbeitsteilig vorgegangen. Während weiter an der Software programmiert wurde, beschäftigte sich ein Teil der Gruppe auch mit der technischen Umsetzung des Verbindungsstückes von Schrittmotor zu Gasflasche. Dafür wurde die Software "TinkerCAD" installiert. Link zu "TinkerCAD": https://www.tinkercad.com/
 Die Einarbeitung in dieses Programm begann, damit in naher Zukunft erste 3-D Modelle und Probedrucke entstehen können, um Software und Hardware, miteinander fusioniert, testen zu können. 
-Von Zuhause wurden erste 3-D Modelle erstellt und mit Hilfe der Software Cura, wurde dieses Modell als G-Code exportiert und gedruckt. </p>
+Von Zuhause wurden erste 3-D Modelle erstellt und mit Hilfe der Software Cura, wurde dieses Modell als G-Code exportiert und gedruckt.</p>
+    
+<details>
+    <summary>Bildergalerie</summary>
+<img alt="Arbeitsoberfläche TinkerCAD" src="https://user-images.githubusercontent.com/88385654/138922421-797a0145-09c3-492d-af3f-21c22fe34ce3.PNG">
+    
+
+
 
 ## <p> <h2> <a id="Stundevom26.10.2021"> Stunde vom 26.10.2021 </a> <h2>
   
@@ -519,3 +526,6 @@ Ziel dieser Doppelstunde war die Analyse des bisherigen 3-D Modells. Einige Maß
     
 <details>
     <summary>Screenshots der 3-D Modelle</summary>
+    
+<b>Testkörper #2</b>
+    
