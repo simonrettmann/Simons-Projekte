@@ -53,10 +53,10 @@ Bei der leuchtenden Lampe handelt es sich um eine weiße Leuchtdiode, die durch 
 <details>
     <summary>Bildergalerie</summary>
   
-#### Steckplan für eine blinkende Leuchtdiode
+<b>Steckplan für eine blinkende Leuchtdiode</b>
 <img alt="Steckplan für eine blinkende Lampe" src="https://user-images.githubusercontent.com/88385654/129034053-222223fa-71a5-4461-b734-7e1efb53467b.png">
  
-#### Bild des Versuchsaufbaus mit eingeschalteter Leuchtdiode
+<b>Bild des Versuchsaufbaus mit eingeschalteter Leuchtdiode</b>
 <img alt="Bild einer blinkenden Lampe" src="https://user-images.githubusercontent.com/88385654/128383828-eeb82b61-0753-48aa-b36b-35d966454e42.jpg"> 
 </details>
 
@@ -193,7 +193,7 @@ Der Rest der Zeit wurde genutzt um einen Schrittmotor zu verstehen und anzusteue
 
 <details>
     <summary>Screenshot von Fritzing</summary>
-        
+<b>Screenshot von Fritzing</b>       
 <img alt="Screenshot von Fritzing" src="https://user-images.githubusercontent.com/88385654/129033788-4786fe85-1819-4c0e-94bd-8bf5a4296798.png">
  
 </details>
@@ -206,7 +206,7 @@ Eine weitere Problematik die sich eröffnete war die Ansteuerung des Servo Motor
   
  <details>
      <summary>Screenshot von Fritzing</summary>
-     
+ <b>Screenshot von Fritzing</b>
   <img alt="Ansteuerung des Schrittmotors" src="https://user-images.githubusercontent.com/88385654/131680996-f6043d89-9102-4a8f-9ab9-bbe43314acf3.png">
 
 </details>
@@ -445,7 +445,7 @@ Des Weiteren wurde der bestellte Gaskocher begutachtet und auf seine Funktion ge
     
 <details>
     <summary>Bilder des Gaskochers</summary>
-    
+<b>Bilder des Gaskochers</b>   
 <img alt="Gaskocher" src="https://user-images.githubusercontent.com/88385654/135102210-1ae633c2-4d40-4c06-969e-4b87265e4c0a.jpeg">
     
 <img alt="Nahaufnahme vom Gaskocher" src="https://user-images.githubusercontent.com/88385654/135102281-da073c62-8bce-4344-8e4c-2852d3b0658a.jpeg">
