@@ -42,6 +42,8 @@ David Borgmann, Simon Rettmann
 
 <a href="#Stundevom26.10.2021"> 18. Stunde vom 26.10.2021 </a>
 
+<a href="#Stundevom27.10.2021"> 19. Stunde vom 27.10.2021 </a>
+
 ## <p> <h2> <a id="Stundevom3.8.2021"> Stunde vom 3.8.2021 </a> </h2>
 In dieser ersten Informatikstunde des Schuljahres wurden die Erwartungen und der Ablauf des Kurses erklärt. Ein "GitHub" Account wurde angelegt und die Grundlagen gelegt. Gegen Ende der Stunde war außerdem noch Zeit vorhanden um sich bereits Gedanken über mögliche Projekte Gedanken zu machen. Allgemeiner Konsens war, dass es sich um ein arduinobasiertes "physical compuing Projekt" handeln soll. Aufgrund eines Roboterkurses waren nämlich schon kleine Mikrocontrollerkenntnisse vorhanden. Diskutierte Ideen waren ein adaptiv gesteuertet Eierkocher, ein regulierbarer und temperaturmessender Gaskocher und die Entwicklung eines Roboters, der Hindernisse wahrnimmt und auf diese reagiert. Nach Rücksprache mit Herrn Buhl wurde der regulierbare Gaskocher mit einigen Unterstufen ins Auge gefasst. Als Nachbereitung der Stunde wurden die Vorkenntnisse aufgefrischt und das bereits vorhandenen Material sortiert. Außerdem begann die Einarbeitungspahse in "GitHub". </p>
 
@@ -544,4 +546,142 @@ Ziel dieser Doppelstunde war die Analyse des bisherigen 3-D Modells. Einige Maß
 <img alt="Testkörper #2b durchsichtig" src="https://user-images.githubusercontent.com/88385654/138925747-90a1d41d-6b1c-4655-a728-e38205859cad.png">
 <img alt="Testkörper #2b durchsichtig" src="https://user-images.githubusercontent.com/88385654/138925765-0f321573-1e3b-460e-b747-c63c4d1051b9.png">
 
+</details>
+
+## <p> <h2> <a id="Stundevom27.10.2021"> Stunde vom 27.10.2021 </a> <h2>
+    
+Die Software wurde in dieser Stunde weiter nach vorne gebracht. Ein Zwischenstand wurde erreicht, sodass eine eingestellte Temperatur mit einer gemessenen Temperatur ins Verhältnis gesetzt wird und sich aufgrund dieser Differenz eine prozentuale Öffnung der Gasflasche ergibt. Video zum bisherigen Versuchsstand:
+    
+<details>
+    <summary>bisheriger Code</summary>
+```c
+    
+#include <AccelStepper.h>
+#include "max6675.h"
+
+const int PinA = 2;
+const int PinB = 3; 
+const int PinSW = 8;
+
+const int soPin = 4;
+const int csPin = 5;
+const int sckPin = 6;
+
+float tatTemp;
+
+int lastCount = 0; 
+volatile int eingestellteTemp = 0; 
+float pVentil = 0;
+int stepperPosition = 0;
+float tempDifferenz;
+const float schritteproprozent = 71.68;
+
+int rotarySchrittwert = 5;
+
+
+ 
+#define HALFSTEP 8
+#define motorPin1 9
+#define motorPin2 10
+#define motorPin3 11
+#define motorPin4 12
+
+AccelStepper stepper1(HALFSTEP, motorPin1, motorPin3, motorPin2, motorPin4);
+
+MAX6675 thermo(sckPin, csPin, soPin);
+ 
+void setup()
+{
+  
+  Serial.begin(9600);
+  delay(1000);
+  
+  stepper1.setCurrentPosition(0);
+  stepper1.setMaxSpeed(1000.0);
+  stepper1.setAcceleration(1000.0);
+  stepper1.setSpeed(1000);
+
+  pinMode(PinA, INPUT);
+  pinMode(PinB, INPUT);
+
+  pinMode(PinSW, INPUT_PULLUP);
+
+  attachInterrupt(digitalPinToInterrupt(PinA), isr, LOW);
+
+  Serial.println("Start");
+
+} 
+ 
+void loop()
+{
+  
+  float tatTemp = thermo.readCelsius();
+         delay(300);
+      
+  Serial.print("Eingestellte Temperatur: ");
+  Serial.println(eingestellteTemp);
+         Serial.println(" ");
+         
+  Serial.print("Gemessene Temperatur in C: ");
+  Serial.println(tatTemp);
+         Serial.println(" ");
+         
+  Serial.print("Temperaturdifferenz:");
+  Serial.println(tempDifferenz);
+         Serial.println(" ");
+         
+  Serial.print("Ventilöffnung in Prozent: ");
+  Serial.println(pVentil);
+         Serial.println(" ");
+
+  Serial.println("------------------------------------");
+
+
+delay(100);
+  
+  // Is someone pressing the rotary switch?
+  if ((!digitalRead(PinSW))) {
+    rotarySchrittwert = 1;
+  }
+  else{
+    rotarySchrittwert = 5;
+  }
+
+  tempDifferenz = eingestellteTemp - tatTemp;
+
+  stepperPosition = pVentil * schritteproprozent;
+
+  pVentil= 100/(1+ pow(1.1, -tempDifferenz + 50)) + 1;
+  pVentil = min(100, max(0, pVentil));
+  
+  stepperPosition = min(7168, max(0, stepperPosition));
+  
+stepper1.moveTo(stepperPosition);
+stepper1.runToPosition();
+stepper1.disableOutputs();
+  
+}
+
+
+void isr ()  {
+  static unsigned long lastInterruptTime = 0;
+  unsigned long interruptTime = millis();
+
+  if (interruptTime - lastInterruptTime > 5) {
+    if (digitalRead(PinB) == LOW)
+    {
+      eingestellteTemp-= rotarySchrittwert ;
+    }
+    else {
+      eingestellteTemp+= rotarySchrittwert ;
+    }
+
+    eingestellteTemp = min(300, max(0, eingestellteTemp));
+
+  }
+  lastInterruptTime = interruptTime;
+} 
+    
+```
+    
 </details>
