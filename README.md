@@ -550,7 +550,7 @@ Ziel dieser Doppelstunde war die Analyse des bisherigen 3-D Modells. Einige Maß
 
 ## <p> <h2> <a id="Stundevom27.10.2021"> Stunde vom 27.10.2021 </a> <h2>
     
-Die Software wurde in dieser Stunde weiter nach vorne gebracht. Ein Zwischenstand wurde erreicht, sodass eine eingestellte Temperatur mit einer gemessenen Temperatur ins Verhältnis gesetzt wird und sich aufgrund dieser Differenz eine prozentuale Öffnung der Gasflasche ergibt. Video zum bisherigen Versuchsstand:
+Die Software wurde in dieser Stunde weiter nach vorne gebracht. Ein Zwischenstand wurde erreicht, sodass eine eingestellte Temperatur mit einer gemessenen Temperatur ins Verhältnis gesetzt wird und sich aufgrund dieser Differenz eine prozentuale Öffnung der Gasflasche ergibt. Damit wurde ein wichtiger Meilenstein erreicht. Video zum bisherigen Versuchsstand:
 Für die Zukunft steht noch die Programmierung eines LCD-Displays an. Zusammen mit den 3-D Modullen ist das Projekt nun aber bereits so weit, dass das Projekt als ganzes getestet werden kann. 
     
 <details>
