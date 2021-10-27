@@ -554,6 +554,7 @@ Die Software wurde in dieser Stunde weiter nach vorne gebracht. Ein Zwischenstan
     
 <details>
     <summary>bisheriger Code</summary>
+    
 ```c
     
 #include <AccelStepper.h>
