@@ -696,6 +696,6 @@ void isr ()  {
     
 Zu Beginn der Stunde wurde der in der letzten Stunde erreichte Erfolg Herrn Buhl präsentiert. Anschließend wurde das Ziel ein LCD-Display, dass die eingestellten Temperaturen anzeigt, zu programmieren. Die Einarbeitung in die Programmierung eines LCD-Displays begann. 
     
-## <p> <h2> <a id="Stundevom2.11.2021"> Stunde vom 2.11.2021 </a> <h2>
+## <p> <h2> <a id="Stundevom3.11.2021"> Stunde vom 3.11.2021 </a> <h2>
     
 In dieser Stunde 
