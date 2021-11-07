@@ -702,4 +702,8 @@ Während dieser Unterrichtseinheit wurde weiter an dem LCD-Display gefeilt. Auß
 
 <details>
     <summary>Screenshot des 3-D Modells</Summary>
-##
+
+## Screenshot von der Seite <img alt="Screenshot von der Seite" src="https://user-images.githubusercontent.com/88385654/140654383-49f75fb1-e714-4139-b03c-9751df766acc.PNG">
+## Screenshot von unten <img alt="Screenshot von unten" src="https://user-images.githubusercontent.com/88385654/140654396-31ae6d5f-827a-439e-92cd-132f961bc5e8.PNG">
+## Screenshot von oben <img alt="Screenshot von oben" src="https://user-images.githubusercontent.com/88385654/140654494-065e4e97-969f-40f6-8f63-5014777acbf1.PNG">
+## transparenter Screenshot <img alt="transparenter Screenshot" src="https://user-images.githubusercontent.com/88385654/140654565-fc945d5c-20f8-4a58-8cc6-33af6fe14cd2.PNG">
