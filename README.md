@@ -698,4 +698,8 @@ Zu Beginn der Stunde wurde der in der letzten Stunde erreichte Erfolg Herrn Buhl
     
 ## <p> <h2> <a id="Stundevom3.11.2021"> Stunde vom 3.11.2021 </a> <h2>
     
-In dieser Stunde 
+Während dieser Unterrichtseinheit wurde weiter an dem LCD-Display gefeilt. Außerdem wurde an dem 3-D Modell gearbeitet und ein überarbeiteter Prototyp erstellt. 
+
+<details>
+    <summary>Screenshot des 3-D Modells</Summary>
+##
