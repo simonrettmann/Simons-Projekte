@@ -709,3 +709,12 @@ Während dieser Unterrichtseinheit wurde weiter an dem LCD-Display gefeilt. Auß
 ## transparenter Screenshot <img alt="transparenter Screenshot" src="https://user-images.githubusercontent.com/88385654/140654565-fc945d5c-20f8-4a58-8cc6-33af6fe14cd2.PNG">
 
 </details>
+
+## <p> <h2> <a id="Stundevom10.11.2021"> Stunde vom 10.11.2021 </a> <h2>
+
+Aufgabe dieser Stunde war es den programmierten Code zu kommentieren, damit er für alle auch an dem Projekt nicht beteiligten Personen leicht verständlich ist. 
+<details>
+    <summary>kommentierter Code</summary>
+    
+    
+</details>
