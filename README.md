@@ -48,6 +48,8 @@ David Borgmann, Simon Rettmann
 
 <a href="#Stundevom3.11.2021"> 21. Stunde vom 3.11.2021 </a>
 
+<a href="#Stunde vom 
+
 ## <p> <h2> <a id="Stundevom3.8.2021"> Stunde vom 3.8.2021 </a> </h2>
 In dieser ersten Informatikstunde des Schuljahres wurden die Erwartungen und der Ablauf des Kurses erklärt. Ein "GitHub" Account wurde angelegt und die Grundlagen gelegt. Gegen Ende der Stunde war außerdem noch Zeit vorhanden um sich bereits Gedanken über mögliche Projekte Gedanken zu machen. Allgemeiner Konsens war, dass es sich um ein arduinobasiertes "physical computing Projekt" handeln soll. Aufgrund eines Roboterkurses waren nämlich schon einige Mikrocontrollerkenntnisse vorhanden. Diskutierte Ideen waren ein adaptiv gesteuertet Eierkocher, ein regulierbarer und temperaturmessender Gaskocher und die Entwicklung eines Roboters, der Hindernisse wahrnimmt und auf diese reagiert. Nach Rücksprache mit Herrn Buhl wurde der regulierbare Gaskocher mit einigen Teilschritten ins Auge gefasst. Als Nachbereitung der Stunde wurden die Vorkenntnisse aufgefrischt und das bereits vorhandenen Material sortiert. Außerdem begann die Einarbeitungspahse in "GitHub". </p>
 
@@ -710,6 +712,10 @@ Während dieser Unterrichtseinheit wurde weiter an dem LCD-Display gefeilt. Auß
 
 </details>
 
+## <p> <h2> <a id="Stunde von 9.11.2021"> Stunde vom 9.11.2021 </a> <h2>
+                                        
+Aufgrund der Vorabiturklausuren, musste diese Stunde leider ausfallen. Von zu Hause wurde allerdings das in der letzten Stunde designte Modell gedruckt, um es in der Praxis testen zu können. 
+                                        
 ## <p> <h2> <a id="Stundevom10.11.2021"> Stunde vom 10.11.2021 </a> <h2>
 
 Aufgabe dieser Stunde war es den programmierten Code zu kommentieren, damit er für alle auch an dem Projekt nicht beteiligten Personen leicht verständlich ist. 
@@ -718,3 +724,11 @@ Aufgabe dieser Stunde war es den programmierten Code zu kommentieren, damit er f
     
     
 </details>
+                                       
+<details>
+   <summary>Bilder vom 3-D Modell</summary>
+
+                                       
+</details>
+                                       
+                                       
