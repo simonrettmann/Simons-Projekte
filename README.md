@@ -733,17 +733,24 @@ Aufgabe dieser Stunde war es den programmierten Code zu kommentieren, damit er f
                                        
 <details>
    <summary>Bilder vom 3-D Modell</summary>
-
-                                       
+    
+<img alt="Bild von der Seite" src="https://user-images.githubusercontent.com/88385654/142202234-e1abc1bf-2814-4591-be4a-94b3180315f9.jpeg">
+<img alt="Bild von oben" src="https://user-images.githubusercontent.com/88385654/142202274-e2d83ce0-3351-4fba-946a-7fae29b117e4.jpeg">
+<img alt="Bild von schrägoben" src="https://user-images.githubusercontent.com/88385654/142202478-73d68ed8-1be3-4f2a-a748-9a75e9050e82.jpeg">
+    
 </details>
     
 ## <p> <h2> <a id="Stundevom16.11.2021"> Stunde vom 10.11.2021 </a> <h2>
 
-In dieser Stunde wurde eine passende library für das LCD-Display installiert. Link: 
+In dieser Stunde wurde eine passende library für das LCD-Display installiert. Link: https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library
 Außerdem wurden mit dem gedruckten 3-D Modell erste Tests unter Aufsicht von Herrn Buhl durchgeführt. Nachdem der Schrittmotor teilweise nicht genug Kraft hatte, um das Ventil des Gaskochers zu öffnen, wurde die Betriebsspannung des Motors 8 Volt erhöht.
     
 ## <p> <h2> <a id="Stundevom17.11.2021"> Stunde vom 10.11.2021 </a> <h2>
 
-Ziel dieser Informatikstunde war es den Steckplan des Projekts mit Hilfe der Software "Fritzing" zu digitalisieren. Außerdem wurde ein Kochtopf bestellt und die Planung zur finalen Umsetzung begonnen. Dafür sollen alle Verbindung sicher gesteckt bzw gelötet werden. Des Weiteren soll der Rotary Encoder mit einem Knopf ausgestattet werden, damit die Bedienung erleichtert ist. 
-                                       
-                                      
+Ziel dieser Informatikstunde war es den Steckplan des Projekts mit Hilfe der Software "Fritzing" zu digitalisieren. Außerdem wurde ein Kochtopf bestellt und die Planung zur finalen Umsetzung begonnen. Link zum Kochtopf:
+Dafür sollen alle Verbindung sicher gesteckt bzw. gelötet werden und in einem Kasten versteckt und geschützt werden. Des Weiteren soll der Rotary Encoder mit einem Knopf ausgestattet werden, damit die Bedienung erleichtert ist. 
+    
+<details>
+    <summary>Screenshot von fritzing</summary>
+
+</details>
