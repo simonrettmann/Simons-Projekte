@@ -742,8 +742,9 @@ Aufgabe dieser Stunde war es den programmierten Code zu kommentieren, damit er f
     
 ## <p> <h2> <a id="Stundevom16.11.2021"> Stunde vom 10.11.2021 </a> <h2>
 
-In dieser Stunde wurde eine passende library für das LCD-Display installiert. Link: https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library
+In dieser Stunde wurde eine passende library für das LCD-Display installiert. Link zur Quelle: https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library
 Außerdem wurden mit dem gedruckten 3-D Modell erste Tests unter Aufsicht von Herrn Buhl durchgeführt. Nachdem der Schrittmotor teilweise nicht genug Kraft hatte, um das Ventil des Gaskochers zu öffnen, wurde die Betriebsspannung des Motors 8 Volt erhöht.
+Ein Video von den ersten Tests wurde von zu Hause aus aufgenommen. Link zum Video: 
     
 ## <p> <h2> <a id="Stundevom17.11.2021"> Stunde vom 10.11.2021 </a> <h2>
 
