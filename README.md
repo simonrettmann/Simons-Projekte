@@ -744,6 +744,6 @@ Außerdem wurden mit dem gedruckten 3-D Modell erste Tests unter Aufsicht von He
     
 ## <p> <h2> <a id="Stundevom17.11.2021"> Stunde vom 10.11.2021 </a> <h2>
 
-Ziel dieser Informatikstunde war es den Steckplan des Projekts mit Hilfe der Software "Fritzing" zu digitalisieren. Außerdem wurde ein Kochtopf bestellt und die Planung zur finalen Umsetzung begonnen. Dafür sollen alle Verbindung sicher gesteckt bzw gelötet werden. Des Weiteren soll das Potentiometer mit einem Knopf ausgestattet werden, damit die Bedienung erleichtert ist. 
+Ziel dieser Informatikstunde war es den Steckplan des Projekts mit Hilfe der Software "Fritzing" zu digitalisieren. Außerdem wurde ein Kochtopf bestellt und die Planung zur finalen Umsetzung begonnen. Dafür sollen alle Verbindung sicher gesteckt bzw gelötet werden. Des Weiteren soll der Rotary Encoder mit einem Knopf ausgestattet werden, damit die Bedienung erleichtert ist. 
                                        
-                                       
+                                      
