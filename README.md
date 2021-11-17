@@ -51,6 +51,10 @@ David Borgmann, Simon Rettmann
 <a href="#Stundevom9.11.2021"> 22. Stunde vom 9.11.2021 </a> 
 
 <a href="#Stundevom10.11.2021"> 23. Stunde vom 10.11.2021 </a>
+
+<a href="#Stundevom16.11.2021"> 24. Stunde vom 16.11.2021 </a>
+
+<a href="#Stundevom17.11.2021"> 25. Stunde vom 17.11.2021 </a>
                              
 ## <p> <h2> <a id="Stundevom3.8.2021"> Stunde vom 3.8.2021 </a> </h2>
 In dieser ersten Informatikstunde des Schuljahres wurden die Erwartungen und der Ablauf des Kurses erklärt. Ein "GitHub" Account wurde angelegt und die Grundlagen gelegt. Gegen Ende der Stunde war außerdem noch Zeit vorhanden um sich bereits Gedanken über mögliche Projekte Gedanken zu machen. Allgemeiner Konsens war, dass es sich um ein arduinobasiertes "physical computing Projekt" handeln soll. Aufgrund eines Roboterkurses waren nämlich schon einige Mikrocontrollerkenntnisse vorhanden. Diskutierte Ideen waren ein adaptiv gesteuertet Eierkocher, ein regulierbarer und temperaturmessender Gaskocher und die Entwicklung eines Roboters, der Hindernisse wahrnimmt und auf diese reagiert. Nach Rücksprache mit Herrn Buhl wurde der regulierbare Gaskocher mit einigen Teilschritten ins Auge gefasst. Als Nachbereitung der Stunde wurden die Vorkenntnisse aufgefrischt und das bereits vorhandenen Material sortiert. Außerdem begann die Einarbeitungspahse in "GitHub". </p>
@@ -732,5 +736,14 @@ Aufgabe dieser Stunde war es den programmierten Code zu kommentieren, damit er f
 
                                        
 </details>
+    
+## <p> <h2> <a id="Stundevom16.11.2021"> Stunde vom 10.11.2021 </a> <h2>
+
+In dieser Stunde wurde eine passende library für das LCD-Display installiert. Link: 
+Außerdem wurden mit dem gedruckten 3-D Modell erste Tests unter Aufsicht von Herrn Buhl durchgeführt. Nachdem der Schrittmotor teilweise nicht genug Kraft hatte, um das Ventil des Gaskochers zu öffnen, wurde die Betriebsspannung des Motors 8 Volt erhöht.
+    
+## <p> <h2> <a id="Stundevom17.11.2021"> Stunde vom 10.11.2021 </a> <h2>
+
+Ziel dieser Informatikstunde war es den Steckplan des Projekts mit Hilfe der Software "Fritzing" zu digitalisieren. Außerdem wurde ein Kochtopf bestellt und die Planung zur finalen Umsetzung begonnen. Dafür sollen alle Verbindung sicher gesteckt bzw gelötet werden. Des Weiteren soll das Potentiometer mit einem Knopf ausgestattet werden, damit die Bedienung erleichtert ist. 
                                        
                                        
