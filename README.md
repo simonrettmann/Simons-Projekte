@@ -768,6 +768,8 @@ Das finale Projekt soll in einer Box transportiert werden können und möglichst
 
 <img alt="Bild von der Seite" title="Bild von oben" src="https://user-images.githubusercontent.com/88385654/143242106-e8517588-22b7-4c0c-a48b-3ecdfe90af6f.jpeg">
 
+</details>
+    
 ## <p> <h2> <a id="Stundevom23.11.2021"> Stunde vom 23.11.2021 </a> <h2>
 
 In dieser Stunde wurde angefangen die Projektseite zu designen. Über Layout und eine ansprechende Gestaltung wurde gesprochen. In der Diskussion war eine Slideshow, die allerdings nur in Kombination von html und css oder html and javascript zu realisieren wäre. Eine simplere Gestaltung, die bentutz wurde, war die Implementierung einer GIF-Datei. 
