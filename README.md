@@ -759,7 +759,8 @@ Das finale Projekt soll in einer Box transportiert werden können und möglichst
     <summary>Screenshot von fritzing</summary>
 
 </details>
-<detauls>
+    
+<details>
     <summary>Bilder vom Kochtopf</summary>
     
 <img alt="Bild vom Topf" src="https://user-images.githubusercontent.com/88385654/143242171-68d6ce8a-6b76-45a5-a037-10bac7595723.jpeg">
