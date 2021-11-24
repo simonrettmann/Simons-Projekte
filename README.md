@@ -56,6 +56,10 @@ David Borgmann, Simon Rettmann
 
 <a href="#Stundevom17.11.2021"> 25. Stunde vom 17.11.2021 </a>
                              
+<a href="#Stundevom23.11.2021"> 26. Stunde vom 23.11.2021 </a>
+                             
+<a href="#Stundevom24.11.2021"> 27. Stunde vom 24.11.2021 </a>
+
 ## <p> <h2> <a id="Stundevom3.8.2021"> Stunde vom 3.8.2021 </a> </h2>
 In dieser ersten Informatikstunde des Schuljahres wurden die Erwartungen und der Ablauf des Kurses erklärt. Ein "GitHub" Account wurde angelegt und die Grundlagen gelegt. Gegen Ende der Stunde war außerdem noch Zeit vorhanden um sich bereits Gedanken über mögliche Projekte Gedanken zu machen. Allgemeiner Konsens war, dass es sich um ein arduinobasiertes "physical computing Projekt" handeln soll. Aufgrund eines Roboterkurses waren nämlich schon einige Mikrocontrollerkenntnisse vorhanden. Diskutierte Ideen waren ein adaptiv gesteuertet Eierkocher, ein regulierbarer und temperaturmessender Gaskocher und die Entwicklung eines Roboters, der Hindernisse wahrnimmt und auf diese reagiert. Nach Rücksprache mit Herrn Buhl wurde der regulierbare Gaskocher mit einigen Teilschritten ins Auge gefasst. Als Nachbereitung der Stunde wurden die Vorkenntnisse aufgefrischt und das bereits vorhandenen Material sortiert. Außerdem begann die Einarbeitungspahse in "GitHub". </p>
 
@@ -755,3 +759,13 @@ Dafür sollen alle Verbindung sicher gesteckt bzw. gelötet werden und in einem 
     <summary>Screenshot von fritzing</summary>
 
 </details>
+    
+## <p> <h2> <a id="Stundevom23.11.2021"> Stunde vom 23.11.2021 </a> <h2>
+
+In dieser Stunde wurde angefangen die Projektseite zu designen. Über Layout und eine ansprechende Gestaltung wurde gesprochen. In der Diskussion war eine Slideshow, die allerdings nur in Kombination von html und css oder html and javascript zu realisieren wäre. Eine simplere Gestaltung, die bentutz wurde, war die Implementierung einer GIF-Datei. 
+
+## <p> <h2> <a id="Stundevom24.11.2021"> Stunde vom 24.11.2021 </a> <h2>
+  
+In dieser Stunde wurde zusammen mit Herrn Buhl der Kochtopf inspiziert und über eine Verbindung von Temperaturmesser in den Topf diskutiert. Problematisch ist, dass der Temperaturmesser nicht überall wasserdicht ist, aber auch nicht seitlich in den Topf, sondern in den Deckel integriert werden. Dies hat den Vorteil, dass der Topf frei beweglich ist und leicht von der Flamme genommen werden kann. Von zu Hause soll probiert werden den Temperaturfühler so abzudichten, dass er zwar die Temperatur ohne große Zeitverzögerung messen kann, aber wasserdicht ist, um ins Wasser gehalten werden zu können. 
+    
+   
