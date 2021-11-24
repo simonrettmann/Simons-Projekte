@@ -752,8 +752,8 @@ Ein Video von den ersten Tests wurde von zu Hause aus aufgenommen. Link zum Vide
     
 ## <p> <h2> <a id="Stundevom17.11.2021"> Stunde vom 10.11.2021 </a> <h2>
 
-Ziel dieser Informatikstunde war es den Steckplan des Projekts mit Hilfe der Software "Fritzing" zu digitalisieren. Außerdem wurde ein Kochtopf bestellt und die Planung zur finalen Umsetzung begonnen. Link zum Kochtopf:
-Dafür sollen alle Verbindung sicher gesteckt bzw. gelötet werden und in einem Kasten versteckt und geschützt werden. Des Weiteren soll der Rotary Encoder mit einem Knopf ausgestattet werden, damit die Bedienung erleichtert ist. 
+Ziel dieser Informatikstunde war es den Steckplan des Projekts mit Hilfe der Software "Fritzing" zu digitalisieren. Außerdem wurde ein Kochtopf aus dem Kellerbestand einer befreundeten Familie organisiert. Die Planung für das finale Projekt wurde weitergebracht.
+Das finale Projekt soll in einer Box transportiert werden können und möglichst wenig Platz einnehmen. Dafür sollen alle Verbindung sicher gesteckt bzw. gelötet werden und in einem Kasten aus Holz oder Metall versteckt und geschützt werden. Des Weiteren soll der Rotary Encoder mit einem Knopf ausgestattet werden, damit die Bedienung erleichtert ist. 
     
 <details>
     <summary>Screenshot von fritzing</summary>
