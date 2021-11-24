@@ -759,7 +759,15 @@ Das finale Projekt soll in einer Box transportiert werden können und möglichst
     <summary>Screenshot von fritzing</summary>
 
 </details>
+<detauls>
+    <summary>Bilder vom Kochtopf</summary>
     
+<img alt="Bild vom Topf" src="https://user-images.githubusercontent.com/88385654/143242171-68d6ce8a-6b76-45a5-a037-10bac7595723.jpeg">
+    
+<img alt="Bild von oben" src="https://user-images.githubusercontent.com/88385654/143242185-4f1a83c9-f2b1-43d9-b9f9-25b503340d48.jpeg">
+
+<img alt="Bild von der Seite" title="Bild von oben" src="https://user-images.githubusercontent.com/88385654/143242106-e8517588-22b7-4c0c-a48b-3ecdfe90af6f.jpeg">
+
 ## <p> <h2> <a id="Stundevom23.11.2021"> Stunde vom 23.11.2021 </a> <h2>
 
 In dieser Stunde wurde angefangen die Projektseite zu designen. Über Layout und eine ansprechende Gestaltung wurde gesprochen. In der Diskussion war eine Slideshow, die allerdings nur in Kombination von html und css oder html and javascript zu realisieren wäre. Eine simplere Gestaltung, die bentutz wurde, war die Implementierung einer GIF-Datei. 
