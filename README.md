@@ -8,63 +8,65 @@ David Borgmann, Simon Rettmann
 <table>
     <colgroup>
         <col width="50%">
-        col width="50%">
+        <col width="50%">
     </colgroup>
     
 <tr>
     <td><a href="#Stundevom3.8.2021"> 1. Stunde vom 3.8.2021 </a><td>
 
-<a href="#Stundevom4.8.2021"> 2. Stunde vom 4.8.2021 </a>
+    <td><a href="#Stundevom4.8.2021"> 2. Stunde vom 4.8.2021 </a></td>
 
-<a href="#Stundevom10.8.2021"> 3. Stunde vom 10.8.2021 </a>
+ <td><a href="#Stundevom10.8.2021"> 3. Stunde vom 10.8.2021 </a></td>
 
-<a href="#Stundevom11.8.2021"> 4. Stunde vom 11.8.2021 </a>
+ <td><a href="#Stundevom11.8.2021"> 4. Stunde vom 11.8.2021 </a></td>
 
-<a href="#Stundevom24.8.2021"> 5. Stunde vom 24.8.2021 </a>
+ <td><a href="#Stundevom24.8.2021"> 5. Stunde vom 24.8.2021 </a></td>
 
-<a href="#Stundevom31.8.2021"> 6. Stunde vom 31.8.2021 </a>
+ <td><a href="#Stundevom31.8.2021"> 6. Stunde vom 31.8.2021 </a></td>
 
-<a href="#Stundevom1.9.2021"> 7. Stunde vom 1.9.2021 </a>
+ <td><a href="#Stundevom1.9.2021"> 7. Stunde vom 1.9.2021 </a></td>
 
-<a href="#Stundevom7.9.2021"> 8. Stunde vom 7.9.2021 </a>
+ <td><a href="#Stundevom7.9.2021"> 8. Stunde vom 7.9.2021 </a></td>
 
-<a href="#Stundevom8.9.2021"> 9. Stunde vom 8.9.2021 </a>
+ <td><a href="#Stundevom8.9.2021"> 9. Stunde vom 8.9.2021 </a></td>
 
-<a href="#Stundevom14.9.2021"> 10. Stunde vom 14.9.2021 </a>
+ <td><a href="#Stundevom14.9.2021"> 10. Stunde vom 14.9.2021 </a></td>
 
-<a href="#Stundevom15.9.2021"> 11. Stunde vom 15.9.2021 </a>
+ <td><a href="#Stundevom15.9.2021"> 11. Stunde vom 15.9.2021 </a></td>
   
-<a href="#Stundevom21.9.2021"> 12. Stunde vom 21.9.2021 </a>
+ <td><a href="#Stundevom21.9.2021"> 12. Stunde vom 21.9.2021 </a></td>
 
-<a href="#Stundevom22.9.2021"> 13. Stunde vom 22.9.2021 </a>
+ <td><a href="#Stundevom22.9.2021"> 13. Stunde vom 22.9.2021 </a></td>
 
-<a href="#Stundevom28.9.2021"> 14. Stunde vom 28.9.2021 </a>
+ <td><a href="#Stundevom28.9.2021"> 14. Stunde vom 28.9.2021 </a></td>
 
-<a href="#Stundevom29.9.2021"> 15. Stunde vom 29.9.2021 </a>
+ <td><a href="#Stundevom29.9.2021"> 15. Stunde vom 29.9.2021 </a></td>
 
-<a href="#Stundevom19.10.2021"> 16. Stunde vom 19.10.2021 </a>
+ <td><a href="#Stundevom19.10.2021"> 16. Stunde vom 19.10.2021 </a></td>
 
-<a href="#Stundevom20.10.2021"> 17. Stunde vom 20.10.2021 </a>
+ <td><a href="#Stundevom20.10.2021"> 17. Stunde vom 20.10.2021 </a></td>
 
-<a href="#Stundevom26.10.2021"> 18. Stunde vom 26.10.2021 </a>
+ <td><a href="#Stundevom26.10.2021"> 18. Stunde vom 26.10.2021 </a></td>
 
-<a href="#Stundevom27.10.2021"> 19. Stunde vom 27.10.2021 </a>
+ <td><a href="#Stundevom27.10.2021"> 19. Stunde vom 27.10.2021 </a></td>
 
-<a href="#Stundevom2.11.2021"> 20. Stunde vom 2.11.2021 </a>
+ <td><a href="#Stundevom2.11.2021"> 20. Stunde vom 2.11.2021 </a></td>
 
-<a href="#Stundevom3.11.2021"> 21. Stunde vom 3.11.2021 </a>
+ <td><a href="#Stundevom3.11.2021"> 21. Stunde vom 3.11.2021 </a></td>
 
-<a href="#Stundevom9.11.2021"> 22. Stunde vom 9.11.2021 </a> 
+ <td><a href="#Stundevom9.11.2021"> 22. Stunde vom 9.11.2021 </a></td>
 
-<a href="#Stundevom10.11.2021"> 23. Stunde vom 10.11.2021 </a>
+ <td><a href="#Stundevom10.11.2021"> 23. Stunde vom 10.11.2021 </a></td>
 
-<a href="#Stundevom16.11.2021"> 24. Stunde vom 16.11.2021 </a>
+ <td><a href="#Stundevom16.11.2021"> 24. Stunde vom 16.11.2021 </a></td>
 
-<a href="#Stundevom17.11.2021"> 25. Stunde vom 17.11.2021 </a>
+ <td><a href="#Stundevom17.11.2021"> 25. Stunde vom 17.11.2021 </a></td>
                              
-<a href="#Stundevom23.11.2021"> 26. Stunde vom 23.11.2021 </a>
+ <td><a href="#Stundevom23.11.2021"> 26. Stunde vom 23.11.2021 </a></td>
                              
-<a href="#Stundevom24.11.2021"> 27. Stunde vom 24.11.2021 </a>
+ <td><a href="#Stundevom24.11.2021"> 27. Stunde vom 24.11.2021 </a></td>
+    </tr>
+    </table>
 
 ## <p> <h2> <a id="Stundevom3.8.2021"> Stunde vom 3.8.2021 </a> </h2>
 In dieser ersten Informatikstunde des Schuljahres wurden die Erwartungen und der Ablauf des Kurses erklärt. Ein "GitHub" Account wurde angelegt und die Grundlagen gelegt. Gegen Ende der Stunde war außerdem noch Zeit vorhanden um sich bereits Gedanken über mögliche Projekte Gedanken zu machen. Allgemeiner Konsens war, dass es sich um ein arduinobasiertes "physical computing Projekt" handeln soll. Aufgrund eines Roboterkurses waren nämlich schon einige Mikrocontrollerkenntnisse vorhanden. Diskutierte Ideen waren ein adaptiv gesteuertet Eierkocher, ein regulierbarer und temperaturmessender Gaskocher und die Entwicklung eines Roboters, der Hindernisse wahrnimmt und auf diese reagiert. Nach Rücksprache mit Herrn Buhl wurde der regulierbare Gaskocher mit einigen Teilschritten ins Auge gefasst. Als Nachbereitung der Stunde wurden die Vorkenntnisse aufgefrischt und das bereits vorhandenen Material sortiert. Außerdem begann die Einarbeitungspahse in "GitHub". </p>
