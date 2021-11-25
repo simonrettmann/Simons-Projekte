@@ -12,9 +12,10 @@ David Borgmann, Simon Rettmann
     </colgroup>
     
 <tr>
-    <td><a href="#Stundevom3.8.2021"> 1. Stunde vom 3.8.2021 </a><td>
+    <td><a href="#Stundevom3.8.2021"> 1. Stunde vom 3.8.2021 </a></td>
 
     <td><a href="#Stundevom4.8.2021"> 2. Stunde vom 4.8.2021 </a></td>
+    </tr>
 
  <td><a href="#Stundevom10.8.2021"> 3. Stunde vom 10.8.2021 </a></td>
 
