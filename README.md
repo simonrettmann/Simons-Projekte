@@ -5,8 +5,14 @@ Informatik, Bl
 David Borgmann, Simon Rettmann
 
 ## Stundenübersicht
+<table>
+    <colgroup>
+        <col width="50%">
+        col width="50%">
+    </colgroup>
     
-<a href="#Stundevom3.8.2021"> 1. Stunde vom 3.8.2021 </a>
+<tr>
+    <td><a href="#Stundevom3.8.2021"> 1. Stunde vom 3.8.2021 </a><td>
 
 <a href="#Stundevom4.8.2021"> 2. Stunde vom 4.8.2021 </a>
 
