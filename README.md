@@ -784,4 +784,5 @@ Die letzte Vorraussetzung für die reibunglose Umsetzung war eine Bohrung in den
 <b> Bild des abgedichteten Thermometers von schräg vorne </b> <img alt="Bild von schräg vorne" src="https://github.com/simonrettmann/Simons-Projekte/files/7621384/IMG_1756.pdf">
 <b> Bild des abgedichteten Thermometers von oben </b> <img alt="Bild von schräg vorne" src="https://github.com/simonrettmann/Simons-Projekte/files/7621403/IMG_1758.pdf">
 </details>
-[IMG_1758.pdf](https://github.com/simonrettmann/Simons-Projekte/files/7621460/IMG_1758.pdf)
+
+[IMG_1758.zip](https://github.com/simonrettmann/Simons-Projekte/files/7621480/IMG_1758.zip)
