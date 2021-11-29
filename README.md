@@ -6,10 +6,7 @@ David Borgmann, Simon Rettmann
 
 ## Stundenübersicht
 <table>
-    <colgroup>
-        <col width="50%">
-        <col width="50%">
-    </colgroup>
+    <align="center">
     
 <tr>
     <td> <a href="#Stundevom3.8.2021"> 1. Stunde vom 3.8.2021 </a></td>
