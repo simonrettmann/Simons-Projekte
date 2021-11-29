@@ -10,6 +10,8 @@ Informatik, Bl
 David Borgmann, Simon Rettmann
 </p>
 </br>
+</br>
+
 ## Stundenübersicht
 <table align="center">
      
