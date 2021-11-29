@@ -64,7 +64,7 @@ Bei der leuchtenden Lampe handelt es sich um eine weiße Leuchtdiode, die durch 
     <summary>Bildergalerie</summary>
   
 <b>Steckplan für eine blinkende Leuchtdiode</b>
-<img alt="Steckplan für eine blinkende Lampe" border="10" src="https://user-images.githubusercontent.com/88385654/129034053-222223fa-71a5-4461-b734-7e1efb53467b.png">
+<img alt="Steckplan für eine blinkende Lampe" border="100" src="https://user-images.githubusercontent.com/88385654/129034053-222223fa-71a5-4461-b734-7e1efb53467b.png">
  
 <b>Bild des Versuchsaufbaus mit eingeschalteter Leuchtdiode</b>
 <img alt="Bild einer blinkenden Lampe" src="https://user-images.githubusercontent.com/88385654/128383828-eeb82b61-0753-48aa-b36b-35d966454e42.jpg"> 
