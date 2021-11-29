@@ -1,13 +1,11 @@
 # Stundenprotokolle 12. Klasse 1. Halbjahr 
 
 Informatik, Bl
-
 David Borgmann, Simon Rettmann
 
 ## Stundenübersicht
-<table>
-    <align="center">
-    
+<table align="center">
+     
 <tr>
     <td> <a href="#Stundevom3.8.2021"> 1. Stunde vom 3.8.2021 </a></td>
     <td> <a href="#Stundevom4.8.2021"> 2. Stunde vom 4.8.2021 </a></td>
