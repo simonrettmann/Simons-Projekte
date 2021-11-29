@@ -774,14 +774,13 @@ In dieser Stunde wurde zusammen mit Herrn Buhl der Kochtopf inspiziert und über
     
 ## <p> <h2> <a id="Stundevom30.11.2021"> Stunde vom 30.11.2021 </a> <h2>
      
-Die Abdichtung des Thermometers von zu Hause klappte gut. In der Werkstatt wurden alte Dichtungen aus Restbeständen benutzt, um alle kritischen Verbindungen abzud[IMG_1756.pdf](https://github.com/simonrettmann/Simons-Projekte/files/7621384/IMG_1756.pdf)
-ichten. Mit Hilfe einer alten Kupferröhre konnte das Kabel vor äußeren Einflüssen geschützt werden. Der Kanal, durch den das Thermomether verläuft, wurde nun am Thermometerkopf und an der Öffnung Röhre-Topf mit Dichtungen versehen.  
+Die Abdichtung des Thermometers von zu Hause klappte gut. In der Werkstatt wurden alte Dichtungen aus Restbeständen benutzt, um alle kritischen Verbindungen abzudichten. Mit Hilfe einer alten Kupferröhre konnte das Kabel vor äußeren Einflüssen geschützt werden. Der Kanal, durch den das Thermomether verläuft, wurde nun am Thermometerkopf und an der Öffnung Röhre-Topf mit Dichtungen versehen.  
 Außerdem wurden im Baumarkt fehlende Teile besorgt, wie zum Beispiel ein Blech und Winkel, damit der Schrittmotor an das Ventil der Gasflasche montiert werden kann. Die Gruppe entschied sich gegen eine Verankerung des Motors mit dem Boden. Die Umsetzung wäre hier, zum Beispiel durch ein Dreibein, deutlich erleichtert gewesen, aufgrund von optischen Gründen, entschied sich die Gruppe jedoch einstimmig dagegen. 
 Die letzte Vorraussetzung für die reibunglose Umsetzung war eine Bohrung in den Edelstahldeckel des Topfes, durch das das Thermometer mit dem Topfinhalt in Kontakt kommt. Der Vorteil davon ist, dass nicht der Topf selber, sondern nur der Deckel fest mit dem Kocher verankert ist und man somit mehr Freiheit und ebenfalls Sicherheit erreichen kann. Die Bohrung erfolgte in der Werkstatt eines Freundes. Wichtig für die Bohrung von Edelstahl ist die Verwendung eines Standborhers, eine Körnung des Werkstoffes, der richtige Aufsatz, eine niedrige Drehzahl und beölen der Bohrfläche, damit weniger Hitze entsteht. 
      
  <details>
       <summary>Bildergalerie</summary>
-<b> Bild des abgedichteten Thermometers von der Seite </b> <img alt="Bild von der Seite" src="https://github.com/simonrettmann/Simons-Projekte/files/7621378/IMG_1755.1.pdf">
+<b>Bild des abgedichteten Thermometers von der Seite</b> <img alt="Bild von der Seite" src="https://github.com/simonrettmann/Simons-Projekte/files/7621378/IMG_1755.1.pdf">
 <b> Bild des abgedichteten Thermometers von schräg vorne </b> <img alt="Bild von schräg vorne" src="https://github.com/simonrettmann/Simons-Projekte/files/7621384/IMG_1756.pdf">
 <b> Bild des abgedichteten Thermometers von oben </b> <img alt="Bild von schräg vorne" src="https://github.com/simonrettmann/Simons-Projekte/files/7621403/IMG_1758.pdf">
 </details>
