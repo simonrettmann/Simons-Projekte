@@ -46,10 +46,11 @@ David Borgmann, Simon Rettmann
     <td><a href="#Stundevom16.11.2021"> 24. Stunde vom 16.11.2021 </a></td>
 </tr>
 <tr>
- <td><a href="#Stundevom17.11.2021"> 25. Stunde vom 17.11.2021 </a></td>                           
- <td><a href="#Stundevom23.11.2021"> 26. Stunde vom 23.11.2021 </a></td>                      
- <td><a href="#Stundevom24.11.2021"> 27. Stunde vom 24.11.2021 </a></td>
-    </tr>
+    <td><a href="#Stundevom17.11.2021"> 25. Stunde vom 17.11.2021 </a></td>                           
+    <td><a href="#Stundevom23.11.2021"> 26. Stunde vom 23.11.2021 </a></td>                      
+    <td><a href="#Stundevom24.11.2021"> 27. Stunde vom 24.11.2021 </a></td>
+    <td><a href="#Stundevom30.11.2021"> 28. Stunde vom 30.11.2021 </a></td>
+</tr>
     </table>
 
 ## <p> <h2> <a id="Stundevom3.8.2021"> Stunde vom 3.8.2021 </a> </h2>
