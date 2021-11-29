@@ -53,7 +53,7 @@ David Borgmann, Simon Rettmann
     </table>
 
 ## <p> <h2> <a id="Stundevom3.8.2021"> Stunde vom 3.8.2021 </a> </h2>
-In dieser ersten Informatikstunde des Schuljahres wurden die Erwartungen und der Ablauf des Kurses erklärt. Ein "GitHub" Account wurde angelegt und die Grundlagen gelegt. Gegen Ende der Stunde war außerdem noch Zeit vorhanden um sich bereits Gedanken über mögliche Projekte Gedanken zu machen. Allgemeiner Konsens war, dass es sich um ein arduinobasiertes "physical computing Projekt" handeln soll. Aufgrund eines Roboterkurses waren nämlich schon einige Mikrocontrollerkenntnisse vorhanden. Diskutierte Ideen waren ein adaptiv gesteuertet Eierkocher, ein regulierbarer und temperaturmessender Gaskocher und die Entwicklung eines Roboters, der Hindernisse wahrnimmt und auf diese reagiert. Nach Rücksprache mit Herrn Buhl wurde der regulierbare Gaskocher mit einigen Teilschritten ins Auge gefasst. Als Nachbereitung der Stunde wurden die Vorkenntnisse aufgefrischt und das bereits vorhandenen Material sortiert. Außerdem begann die Einarbeitungspahse in "GitHub". </p>
+In dieser ersten Informatikstunde des Schuljahres wurden die Erwartungen und der Ablauf des Kurses erklärt. Ein "GitHub" Account wurde angelegt und die Grundlagen gelegt. Gegen Ende der Stunde war außerdem noch Zeit vorhanden um sich bereits Gedanken über mögliche Projekte Gedanken zu machen. Allgemeiner Konsens war, dass es sich um ein arduinobasiertes "physical computing Projekt" handeln soll. Aufgrund eines Roboterkurses waren nämlich schon einige Mikrocontrollerkenntnisse vorhanden. Diskutierte Ideen waren ein adaptiv gesteuertet Eierkocher, ein regulierbarer und temperaturmessender Gaskocher und die Entwicklung eines Roboters, der Hindernisse wahrnimmt und auf diese reagiert. Nach Rücksprache mit Herrn Buhl wurde der regulierbare Gaskocher mit einigen Teilschritten ins Auge gefasst. Als Nachbereitung der Stunde wurden die Vorkenntnisse aufgefrischt und das bereits vorhandenen Material sortiert. Außerdem begann die Einarbeitungspahse in "GitHub" und "HTML". </p>
 
 ## <p> <h2> <a id="Stundevom4.8.2021"> Stunde vom 4.8.2021 </a> <h2>
 Diese Informatikstunde startete mit der genaueren Planung und Aufgabenverteilung. Über einen gemeinsamen Leitfaden für die Stundenprotokolle wurde geredet. Anschließend wurden die Arduinokenntnisse weiter aufgefrischt. Die Gruppe startete mit dem Programmieren einer im Intervall blinkenden Lampe und begann an der Programmierung eines Potentiometers. Auch die Auswahl möglicher Gerätschaften stand auf der Tagesordnung. Im Fokus stand vor allem die Auswahl eines Thermometers.
@@ -64,7 +64,7 @@ Bei der leuchtenden Lampe handelt es sich um eine weiße Leuchtdiode, die durch 
     <summary>Bildergalerie</summary>
   
 <b>Steckplan für eine blinkende Leuchtdiode</b>
-<img alt="Steckplan für eine blinkende Lampe" border="100" src="https://user-images.githubusercontent.com/88385654/129034053-222223fa-71a5-4461-b734-7e1efb53467b.png">
+<img alt="Steckplan für eine blinkende Lampe" src="https://user-images.githubusercontent.com/88385654/129034053-222223fa-71a5-4461-b734-7e1efb53467b.png">
  
 <b>Bild des Versuchsaufbaus mit eingeschalteter Leuchtdiode</b>
 <img alt="Bild einer blinkenden Lampe" src="https://user-images.githubusercontent.com/88385654/128383828-eeb82b61-0753-48aa-b36b-35d966454e42.jpg"> 
@@ -211,7 +211,7 @@ Der Rest der Zeit wurde genutzt um einen Schrittmotor zu verstehen und anzusteue
   ## <p> <h2> <a id="Stundevom24.8.2021"> Stunde vom 24.8.2021 </a> <h2>
 Die Ansteuerung des Schrittmotors klappte zu Beginn der Stunde. Mit einer passenden Library gelang es den Schrittmotor in verschiedenen Geschwindigkeiten sich um 360° zu drehen und anschließend in die andere Richtung zu drehen, bis der Startpunkt wieder erreicht wurde. 
 Nach einiger Zeit wurde bemerkt, dass der Motor fühlbar sehr warm wurde. Nach einiger Recherche stellte sich heraus, dass der Motor auch ohne Bewegung Strom verwendet. Ein dementsprechender Sketch, als "if-Bedingungen", um den Motor von der Stromversorgung zu trennen, wurde versucht zu schreiben. In der Zeit der Stunde gelang dies allerdings nicht. Die Lösung dieses Problems soll nun von zu Hause angegangen werden. 
-Eine weitere Problematik, die sich eröffnete, war die Ansteuerung des Servo Motors im Hinblick auf das weitere Profjekt. Um einen Gaskocher zu regulieren, erfordert es mehr als eine Umdrehung. Problematisch ist, dass der Schrittmotor nur die Information des "Weiter" oder "Zurück" kennt, jedoch nicht seine genaue Position. In irgendeiner Form wird daher eine mathematische Lösung erfordert, die den Nullpunkt des Schrittmotors als Startpunkt definiert, von welchem aus dann Befehle im oder gegen den Uhrzeigersinn gegeben werden. Wie dieses Problem konkret gelöst werden kann ist bisher unklar. 
+Eine weitere Problematik, die sich eröffnete, war die Ansteuerung des Servo Motors im Hinblick auf das weitere Profjekt. Um einen Gaskocher zu regulieren, erfordert es mehr als eine Umdrehung. Problematisch ist, dass der Schrittmotor nur die Information des "Weiter" oder "Zurück" kennt, jedoch nicht seine genaue Position. In irgendeiner Form wird daher eine mathematische Lösung erfordert, die den Nullpunkt des Schrittmotors als Startpunkt definiert, von welchem aus dann Befehle im oder gegen den Uhrzeigersinn gegeben werden. Wie dieses Problem konkret gelöst werden kann, ist bisher unklar. 
 </p>
   
  <details>
@@ -225,11 +225,11 @@ Eine weitere Problematik, die sich eröffnete, war die Ansteuerung des Servo Mot
   Zu Beginn der Stunde, wurde das bestellte Thermometer angeschlossen. Die Gruppe entschied sich für ein auf Amazon erhätliches Thermometer, das für extrem hohe Temperaturen geeignet ist. Die Wahl fiel auf das "MAX6675". Link von Amazon: https://www.amazon.de/ANGEEK-MAX6675-thermocouple-Temperature-arduino/dp/B07X41RG6K/ref=sr_1_2_sspa?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=max6675&qid=1630502970&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUE3WkxHNEVaR0RIODUmZW5jcnlwdGVkSWQ9QTAzODIyOTMxVUI3TVFJTVk4VzNZJmVuY3J5cHRlZEFkSWQ9QTA2ODY3NDQxUTUxRVNaSlU2QTdSJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ== 
   
   Mit der Integration einer passenden Library für das Bauteil MAX6675, konnten im seriellen Monitor Temperaturwerte abgelesen werden. Damit die Funktion getestet werden konnte, gab es einen Extremtest mit einem Teelicht. Der Test war erfolgreich und die Werte stiegen, bzw. fielen je nachdem ob das Thermometer in die Flamme gehalten wurde oder nicht. 
- Anschließend arbeitete das Team an einem Code, der eine Temperaturbedingungen, mämlich ein Wert kleiner als 30 °C mit einer Bewegung des Steppmotors koppelte. Ziel für die nächste Stunde war es diesen Code fertigzustellen. </p>
+ Anschließend arbeitete das Team an einem Code, der eine Temperaturbedingungen, mämlich ein Wert kleiner als 30 °C mit einer Bewegung des Schrittmotors koppelte. Ziel für die nächste Stunde war es diesen Code fertigzustellen. </p>
   
   ## <p> <h2> <a id="Stundevom1.9.2021"> Stunde vom 1.9.2021 </a> <h2>
-  Leider gelang die Fertigstellung nicht. Bei diesem recht anspruchsvollen Code, der einen wichtigen Teilschritt für das Projekt darstellt, ergaben sich viele kleinere Probleme. Teilweise waren dies Flüchtigkeitsfehler, wie die Auslassung eines Kommas, teilweise jedoch auch schwererwiegende Probleme, die innerhalb der Stunde nicht gelöst werden konnten. 
-  Außerdem wurde noch der Versuchsaufbau als Schaltplan der Ansteuerung des Schrittmotors digitalisiert und zu den Protokollen hinzugefügt.</p>
+Leider gelang die Fertigstellung nicht. Bei diesem recht anspruchsvollen Code, der einen wichtigen Teilschritt für das Projekt darstellt, ergaben sich viele kleinere Probleme. Teilweise waren dies Flüchtigkeitsfehler, wie die Auslassung eines Kommas, teilweise jedoch auch schwererwiegende Probleme, die innerhalb der Stunde nicht gelöst werden konnten. 
+Außerdem wurde noch der Versuchsaufbau als Schaltplan der Ansteuerung des Schrittmotors digitalisiert und zu den Protokollen hinzugefügt.</p>
 
   ## <p> <h2> <a id="Stundevom7.9.2021"> Stunde vom 7.9.2021 </a> <h2>
   Auch diese Doppelstunde am Nachmittag stand ganz im Fokus des "Debugging". Gemeinsam mit Herrn Buhl wurde nach Fehlern gesucht. Relativ frustrierend war es zu sehen, dass sich an immer neuen Stellen Probleme ergaben mit denen die Gruppe am Anfang nicht gerechnet hat. 
@@ -241,11 +241,11 @@ Eine weitere Problematik, die sich eröffnete, war die Ansteuerung des Servo Mot
     - Das Problem, dass eine der vier Spulen des Schrittmotors nicht angesteuert wurde, sodass ein "Zucken" des Motors zwar sichtbar war, dieser sich aber nicht drehte, ergab sich durch einen Defintionsfehler in der Syntaxschreibweise der Library. Ein Komma, welches zwei Parameter trennte, wurde vergessen.
     - Des Weiteren trat das Phänomen eines schwachen Drehmoments auf. Der Motor arbeitete wie gewünscht, jedoch wurden Leerschritte gemacht, sobald Kraft auf den Motor wirkte. Beheben lies sich das Problem, indem die Einstellung der Schrittart von einem "Fullstep" auf einen "Halfstep" umgestellt wurde. Da nun in acht Zwischenschritten, statt in vier Zwischenritten pro Schritt gearbeitet wird, hat der Motor mehr Kraft und das Risiko für einen Leerschritt wird gesenkt. 
     - Die Erwärumung des Motors wurde durch eine Veränderung im Code verhindert: Dazu wurde im "main loop" eine Bedingung hinzugefügt, welche überprüft, ob der Stepper arbeitet. 
-    - Das Projekt eines arduinogesteuerten Gaskochers erfodert das Festlegen eine Startposition. Das liegt daran, dass der Gaskocher nur einen begrenzten Drehradius hat. Außerdem kennt der Schrittmotor nicht die beiden Zustände des Kochers, mämlich ob Gas fließt oder nicht. Damit dieses Problem behoben werden kann, muss ein Startpunkt definiert werden. Bei dem von uns verwendeten "move"-Befehls speicherte der Schrittmotor jedoch weder seine Startposition noch seine aktuelle Position. Lediglich die Anzahl der Schritte wurde vorgegeben. Durch einen neuen "moveTo"-Befehl, wurde diese Problematik gelöst. Nun wird sowohl der Startpunkt als auch die aktuelle Position gespeichert und die Distanz zu dem angesteuerten Ziel berechnet.
+    - Das Projekt eines arduinogesteuerten Gaskochers erfodert das Festlegen einer Startposition. Das liegt daran, dass der Gaskocher nur einen begrenzten Drehradius hat. Außerdem kennt der Schrittmotor nicht die beiden Zustände des Kochers, mämlich ob Gas fließt oder nicht. Damit dieses Problem behoben werden kann, muss ein Startpunkt definiert werden. Bei dem von uns verwendeten "move"-Befehls speicherte der Schrittmotor jedoch weder seine Startposition noch seine aktuelle Position. Lediglich die Anzahl der Schritte wurde vorgegeben. Durch einen neuen "moveTo"-Befehl, wurde diese Problematik gelöst. Nun wird sowohl der Startpunkt als auch die aktuelle Position gespeichert und die Distanz zu dem angesteuerten Ziel berechnet.
     </p>
 
 <details> 
-    <summary>Arduino Code</summary>
+    <summary>Arduion Code</summary>
     
 ```c 
 #include <AccelStepper.h>
@@ -319,11 +319,11 @@ delay(300);
     </p>
     
   ## <p> <h2> <a id="Stundevom15.9.2021"> Stunde vom 15.9.2021 </a> <h2>
-  Diese Informatikstunde musste leider ausfallen. Das Brainstorming zur Hardware wurde, wie in der letzten Stunde festgelegt, von den Gruppenmitgliedern von zu Hause aus durchgeführt. 
+  Diese Informatikstunde musste leider ausfallen. Das Brainstorming zur Hardware wurde, wie in der letzten Stunde festgelegt, von den Gruppenmitgliedern zu Hause durchgeführt. 
     </p>
     
 ## <p> <h2> <a id="Stundevom21.9.2021"> Stunde vom 21.9.2021 </a> <h2>
-  In dieser Stunde wurde ein Brainstorming zu den verschiedenen Ideen zur technischen Durchsetzung des Projektes durchgeführt. Zu diesem Zwecke wurde eine MindMap erstellt. 
+ In dieser Stunde wurden die unterschiedlichen Ideen gesammelt und zusammengetragen. Gemeinsam wurden Ideen verworfen, weitergeführt und konkretisiert. Zur besseren Übersicht und Dokumentation der Gedankenprozesse, wurde eine MindMap erstellt. 
     </p>
     
 <details>
@@ -499,7 +499,7 @@ In dieser Stunde wurde der Abgabetermin des Projektes auf den 6.12.2021 festgele
 <b>Software</b>
     
 <ul>
-    <li>Eine Umrechnung von dem eingestellten Wert beim "rotary Encoder" in eine Temperatur in ° C und eine Umrechnung von dieser Temperatur in eine prozentuale Öffnung der Gasflasche bzw. eine Anzahl von Schritten, die der Schrittmotor gehen soll. Um dieses Prinzip zu vereinfachen wird eine Differenz zwischen der eingestellten und gemessenen Temperatur gebildet. Anhand dieser Differenz wird anschließend berechnet wie stark die Gasflasche geöffnet werden soll.</li>
+    <li>Eine Umrechnung von dem eingestellten Wert beim "rotary Encoder" in eine Temperatur in ° C und eine Umrechnung von dieser Temperatur in eine prozentuale Öffnung der Gasflasche bzw. eine Anzahl von Schritten, die der Schrittmotor gehen soll, tritt ein. Um dieses Prinzip zu vereinfachen wird eine Differenz zwischen der eingestellten und gemessenen Temperatur gebildet. Anhand dieser Differenz wird anschließend berechnet wie stark die Gasflasche geöffnet werden soll.</li>
     <li>Programmierung eines einfachen LCD Displays, um die Gradanzahl anzeigen zu lassen.</li> 
 </ul>
     
@@ -513,8 +513,7 @@ In dieser Stunde wurde der Abgabetermin des Projektes auf den 6.12.2021 festgele
 
 </details>
     
-Nachdem diese Übersicht erstellt worden war, arbeitete die Gruppe an dem Problem der Umrechnung von eingestelltem Wert in eine Steuerung des Gasflusses. Dazu wurden folgende Berechnungen angestellt:
-    "Berechnungen"
+Nachdem diese Übersicht erstellt worden war, arbeitete die Gruppe an dem Problem der Umrechnung von eingestelltem Wert in eine Steuerung des Gasflusses. <font red> Letzendlich entschied sich die Gruppe für eine logistische Kurve, da bei dieser Funktion, bei einer großen Differenz eine starke Öffnung, und bei niedriger Differenz nur eine kleine Öffnung, erreicht wird.</font red>
  Außerdem wurde an der Software weitergearbeitet.
     
  ## <p> <h2> <a id="Stundevom20.10.2021"> Stunde vom 20.10.2021 </a> <h2>
@@ -558,7 +557,7 @@ Ziel dieser Doppelstunde war die Analyse des bisherigen 3-D Modells. Einige Maß
 
 ## <p> <h2> <a id="Stundevom27.10.2021"> Stunde vom 27.10.2021 </a> <h2>
     
-Die Software wurde in dieser Stunde weiter nach vorne gebracht. Ein Zwischenstand wurde erreicht, sodass eine eingestellte Temperatur mit einer gemessenen Temperatur ins Verhältnis gesetzt wird und sich aufgrund dieser Differenz eine prozentuale Öffnung der Gasflasche ergibt. Damit wurde ein wichtiger Meilenstein erreicht. Video zum bisherigen Versuchsstand:
+Die Software wurde in dieser Stunde weiter nach vorne gebracht. Ein Zwischenstand wurde erreicht, sodass eine eingestellte Temperatur mit einer gemessenen Temperatur ins Verhältnis gesetzt wird und sich aufgrund dieser Differenz eine prozentuale Öffnung der Gasflasche ergibt. Damit wurde ein wichtiger Meilenstein erreicht. <font red>Video zum bisherigen Versuchsstand: </font red>
 Für die Zukunft steht noch die Programmierung eines LCD-Displays an. Zusammen mit den 3-D Modullen ist das Projekt nun aber bereits so weit, dass das Projekt als ganzes getestet werden kann. 
     
 <details>
@@ -698,11 +697,12 @@ void isr ()  {
     
 ## <p> <h2> <a id="Stundevom2.11.2021"> Stunde vom 2.11.2021 </a> <h2>
     
-Zu Beginn der Stunde wurde der in der letzten Stunde erreichte Erfolg Herrn Buhl präsentiert. Anschließend wurde das Ziel ein LCD-Display, dass die eingestellten Temperaturen anzeigt, zu programmieren. Die Einarbeitung in die Programmierung eines LCD-Displays begann. 
+Zu Beginn der Stunde wurde der in der letzten Stunde erreichte Erfolg Herrn Buhl präsentiert. Anschließend wurde das Ziel ein LCD-Display, dass die eingestellten Temperaturen anzeigt, in Angriff genommen. Die Einarbeitung in die Programmierung eines LCD-Displays begann. 
     
 ## <p> <h2> <a id="Stundevom3.11.2021"> Stunde vom 3.11.2021 </a> <h2>
     
-Während dieser Unterrichtseinheit wurde weiter an dem LCD-Display gefeilt. Außerdem wurde an dem 3-D Modell gearbeitet und ein überarbeiteter Prototyp erstellt. 
+Während dieser Unterrichtseinheit wurde weiter an dem LCD-Display gefeilt. 
+Außerdem wurde an dem 3-D Modell gearbeitet und ein überarbeiteter Prototyp erstellt. 
 
 <details>
     <summary>Screenshot des 3-D Modells</Summary>
@@ -720,7 +720,7 @@ Aufgrund der Vorabiturklausuren, musste diese Stunde leider ausfallen. Von zu Ha
                                         
 ## <p> <h2> <a id="Stundevom10.11.2021"> Stunde vom 10.11.2021 </a> <h2>
 
-Aufgabe dieser Stunde war es den programmierten Code zu kommentieren, damit er für alle auch an dem Projekt nicht beteiligten Personen leicht verständlich ist. 
+<font red> Aufgabe dieser Stunde war es den programmierten Code zu kommentieren, damit er für alle auch an dem Projekt nicht beteiligten Personen leicht verständlich ist. </font red>
 <details>
     <summary>kommentierter Code</summary>
     
@@ -740,11 +740,11 @@ Aufgabe dieser Stunde war es den programmierten Code zu kommentieren, damit er f
 
 In dieser Stunde wurde eine passende library für das LCD-Display installiert. Link zur Quelle: https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library
 Außerdem wurden mit dem gedruckten 3-D Modell erste Tests unter Aufsicht von Herrn Buhl durchgeführt. Nachdem der Schrittmotor teilweise nicht genug Kraft hatte, um das Ventil des Gaskochers zu öffnen, wurde die Betriebsspannung des Motors 8 Volt erhöht.
-Ein Video von den ersten Tests wurde von zu Hause aus aufgenommen. Link zum Video: 
+<font red> Ein Video von den ersten Tests wurde von zu Hause aus aufgenommen. Link zum Video: </font red>
     
 ## <p> <h2> <a id="Stundevom17.11.2021"> Stunde vom 10.11.2021 </a> <h2>
 
-Ziel dieser Informatikstunde war es den Steckplan des Projekts mit Hilfe der Software "Fritzing" zu digitalisieren. Außerdem wurde ein Kochtopf aus dem Kellerbestand einer befreundeten Familie organisiert. Die Planung für das finale Projekt wurde weitergebracht.
+Ziel dieser Informatikstunde war es den <font red> Steckplan des Projekts mit Hilfe der Software "Fritzing" zu digitalisieren.</font red> Außerdem wurde ein Kochtopf aus dem Kellerbestand einer befreundeten Familie organisiert. Die Planung für das finale Projekt wurde weitergebracht.
 Das finale Projekt soll in einer Box transportiert werden können und möglichst wenig Platz einnehmen. Dafür sollen alle Verbindung sicher gesteckt bzw. gelötet werden und in einem Kasten aus Holz oder Metall versteckt und geschützt werden. Des Weiteren soll der Rotary Encoder mit einem Knopf ausgestattet werden, damit die Bedienung erleichtert ist. 
     
 <details>
@@ -771,4 +771,16 @@ In dieser Stunde wurde angefangen die Projektseite zu designen. Über Layout und
   
 In dieser Stunde wurde zusammen mit Herrn Buhl der Kochtopf inspiziert und über eine Verbindung von Temperaturmesser in den Topf diskutiert. Problematisch ist, dass der Temperaturmesser nicht überall wasserdicht ist, aber auch nicht seitlich in den Topf, sondern in den Deckel integriert werden. Dies hat den Vorteil, dass der Topf frei beweglich ist und leicht von der Flamme genommen werden kann. Von zu Hause soll probiert werden den Temperaturfühler so abzudichten, dass er zwar die Temperatur ohne große Zeitverzögerung messen kann, aber wasserdicht ist, um ins Wasser gehalten werden zu können. 
     
-   
+## <p> h2> <a id="Stundevom30.11.2021"> Stunde vom 30.11.2021 </a> <h2>
+     
+Die Abdichtung des Thermometers von zu Hause klappte gut. In der Werkstatt wurden alte Dichtungen aus Restbeständen benutzt, um alle kritischen Verbindungen abzud[IMG_1756.pdf](https://github.com/simonrettmann/Simons-Projekte/files/7621384/IMG_1756.pdf)
+ichten. Mit Hilfe einer alten Kupferröhre konnte das Kabel vor äußeren Einflüssen geschützt werden. Der Kanal, durch den das Thermomether verläuft, wurde nun am Thermometerkopf und an der Öffnung Röhre-Topf mit Dichtungen versehen.  
+Außerdem wurden im Baumarkt fehlende Teile besorgt, wie zum Beispiel ein Blech und Winkel, damit der Schrittmotor an das Ventil der Gasflasche montiert werden kann. Die Gruppe entschied sich gegen eine Verankerung des Motors mit dem Boden. Die Umsetzung wäre hier, zum Beispiel durch ein Dreibein, deutlich erleichtert gewesen, aufgrund von optischen Gründen, entschied sich die Gruppe jedoch einstimmig dagegen. 
+Die letzte Vorraussetzung für die reibunglose Umsetzung war eine Bohrung in den Edelstahldeckel des Topfes, durch das das Thermometer mit dem Topfinhalt in Kontakt kommt. Der Vorteil davon ist, dass nicht der Topf selber, sondern nur der Deckel fest mit dem Kocher verankert ist und man somit mehr Freiheit und ebenfalls Sicherheit erreichen kann. Die Bohrung erfolgte in der Werkstatt eines Freundes. Wichtig für die Bohrung von Edelstahl ist die Verwendung eines Standborhers, eine Körnung des Werkstoffes, der richtige Aufsatz, eine niedrige Drehzahl und beölen der Bohrfläche, damit weniger Hitze entsteht. 
+     
+ <details>
+      <summary>Bildergalerie</summary>
+<b> Bild des abgedichteten Thermometers von der Seite </b> <img alt="Bild von der Seite" src="https://github.com/simonrettmann/Simons-Projekte/files/7621378/IMG_1755.1.pdf">
+<b> Bild des abgedichteten Thermometers von schräg vorne </b> <img alt="Bild von schräg vorne" src="https://github.com/simonrettmann/Simons-Projekte/files/7621384/IMG_1756.pdf">
+<b> Bild des abgedichteten Thermometers von oben </b> <img alt="Bild von schräg vorne" src="https://github.com/simonrettmann/Simons-Projekte/files/7621403/IMG_1758.pdf">
+</details>
