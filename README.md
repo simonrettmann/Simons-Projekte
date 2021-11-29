@@ -772,7 +772,7 @@ In dieser Stunde wurde angefangen die Projektseite zu designen. Über Layout und
   
 In dieser Stunde wurde zusammen mit Herrn Buhl der Kochtopf inspiziert und über eine Verbindung von Temperaturmesser in den Topf diskutiert. Problematisch ist, dass der Temperaturmesser nicht überall wasserdicht ist, aber auch nicht seitlich in den Topf, sondern in den Deckel integriert werden. Dies hat den Vorteil, dass der Topf frei beweglich ist und leicht von der Flamme genommen werden kann. Von zu Hause soll probiert werden den Temperaturfühler so abzudichten, dass er zwar die Temperatur ohne große Zeitverzögerung messen kann, aber wasserdicht ist, um ins Wasser gehalten werden zu können. 
     
-## <p> h2> <a id="Stundevom30.11.2021"> Stunde vom 30.11.2021 </a> <h2>
+## <p> <h2> <a id="Stundevom30.11.2021"> Stunde vom 30.11.2021 </a> <h2>
      
 Die Abdichtung des Thermometers von zu Hause klappte gut. In der Werkstatt wurden alte Dichtungen aus Restbeständen benutzt, um alle kritischen Verbindungen abzud[IMG_1756.pdf](https://github.com/simonrettmann/Simons-Projekte/files/7621384/IMG_1756.pdf)
 ichten. Mit Hilfe einer alten Kupferröhre konnte das Kabel vor äußeren Einflüssen geschützt werden. Der Kanal, durch den das Thermomether verläuft, wurde nun am Thermometerkopf und an der Öffnung Röhre-Topf mit Dichtungen versehen.  
