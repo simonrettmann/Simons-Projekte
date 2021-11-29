@@ -6,6 +6,9 @@ Informatik, Bl
 
 David Borgmann, Simon Rettmann
 
+<img align="right" alt="Logo der Stormarnschule" src="https://user-images.githubusercontent.com/88385654/143951642-49023181-8529-46f8-a52c-9268e94fbd61.jpg">
+
+
 ## Stundenübersicht
 <table align="center">
      
