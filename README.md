@@ -791,8 +791,19 @@ Die letzte Vorraussetzung für die reibunglose Umsetzung war eine Bohrung in den
      
  <details>
       <summary>Bildergalerie</summary>
+      
+## Abgedichtetes Thermometer
+      
 <b>Bild des abgedichteten Thermometers von der Seite</b> <img alt="Bild von der Seite" src="https://user-images.githubusercontent.com/88385654/143951400-061ec319-9c3c-4a9c-b14b-2301cc4b7ea5.jpg">
 <b> Bild des abgedichteten Thermometers von schräg vorne </b> <img alt="Bild von schräg vorne" src="https://user-images.githubusercontent.com/88385654/143951423-04f56437-1700-4f00-accf-d948e08f4083.jpg">
 <b> Bild des abgedichteten Thermometers von oben </b> <img alt="Bild von schräg vorne" src="https://user-images.githubusercontent.com/88385654/143951440-b116fed3-dbb4-4f71-b4c8-6c4def6827fb.jpg">
+      
+## Thermomether im Deckel
+      
+<b>Bild des integrierten Thermometers von oben</b> <img alt="Bild von oben" src="https://user-images.githubusercontent.com/88385654/144057917-1ea3bb3b-d948-4542-9d92-c1e9a11e1be2.jpg">
+<b>Bild des integrierten Thermometers von unten</b> <img alt="Bild von unten" src="https://user-images.githubusercontent.com/88385654/144058112-2b5efc09-a4c1-40ea-b612-869629e68002.jpg">
+<b>Bild des integrierten Thermometers von der Seite</b> <img alt="Bild von der Seite" src="https://user-images.githubusercontent.com/88385654/144058239-6dc095ea-86f8-4bc0-ac1b-776fa384bd0b.jpg">
+      
 </details>
+
 
