@@ -911,13 +911,13 @@ void isr ()  {
     
 </details>
     
-## <p> <h2> <a id="Stundevom16.11.2021"> Stunde vom 10.11.2021 </a> <h2>
+## <p> <h2> <a id="Stundevom16.11.2021"> Stunde vom 16.11.2021 </a> <h2>
 
 In dieser Stunde wurde eine passende library für das LCD-Display installiert. Link zur Quelle: https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library
 Außerdem wurden mit dem gedruckten 3-D Modell erste Tests unter Aufsicht von Herrn Buhl durchgeführt. Nachdem der Schrittmotor teilweise nicht genug Kraft hatte, um das Ventil des Gaskochers zu öffnen, wurde die Betriebsspannung des Motors 8 Volt erhöht.
 Ein Video von den ersten Tests wurde von zu Hause aus aufgenommen. Link zum Video: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
     
-## <p> <h2> <a id="Stundevom17.11.2021"> Stunde vom 10.11.2021 </a> <h2>
+## <p> <h2> <a id="Stundevom17.11.2021"> Stunde vom 17.11.2021 </a> <h2>
 
 Ziel dieser Informatikstunde war es den <font red> Steckplan des Projekts mit Hilfe der Software "Fritzing" zu digitalisieren.</font red> Außerdem wurde ein Kochtopf aus dem Kellerbestand einer befreundeten Familie organisiert. Die Planung für das finale Projekt wurde weitergebracht.
 Das finale Projekt soll in einer Box transportiert werden können und möglichst wenig Platz einnehmen. Dafür sollen alle Verbindung sicher gesteckt bzw. gelötet werden und in einem Kasten aus Holz oder Metall versteckt und geschützt werden. Des Weiteren soll der Rotary Encoder mit einem Knopf ausgestattet werden, damit die Bedienung erleichtert ist. !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
