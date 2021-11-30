@@ -3,7 +3,7 @@
 <p>
 Stormarnschule 2021 
      
-<img align="right" heigth="120px" width="120px" alt="Logo der Stormarnschule" src="https://user-images.githubusercontent.com/88385654/143951761-5bef3ad8-f6f8-4034-8314-8af063be444e.jpg">
+<img align="left" heigth="120px" width="120px" alt="Logo der Stormarnschule" src="https://user-images.githubusercontent.com/88385654/143951761-5bef3ad8-f6f8-4034-8314-8af063be444e.jpg">
 
 Informatik, Bl
 
