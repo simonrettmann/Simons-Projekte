@@ -1,7 +1,8 @@
 # Stundenprotokolle 12. Klasse 1. Halbjahr 
 
 <p>
-Stormarnschule 2021 
+<fieldset>
+     Stormarnschule 2021 
      
 <img align="left" heigth="120px" width="120px" alt="Logo der Stormarnschule" src="https://user-images.githubusercontent.com/88385654/143951761-5bef3ad8-f6f8-4034-8314-8af063be444e.jpg">
 <img align="right" heigth="70px" widht=70px" alt"Bild der Gruppe" src="https://user-images.githubusercontent.com/88385654/144031736-06236b42-5a11-4c92-ac32-7cd6bda4f81d.jpeg">
@@ -9,6 +10,7 @@ Stormarnschule 2021
 Informatik, Bl
 
 David Borgmann, Simon Rettmann
+</fieldset>
 </p>
 </br>
 </br>
