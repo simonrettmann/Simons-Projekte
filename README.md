@@ -732,11 +732,174 @@ Aufgrund der Vorabiturklausuren, musste diese Stunde leider ausfallen. Von zu Ha
                                         
 ## <p> <h2> <a id="Stundevom10.11.2021"> Stunde vom 10.11.2021 </a> <h2>
 
-Aufgabe dieser Stunde war es den programmierten Code zu kommentieren, damit er für alle auch an dem Projekt nicht beteiligten Personen leicht verständlich ist. !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Aufgabe dieser Stunde war es den programmierten Code zu kommentieren, damit er für alle auch an dem Projekt nicht beteiligten Personen leicht verständlich ist. 
 <details>
     <summary>kommentierter Code</summary>
-    
-    
+ 
+ ```c
+  /*
+*/
+// in diesem Abschnitt werden die benötigten Bibliotheken eingebunden:
+#include <LiquidCrystal_I2C.h>                         //ermöglicht eine einfache Komunikation mit dem LC-Display mit nur 2 Datenpins; Quelle: https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library                                                                                                                      
+#include <Wire.h>                                      //wird für die I2C-LCD Bibliothek zusätzliche für die Kommunikation benötigt benötigt; Quelle: Vorinstalierte Arduino-Bibliothek
+#include <AccelStepper.h>                              //ermöglicht einfache Programmierung des Schrittmotors; Quelle: Arduino-Biliotheken-Verzeichnis
+#include "max6675.h"                                   //ist für die Auslese des Thermosensors zuständig; Quelle: Arduino-Biliotheken-Verzeichnis von Adafruit
+
+//in diesem Abschnitt werden alle benötigten Variablen und Konstanten definiert:
+  //zunächst werden die Pin-Belegung:
+const int PinA = 2;   //CLK: Clock-Pin für den Rotary-Encoder
+const int PinB = 3;   //DT:  Daten-Output-Pin des Rotary-Encoder
+const int PinSW = 8;  //SW:  Knopf-Pin des Rotary-Encoder
+
+const int soPin = 4;  //SO: Serieller Outputput-Pin für das Thermoelement
+const int csPin = 5;  //CS: Chip-Select-Pin für das Thermoelement
+const int sckPin = 6; //SCK: Serieller Cklock-Pin für das Thermoelement
+
+#define motorPin1 9   //Die 4 benötigten Pins für den Schrittmotor werden festgelegt 
+#define motorPin2 10
+#define motorPin3 11
+#define motorPin4 12
+
+  //außerdem werden verschiedene Variablen für die Programmierung benötigt:
+float tatTemp;                                //Variable für die gemessene Temperatur in Grad (float: mit 2 Nachkommastellen)
+int lastCount = 0;                            //speichert den letzten Wert des Rotaryencoders
+volatile int eingestellteTemp = 0;            //eingestellte Temperatur: wird durch die ISR (Interrupt Service Routine) aktualisiert
+float pVentil = 0;                            //Ventilstellung in Prozent (100% entspricht vollständiger Öffnung)
+int stepperPosition = 0;                      //Position des Schrittmotors in Schritten (4096 Schritte = 360°)
+float tempDifferenz;                          //Differenz zwischen eingestellter Temperatur und gemessener Temperatrur  
+const float schritteproprozent = 71.68;       //71.68 Schritte des Schrittmotors entpricht 1° Ventilöffnung 
+int rotarySchrittwert = 5;                    //Werigkeit jedes am Rotaryencoder eingestellten Schrittes
+
+#define HALFSTEP 8                            //der Schrittmotor soll im Halfstep-Modus betrieben
+
+AccelStepper stepper1(HALFSTEP, motorPin1, motorPin3, motorPin2, motorPin4);    //das Objekt "stepper1" wird Initialisiert
+LiquidCrystal_I2C lcd(0x3F, 16, 2);                                             //das Objekt "lcd" wird Initialisiert
+MAX6675 thermo(sckPin, csPin, soPin);                                           //das Objekt "thermo" wird Initialisiert
+
+
+//Der folgende Programmteil wird nur ein mal abgerufen:
+void setup()       
+{
+  Serial.begin(9600);    //die serielle Kommunikation wird gestartet
+    delay(1000);         //Zeit, damit sich die Sensoren kalibrieren können 
+  lcd.begin();           //das LC-Display wird gestartet  
+  lcd.backlight();       //die Hintergrundbeleuchtung des LCDs wird aktiviert 
+  
+  stepper1.setCurrentPosition(0);     //die aktuelle Position des Schrittmotors wird = 0 gesetzt
+  stepper1.setMaxSpeed(1000.0);       //die maximale Geschwindigkeit des Steppers wird 1000 Schritte pro Sekunde gesetzt 
+  stepper1.setAcceleration(1000.0);   //die Beschleunigung des Steppers wird 1000 Schritte pro Sekunde^2 gesetzt 
+  stepper1.setSpeed(1000);            //die Geschwindigkeit des Steppers wird auf 1000 Schritte pro Sekunde festgelegt 
+
+  pinMode(PinA, INPUT);               //PinA und PinB sind INPUTs, um die Signale des Rotary-Encoders zu lesen
+  pinMode(PinB, INPUT);
+  pinMode(PinSW, INPUT_PULLUP);       //der SW-Pin ist Potentailfrei; es wird ein Wiederstand benötigt, dafür wird der im Arduino verbaute Pullup-Wiederstand verwendet
+
+  attachInterrupt(digitalPinToInterrupt(PinA), isr, LOW);  //die Interupt-Routine "ISR" wird dann ausgelöst, wenn der PinA = LOW ist
+  
+  Serial.println("Start");  //das Setup ist ausgeführt; im seriellen Monitor wir das mit "Start" signalisiert
+} 
+
+//Der folgende Programmteil wird bei Vollendung Wiederholt
+void loop()
+{
+  float tatTemp = thermo.readCelsius();               //das Thermomenter wird ausgelesen und der Wert als Variable überführt
+         delay(300);
+      
+  Serial.print("Eingestellte Temperatur: ");          //der serielle Monitor dient unserem Projekt als Kontrollbildschirm, deshalb werden alle wichtigen Werte abgebildet: 
+  Serial.println(eingestellteTemp);
+         Serial.println(" ");
+         
+  Serial.print("Gemessene Temperatur in C: ");
+  Serial.println(tatTemp);
+         Serial.println(" ");
+         
+  Serial.print("Temperaturdifferenz:");
+  Serial.println(tempDifferenz);
+         Serial.println(" ");
+         
+  Serial.print("Ventilöffnung in Prozent: ");
+  Serial.println(pVentil);
+         Serial.println(" ");
+
+  Serial.println("------------------------------------");  //dient zur Übersicht im seriellen Monitor
+
+  lcd.clear();                         //leert das LCD, damit neue und alte Werte sich nicht überlagern
+  lcd.setCursor(0, 0);                 //das LCD soll die gemessene Temperatur und die eingstellte Temperatur darstellen: 
+  lcd.print("ein.Temp: ");
+    lcd.print(eingestellteTemp);
+    lcd.setCursor(15, 0);
+    lcd.print("C");
+  lcd.setCursor(0, 1);
+  lcd.print("akt.Temp: ");
+    lcd.print(tatTemp);
+    lcd.setCursor(15, 1);
+    lcd.print("C");
+  
+delay(100);                           //0,1 Sekunden Pause, damit die Sensoren neue Werte bilden können
+  
+  if ((!digitalRead(PinSW))) {        //wenn der Knopf des Encoders gedrückt wird (Strom am PinSW anliegt), ist der Schrittwert = 1
+    rotarySchrittwert = 1;
+  }
+  else{                               //anderenfalls beträgt der Schrittwert = 5
+    rotarySchrittwert = 5;
+  }
+  
+   
+  //wenn der folgende Programmteil aktiviert wird, kann bestimmt werden, ob der Wert des Encoders momentan veringert oder vergrößert wird
+ /* if (eingestellteTemp != lastCount) {
+      Serial.println("Eingestellte Temperatur: ");
+      Serial.print(eingestellteTemp > lastCount ? "Up  :" : "Down:");
+      Serial.println(eingestellteTemp);
+      
+      lastCount = eingestellteTemp ;
+  }
+ */
+
+  tempDifferenz = eingestellteTemp - tatTemp;               //Differenz aus eingestellter Temperatur und gemessener Temperatur wird gebildet und als int Variable gespeichert
+
+  stepperPosition = pVentil * schritteproprozent;           //die Position des Steppers ist das Produkt von der gewünschten Ventilstellung und der Anzahl der Schritte, welche für 1% benötigt werden
+
+  //pVentil = (10 * sqrt(tempDifferenz) - 5);
+  pVentil= 100/(1+ pow(1.1, -tempDifferenz + 50)) + 1;      //mathematische Funktion, welche die Temperaturdifferenz in eine Ventilstellung umsetzt
+                                                            //zwar handelt es sich um einen logistsichen Zusammenhang, jedoch gilt grundsätzlich: Je größer die Temperaturdifferenz, desto weiter ist das Ventil geöffnet
+  pVentil = min(100, max(0, pVentil));                      //der Wertebereich der Ventilöffnung wir zwischen 0% und 100% begrenzt
+  
+  //Serial.print("Ventiloffnung in P:");
+  //Serial.println(pVentil);
+   
+  stepperPosition = min(7168, max(0, stepperPosition));     //um sicherzugehen, dass der Motor nicht zu weit dreht und die Hardware beschädigt, wird auch die maximale Drehung begrenzt
+  
+//dieser Programmabschnitt aktuallisert die Position des Schrittmotors:
+stepper1.moveTo(stepperPosition);                     
+stepper1.runToPosition();          //leider wird der Code an diese Stelle pausiert; der Schrittmotor sollte also möglichst schnell drehen
+stepper1.disableOutputs();
+  
+}
+
+//der folgende Programmteil ist die Interrupt-Service-Routine
+void isr ()  {
+  static unsigned long lastInterruptTime = 0;
+  unsigned long interruptTime = millis();
+
+  //wenn der Interupt schneller als 5 ms nach dem vorherigen Interrupt kommt, wird dieser Ignoriert. Dadurch wird "Bounce" verhindert.
+  //Bounces sind Signale, welche beim Herstellen eines mechanischen Kontaktes entstehen. Der Kontakt "flimmert". Wenn das nicht berücksichtigft wird, entstehen mehrere kurze Signale, auch wenn nur ein Schritt gedreht wurde
+  if (interruptTime - lastInterruptTime > 5) {
+    if (digitalRead(PinB) == LOW)
+    {
+      eingestellteTemp-= rotarySchrittwert ; 
+    }
+    else {
+      eingestellteTemp+= rotarySchrittwert ; 
+    }
+
+    eingestellteTemp = min(300, max(0, eingestellteTemp));    //die Temperatur, welche eingestellt werden kann, ist zwischen 0° und 300° begrenzt 
+
+
+  }
+  lastInterruptTime = interruptTime;                          //es wird gespeichert, wann der letzte Interupt war
+}   
+     
+```
 </details>
                                        
 <details>
