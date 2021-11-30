@@ -525,7 +525,7 @@ In dieser Stunde wurde der Abgabetermin des Projektes auf den 6.12.2021 festgele
 
 </details>
     
-Nachdem diese Übersicht erstellt worden war, arbeitete die Gruppe an dem Problem der Umrechnung von eingestelltem Wert in eine Steuerung des Gasflusses. <font red> Letzendlich entschied sich die Gruppe für eine logistische Kurve, da bei dieser Funktion, bei einer großen Differenz eine starke Öffnung, und bei niedriger Differenz nur eine kleine Öffnung, erreicht wird.</font red>
+Nachdem diese Übersicht erstellt worden war, arbeitete die Gruppe an dem Problem der Umrechnung von eingestelltem Wert in eine Steuerung des Gasflusses. Letzendlich entschied sich die Gruppe für eine logistische Kurve, da bei dieser Funktion, bei einer großen Differenz eine starke Öffnung, und bei niedriger Differenz nur eine kleine Öffnung, erreicht wird. !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
  Außerdem wurde an der Software weitergearbeitet.
     
  ## <p> <h2> <a id="Stundevom20.10.2021"> Stunde vom 20.10.2021 </a> <h2>
@@ -569,7 +569,7 @@ Ziel dieser Doppelstunde war die Analyse des bisherigen 3-D Modells. Einige Maß
 
 ## <p> <h2> <a id="Stundevom27.10.2021"> Stunde vom 27.10.2021 </a> <h2>
     
-Die Software wurde in dieser Stunde weiter nach vorne gebracht. Ein Zwischenstand wurde erreicht, sodass eine eingestellte Temperatur mit einer gemessenen Temperatur ins Verhältnis gesetzt wird und sich aufgrund dieser Differenz eine prozentuale Öffnung der Gasflasche ergibt. Damit wurde ein wichtiger Meilenstein erreicht. <font red>Video zum bisherigen Versuchsstand: </font red>
+Die Software wurde in dieser Stunde weiter nach vorne gebracht. Ein Zwischenstand wurde erreicht, sodass eine eingestellte Temperatur mit einer gemessenen Temperatur ins Verhältnis gesetzt wird und sich aufgrund dieser Differenz eine prozentuale Öffnung der Gasflasche ergibt. Damit wurde ein wichtiger Meilenstein erreicht. Video zum bisherigen Versuchsstand: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 Für die Zukunft steht noch die Programmierung eines LCD-Displays an. Zusammen mit den 3-D Modullen ist das Projekt nun aber bereits so weit, dass das Projekt als ganzes getestet werden kann. 
     
 <details>
@@ -732,8 +732,7 @@ Aufgrund der Vorabiturklausuren, musste diese Stunde leider ausfallen. Von zu Ha
                                         
 ## <p> <h2> <a id="Stundevom10.11.2021"> Stunde vom 10.11.2021 </a> <h2>
 
-<font color="red"> Aufgabe dieser Stunde war es den programmierten Code zu kommentieren, damit er für alle auch an dem Projekt nicht beteiligten Personen leicht verständlich ist.
-</font>
+Aufgabe dieser Stunde war es den programmierten Code zu kommentieren, damit er für alle auch an dem Projekt nicht beteiligten Personen leicht verständlich ist. !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 <details>
     <summary>kommentierter Code</summary>
     
@@ -753,7 +752,7 @@ Aufgrund der Vorabiturklausuren, musste diese Stunde leider ausfallen. Von zu Ha
 
 In dieser Stunde wurde eine passende library für das LCD-Display installiert. Link zur Quelle: https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library
 Außerdem wurden mit dem gedruckten 3-D Modell erste Tests unter Aufsicht von Herrn Buhl durchgeführt. Nachdem der Schrittmotor teilweise nicht genug Kraft hatte, um das Ventil des Gaskochers zu öffnen, wurde die Betriebsspannung des Motors 8 Volt erhöht.
-<font red> Ein Video von den ersten Tests wurde von zu Hause aus aufgenommen. Link zum Video: </font red>
+Ein Video von den ersten Tests wurde von zu Hause aus aufgenommen. Link zum Video: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
     
 ## <p> <h2> <a id="Stundevom17.11.2021"> Stunde vom 10.11.2021 </a> <h2>
 
