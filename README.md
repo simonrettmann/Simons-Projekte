@@ -798,7 +798,7 @@ Die letzte Vorraussetzung für die reibunglose Umsetzung war eine Bohrung in den
 <b> Bild des abgedichteten Thermometers von schräg vorne </b> <img alt="Bild von schräg vorne" src="https://user-images.githubusercontent.com/88385654/143951423-04f56437-1700-4f00-accf-d948e08f4083.jpg">
 <b> Bild des abgedichteten Thermometers von oben </b> <img alt="Bild von schräg vorne" src="https://user-images.githubusercontent.com/88385654/143951440-b116fed3-dbb4-4f71-b4c8-6c4def6827fb.jpg">
       
-## Thermomether im Deckel
+## integriertes Thermometer im Topfdeckel
       
 <b>Bild des integrierten Thermometers von oben</b> <img alt="Bild von oben" src="https://user-images.githubusercontent.com/88385654/144057917-1ea3bb3b-d948-4542-9d92-c1e9a11e1be2.jpg">
 <b>Bild des integrierten Thermometers von unten</b> <img alt="Bild von unten" src="https://user-images.githubusercontent.com/88385654/144058112-2b5efc09-a4c1-40ea-b612-869629e68002.jpg">
