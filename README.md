@@ -1,6 +1,6 @@
 # Stundenprotokolle 12. Klasse 1. Halbjahr 
 
-<img alt="Foto der Gruppe" align="right" heigth="100px" widht="100px" alt="Bild der Gruppe" src="https://user-images.githubusercontent.com/88385654/144052655-1a23ab85-adc9-4040-ac38-66b1a760898a.JPG">
+<img alt="Foto der Gruppe" align="right" heigth="100px" widht="100px" alt="Bild der Gruppe" src="https://user-images.githubusercontent.com/88385654/144052970-35e4dc8b-0d98-48f9-88a9-b50b052abd66.JPG">
 
 <p>
 Stormarnschule 2021 
