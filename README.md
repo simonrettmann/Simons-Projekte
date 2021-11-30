@@ -732,7 +732,8 @@ Aufgrund der Vorabiturklausuren, musste diese Stunde leider ausfallen. Von zu Ha
                                         
 ## <p> <h2> <a id="Stundevom10.11.2021"> Stunde vom 10.11.2021 </a> <h2>
 
-<font red> Aufgabe dieser Stunde war es den programmierten Code zu kommentieren, damit er für alle auch an dem Projekt nicht beteiligten Personen leicht verständlich ist. </font red>
+<font color="red"> Aufgabe dieser Stunde war es den programmierten Code zu kommentieren, damit er für alle auch an dem Projekt nicht beteiligten Personen leicht verständlich ist.
+</font>
 <details>
     <summary>kommentierter Code</summary>
     
