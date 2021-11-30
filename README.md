@@ -1,11 +1,11 @@
 # Stundenprotokolle 12. Klasse 1. Halbjahr 
 
-<img alt="Foto der Gruppe" align="right" heigth="100px" widht="100px" alt="Bild der Gruppe" src="https://user-images.githubusercontent.com/88385654/144052970-35e4dc8b-0d98-48f9-88a9-b50b052abd66.JPG">
+<img alt="Foto der Gruppe" align="right" heigth="90px" widht="30px" alt="Bild der Gruppe" src="https://user-images.githubusercontent.com/88385654/144052970-35e4dc8b-0d98-48f9-88a9-b50b052abd66.JPG">
 
 <p>
 Stormarnschule 2021 
      
-<img align="left" heigth="90px" width="30px" alt="Logo der Stormarnschule" src="https://user-images.githubusercontent.com/88385654/143951761-5bef3ad8-f6f8-4034-8314-8af063be444e.jpg">
+<img align="left" heigth="120px" width="120px" alt="Logo der Stormarnschule" src="https://user-images.githubusercontent.com/88385654/143951761-5bef3ad8-f6f8-4034-8314-8af063be444e.jpg">
      
 Informatik, Bl
 
