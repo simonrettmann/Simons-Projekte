@@ -526,8 +526,14 @@ In dieser Stunde wurde der Abgabetermin des Projektes auf den 6.12.2021 festgele
 
 </details>
     
-Nachdem diese Übersicht erstellt worden war, arbeitete die Gruppe an dem Problem der Umrechnung von eingestelltem Wert in eine Steuerung des Gasflusses. Letzendlich entschied sich die Gruppe für eine logistische Kurve, da bei dieser Funktion, bei einer großen Differenz eine starke Öffnung, und bei niedriger Differenz nur eine kleine Öffnung, erreicht wird. !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
- Außerdem wurde an der Software weitergearbeitet.
+Nachdem diese Übersicht erstellt worden war, arbeitete die Gruppe an dem Problem der Umrechnung von eingestelltem Wert in eine Steuerung des Gasflusses. Letzendlich entschied sich die Gruppe für eine logistische Kurve, da bei dieser Funktion, bei einer großen Differenz eine starke Öffnung, und bei niedriger Differenz nur eine kleine Öffnung, erreicht wird. Jeder errechneten Differenz wird ein passender y-Wert als Anzahl von Schritten zugeordnet. <br> Funktion: f(x)= 100/(1+1,1^(-x+50))+1 <br>
+Ob sich diese Funktion als passend erweist muss im Laufe des Projektes nach Testung mit Prototypen experimentell herausgefunden werden. <br>
+Außerdem wurde an der Software weitergearbeitet.
+<details>
+	<summary>Bild der Funktion von GeoGebra</summary>
+<img alt="Bild der Funktion" src="https://user-images.githubusercontent.com/88385654/144412226-ba5ff562-d237-46a6-bdcb-3dc8847182ea.jpg">
+
+</details>
     
  ## <p> <h2> <a id="Stundevom20.10.2021"> Stunde vom 20.10.2021 </a> <h2>
     
