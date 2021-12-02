@@ -1124,7 +1124,8 @@ Die Entwickler des Projektes, David und Simon, sind begeisterte Outdoor-Fans. In
 
 </code>
 </details>
-	
+
+<html>
 ## <a id="Finalisierung"> Finalisierung vom 1.12.2021 - 6.12.2021 </a>
 
 Während dieser finalten Phase wurden Testungen durchgeführt, um mögliche Probleme zu finden und zu behenben. Erfreulich war zu sehen, dass sowohl die Hardware als auch die Software ihren Zweck erfüllten und den Kern des Projektes erfüllten. Allerdings traten bei diesen Versuchen auch Unstimmigkeiten auf, die zu Problemen führte. 
