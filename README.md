@@ -990,7 +990,7 @@ In dieser Stunde wurde die Projektseite weiter mit Leben gefüllt. Dafür wurden
 </details>
 	
 <details>
-     <summary>erste Struktur der Projektseite</summary>
+     <summary> erste Struktur der Projektseite </summary>
      
 <code>
 <html>
