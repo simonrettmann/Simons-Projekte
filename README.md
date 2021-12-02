@@ -1129,4 +1129,4 @@ Die Entwickler des Projektes, David und Simon, sind begeisterte Outdoor-Fans. In
 
 <video width="300" height="300" controls>
 	<source src="https://youtu.be/qgBPvEuJ_uI" type="video/mp4">
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qgBPvEuJ_uI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
