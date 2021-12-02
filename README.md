@@ -62,7 +62,7 @@ David Borgmann, Simon Rettmann
 </tr>
 <tr>
     <td><a href="#Stundevom1.12.2021"> 29. Stunde vom 1.12.2021 </a></td>
-    <td><a href="#Finalisierung"> Finalisierung des Projekts vom 1.12.2021 - 6.12.2021 </a></td>
+    <td><a href="#Finalisierung"> Finalisierung des Projekts <br> vom 1.12.2021 - 6.12.2021 </a></td>
 </tr>
     </table>
 
