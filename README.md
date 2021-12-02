@@ -1112,7 +1112,8 @@ Zur präzisen Umsetzung und ansprechenden Dokumentation wurde eine Vielzahl von 
 	<summary>Mehr Infos</summary>
 
 Die Entwickler des Projektes, David und Simon, sind begeisterte Outdoor-Fans. In den Sommerferien eine Woche "Wildcampen" in Schweden und eine 		Studienfahrt, in der eine Woche auf der Mecklenburger-Seenplatte Kanu gefahren wurde. Neben der Natur begeistert allerdings auch das Kochen die Beiden. So kam es bei der Nahrungszubereitung bei diesen beiden Urlauben zu Problemen: Mal ist der Gaskocher zu heiß-der Reis angebrannt, mal das Wasser zu kalt - die Nudeln werden einfach nicht gar. Als in der Einführung zum Informatikunterricht die Möglichkeit eines "Physical-Computing"-Projekts genannt wurde und zuerst einige Ideen diskutiert wurden, entschieden sich die beiden schnell für einen aurdionogesteuerten Gaskocher. Die Idee für das Projekt war 	geboren. Ziel war es einen Gaskocher so steuern zu können, dass eine vorher eingestellte Temperatur erreicht und selbstständig gehalten werden kann.
-</details>
+</details>![Uploading Bildschirmfoto 2021-12-02 um 23.51.58 (2).png…]()
+
 
 <h4> <a id="Entwicklungsgeschichte"> 2️⃣ Entwicklungsgeschichte</a> </h4>
 
@@ -1132,5 +1133,6 @@ Während dieser finalten Phase wurden Testungen durchgeführt, um mögliche Prob
 	<li> Bei einem Test, in dem die Temperatur auf 80 °C eingestellt wurde, erreichte der Gaskocher mehr als 90 °C. Das lag daran, dass der Gaskocher zu spät die Flamme reduzierte und die Sparflamme ausreichte, um das Wasser im Topf weiter zu erwärmen. Es gab dementsprechend keinen ausgeglichenen Zustand aus Erwärumen und Abgabe der Temperatur an die Umwelt. Somit wurde die Temperatur nicht gehalten, sondern langsam erhöht. href="https://youtu.be/qgBPvEuJ_uI">Video zu dem Probeversuch</a> </li>
 </ul>	
 	
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/qgBPvEuJ_uI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+<div align="center">
+  <a href="https://www.youtube.com/embed/qgBPvEuJ_uI"><img src="" alt="Test #1"></a>
+</div>
