@@ -1115,5 +1115,5 @@ In dieser Stunde wurde die Projektseite weiter mit Leben gefüllt. Dafür wurden
 
 	<h4> <a id="Reflexion"> 3️⃣ Reflexion und Fazit des Projekts </a> </h4>
 
-	</code>
-	</details>
+</code>
+</details>
