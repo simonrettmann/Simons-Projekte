@@ -1127,4 +1127,5 @@ Die Entwickler des Projektes, David und Simon, sind begeisterte Outdoor-Fans. In
 	
 ## <a id="Finalisierung"> Finalisierung vom 1.12.2021 - 6.12.2021 </a>
 
-<video src="https://youtu.be/qgBPvEuJ_uI">
+<video width="300" height="300" controls>
+	<source src="https://youtu.be/qgBPvEuJ_uI" type="video/mp4">
