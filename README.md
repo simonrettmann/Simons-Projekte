@@ -1132,4 +1132,5 @@ Während dieser finalten Phase wurden Testungen durchgeführt, um mögliche Prob
 	<li> Bei einem Test, in dem die Temperatur auf 80 °C eingestellt wurde, erreichte der Gaskocher mehr als 90 °C. Das lag daran, dass der Gaskocher zu spät die Flamme reduzierte und die Sparflamme ausreichte, um das Wasser im Topf weiter zu erwärmen. Es gab dementsprechend keinen ausgeglichenen Zustand aus Erwärumen und Abgabe der Temperatur an die Umwelt. Somit wurde die Temperatur nicht gehalten, sondern langsam erhöht. href="https://youtu.be/qgBPvEuJ_uI">Video zu dem Probeversuch</a> </li>
 </ul>	
 	
-<iframe src="https://www.youtube.com/embed/qgBPvEuJ_uI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/qgBPvEuJ_uI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
