@@ -1129,7 +1129,6 @@ Die Entwickler des Projektes, David und Simon, sind begeisterte Outdoor-Fans. In
 
 Während dieser finalten Phase wurden Testungen durchgeführt, um mögliche Probleme zu finden und zu behenben. Erfreulich war zu sehen, dass sowohl die Hardware als auch die Software ihren Zweck erfüllten und den Kern des Projektes erfüllten. Allerdings traten bei diesen Versuchen auch Unstimmigkeiten auf, die zu Problemen führte. 
 <ul>
-	<li> Bei einem Test, in dem die Temperatur auf 80 °C eingestellt wurde, erreichte der Gaskocher mehr als 90 °C. Das lag daran, dass der Gaskocher zu spät die Flamme reduzierte und die Sparflamme ausreichte, um das Wasser im Topf weiter zu erwärmen. Es gab dementsprechend keinen ausgeglichenen Zustand aus Erwärumen und Abgabe der Temperatur an die Umwelt. Somit wurde die Temperatur nicht gehalten, sondern langsam erhöht. <a href="<https://youtu.be/qgBPvEuJ_uI">Video zu dem Probeversuch</a>
+	<li> Bei einem Test, in dem die Temperatur auf 80 °C eingestellt wurde, erreichte der Gaskocher mehr als 90 °C. Das lag daran, dass der Gaskocher zu spät die Flamme reduzierte und die Sparflamme ausreichte, um das Wasser im Topf weiter zu erwärmen. Es gab dementsprechend keinen ausgeglichenen Zustand aus Erwärumen und Abgabe der Temperatur an die Umwelt. Somit wurde die Temperatur nicht gehalten, sondern langsam erhöht. <a href="https://youtu.be/qgBPvEuJ_uI">Video zu dem Probeversuch</a>
 		
-<source src="https://youtu.be/qgBPvEuJ_uI" type="video/mp4">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qgBPvEuJ_uI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<video src="https://youtu.be/qgBPvEuJ_uI" type="video/mp4">
