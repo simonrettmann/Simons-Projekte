@@ -999,10 +999,10 @@ In dieser Stunde wurde die Projektseite weiter mit Leben gefüllt. Dafür wurden
 
 ## <h2> <a id="Finalisierung"> Finalisierung vom 1.12.2021 - 6.12.2021 </a> </h2> </p>
 	
-Während dieser finalen Phase wurden Testungen durchgeführt, um mögliche Probleme zu finden und zu behenben. Erfreulich war zu sehen, dass sowohl die Hardware als auch die Software ihren Zweck erfüllten und den Kern des Projektes erfüllten. Allerdings traten bei diesen Versuchen auch Unstimmigkeiten auf, die zu Problemen führte. 
+Während dieser finalen Phase wurden Testungen durchgeführt, um mögliche Probleme zu finden und zu beheben. Erfreulich war zu sehen, dass sowohl die Hardware als auch die Software ihren Zweck erfüllten und den Kern des Projektes gelang. Allerdings traten bei diesen Versuchen auch Unstimmigkeiten auf, die zu Problemen führten: 
 
 <ul>
-	<li> Bei einem Test, in dem die Temperatur auf 80 °C eingestellt wurde, erreichte der Gaskocher mehr als 90 °C. Das lag daran, dass der Gaskocher zu spät die Flamme reduzierte und die Sparflamme ausreichte, um das Wasser im Topf weiter zu erwärmen. Es gab dementsprechend keinen ausgeglichenen Zustand aus Erwärumen und Abgabe der Temperatur an die Umwelt. Somit wurde die Temperatur nicht gehalten, sondern langsam erhöht. 
+	<li> Bei einem Test, in dem die Temperatur auf 80 °C eingestellt wurde, erreichte der Gaskocher mehr als 90 °C. Das lag daran, dass der Gaskocher zu spät die Flamme reduzierte, um die Sparflamme zu erreiche. Außerdem reichte die Sparflamme, um das Wasser im Topf weiter zu erwärmen. Es gab dementsprechend keinen ausgeglichenen Zustand aus Erwärmen und Abgabe der Temperatur an die Umwelt. Somit wurde die Temperatur nicht gehalten, sondern langsam erhöht. 
 <details>
 	<summary>Video des 1. Versuchs des arduinogesteuerten Gaskochers - novum hotplate</summary>
 		<div align="center">
