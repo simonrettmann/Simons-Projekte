@@ -1163,7 +1163,7 @@ Um diesem Problem Abhilfe zu schaffen wurden mehrere Sachen verändert. Die Funk
 Leider zeigte sich auch hier, dass die geringe Sparflamme den Topfinhalt weiter erhitzt. Die Flamme konnte jedoch nicht weiter reduziert werden, da sie bereits sehr schwach war und sehr windanfällig ist. Um ein besseres Verhätlnis aus Wärme und Abwärme zu erreichen, wurden Löcher in den Deckel gebohrt, damit Dampf entweichen kann. Außerdem hat sich experimentell gezeigt, dass es für die Bedienung sinnvoll ist, nachdem die Temperatur erreicht ist, den Deckel halb zu öffnen. So kann noch mehr Wärme erreicht werden und die Temperatur für eine lange Zeit gehalten werden. 
 <details>
 	<summary>Graph der Funktion f(x) = 80/(1 + 1,15^(-x+35)) +0,3</summary>
-	<img alt="Bild der Funktion"> src="https://user-images.githubusercontent.com/88385654/144602584-05349368-ac9f-4e00-b8c8-3e7bb629fdbc.jpg">
+	<img alt="Bild der Funktion" src="https://user-images.githubusercontent.com/88385654/144602584-05349368-ac9f-4e00-b8c8-3e7bb629fdbc.jpg">
 </details>	
 		
 <details>
