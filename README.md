@@ -993,12 +993,11 @@ In dieser Stunde wurde die Projektseite weiter mit Leben gefüllt. Dafür wurden
 <b>Installation des Schrittmotors auf die Gasflasche von schräg vorne</b><img src="https://user-images.githubusercontent.com/88385654/144403416-7cae2da2-8f27-4c75-9266-59e114b70b39.jpg">
 <b>Installation des Schrittmotors auf die Gasflasche von schräg oben</b><img src="https://user-images.githubusercontent.com/88385654/144403476-cb159229-fa66-4257-ae6e-4cb33aec5960.jpg">
 <b>gesamter Aufbau der Hardware</b><img src="https://user-images.githubusercontent.com/88385654/144403510-b2791893-3fbc-4e86-b2cc-caa792264d9e.jpg">
-</b>
 	
 </details>
 	
 <details>
-     <summary> erste Struktur der Projektseite </summary>
+	<summary>erste Struktur der Projektseite</summary>
      
 <code>
 <html>
@@ -1135,8 +1134,5 @@ Während dieser finalten Phase wurden Testungen durchgeführt, um mögliche Prob
 </ul>	
 	
 <div align="center">
-  <a href="https://www.youtube.com/embed/qgBPvEuJ_uI"><img src="" alt="Test #1"></a>
+  <a href="https://www.youtube.com/embed/qgBPvEuJ_uI"><img src="https://user-images.githubusercontent.com/88385654/144581701-aed885a0-5548-49c4-9298-5f9ebb8f64b3.jpg" alt="Test #1"></a>
 </div>
-![Bildschirmfoto 2021-12-03 um 10 41 11](https://user-images.githubusercontent.com/88385654/144581701-aed885a0-5548-49c4-9298-5f9ebb8f64b3.jpg)
-
-
