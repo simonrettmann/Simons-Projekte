@@ -11,7 +11,7 @@ Informatik, Bl
 
 David Borgmann, Simon Rettmann
 	
-<a href="https://github.com/simonrettmann/Projektseite"> Projektseite</a>
+&#10132;<a href="https://github.com/simonrettmann/Projektseite"> Projektseite</a>
      
 </p>
 </br>
