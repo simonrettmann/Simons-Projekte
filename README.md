@@ -1148,7 +1148,7 @@ Der Entwicklungsprozess startete am 3.8.2021, der ersten Informatikstunde mit ei
 
 ## <h2> <a id="Finalisierung"> Finalisierung vom 1.12.2021 - 6.12.2021 </a> </h2> </p>
 	
-Während dieser finalen Phase wurden Testungen durchgeführt, um mögliche Probleme zu finden und zu beheben. Erfreulich war zu sehen, dass sowohl die Hardware als auch die Software ihren Zweck erfüllten. Der Test war grundsätzlich erfolgreich. Allerdings traten bei diesen Versuchen auch Unstimmigkeiten auf, die zu Problemen führten: 
+Während dieser finalen Phase wurden Testungen durchgeführt, um mögliche Probleme zu finden und zu beheben. Erfreulich war zu sehen, dass sowohl die Hardware als auch die Software ihren Zweck erfüllten. Der Test war also grundsätzlich erfolgreich. Allerdings traten bei diesen Versuchen auch Unstimmigkeiten auf, die zu Problemen führten: 
 
 <ul>
 	<li> Bei einem Test, in dem die Temperatur auf 80 °C eingestellt wurde, erreichte der Gaskocher mehr als 90 °C. Das lag daran, dass der Gaskocher zu spät die Flamme reduzierte, um die Sparflamme zu erreiche. Außerdem reichte die Sparflamme, um das Wasser im Topf weiter zu erwärmen. Es gab dementsprechend keinen ausgeglichenen Zustand aus Erwärmen und Abgabe der Temperatur an die Umwelt. Somit wurde die Temperatur nicht gehalten, sondern langsam erhöht. 
