@@ -996,9 +996,8 @@ In dieser Stunde wurde die Projektseite weiter mit Leben gefüllt. Dafür wurden
 <b> gesamter Aufbau der Hardware </b> <img src="https://user-images.githubusercontent.com/88385654/144403510-b2791893-3fbc-4e86-b2cc-caa792264d9e.jpg">
 	
 </details>
-	
-<html>	
-<h2> <a id="Finalisierung"> Finalisierung vom 1.12.2021 - 6.12.2021 </a> <h2> </p>
+	<b> </b>
+## <h2> <a id="Finalisierung"> Finalisierung vom 1.12.2021 - 6.12.2021 </a> </h2> </p>
 	
 Während dieser finalten Phase wurden Testungen durchgeführt, um mögliche Probleme zu finden und zu behenben. Erfreulich war zu sehen, dass sowohl die Hardware als auch die Software ihren Zweck erfüllten und den Kern des Projektes erfüllten. Allerdings traten bei diesen Versuchen auch Unstimmigkeiten auf, die zu Problemen führte. 
 
