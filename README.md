@@ -986,17 +986,17 @@ In dieser Stunde wurde die Projektseite weiter mit Leben gefüllt. Dafür wurden
 <details>
 	<summary>Bildergalerie</summary>
 <b> Befestigung von der Seite </b> <img alt="Konstruktion von der Seite" src="https://user-images.githubusercontent.com/88385654/144402384-15489c91-9107-455a-bc8b-5d53066fb09b.jpg">
-<b> Befestigung von schräg oben</b><img src="https://user-images.githubusercontent.com/88385654/144402395-d7157686-69d8-4adc-98be-19945850cf96.jpg">
+<b> Befestigung von schräg oben </b> <img src="https://user-images.githubusercontent.com/88385654/144402395-d7157686-69d8-4adc-98be-19945850cf96.jpg">
 <b> Bestigung von oben<b/> <img src="https://user-images.githubusercontent.com/88385654/144402404-a9837b5f-8883-48e4-87cb-64d848cb62a6.jpg">
-<b>Befestigung von hinten</b><img src="https://user-images.githubusercontent.com/88385654/144402410-ca4a9371-f19a-40ca-87f2-3fa1e6008d9b.jpg">
-<b>Befestigung von vorne</b><img src="https://user-images.githubusercontent.com/88385654/144402415-13314859-2691-4073-9b42-42bdc00a1e1b.jpg">
-<b>Installation des Schrittmotors auf die Gasflasche von schräg vorne</b><img src="https://user-images.githubusercontent.com/88385654/144403416-7cae2da2-8f27-4c75-9266-59e114b70b39.jpg">
-<b>Installation des Schrittmotors auf die Gasflasche von schräg oben</b><img src="https://user-images.githubusercontent.com/88385654/144403476-cb159229-fa66-4257-ae6e-4cb33aec5960.jpg">
-<b>gesamter Aufbau der Hardware</b><img src="https://user-images.githubusercontent.com/88385654/144403510-b2791893-3fbc-4e86-b2cc-caa792264d9e.jpg">
+<b> Befestigung von hinten </b> <img src="https://user-images.githubusercontent.com/88385654/144402410-ca4a9371-f19a-40ca-87f2-3fa1e6008d9b.jpg">
+<b> Befestigung von vorne </b> <img src="https://user-images.githubusercontent.com/88385654/144402415-13314859-2691-4073-9b42-42bdc00a1e1b.jpg">
+<b> Installation des Schrittmotors auf die Gasflasche von schräg vorne </b> <img src="https://user-images.githubusercontent.com/88385654/144403416-7cae2da2-8f27-4c75-9266-59e114b70b39.jpg">
+<b> Installation des Schrittmotors auf die Gasflasche von schräg oben </b> <img src="https://user-images.githubusercontent.com/88385654/144403476-cb159229-fa66-4257-ae6e-4cb33aec5960.jpg">
+<b> gesamter Aufbau der Hardware </b> <img src="https://user-images.githubusercontent.com/88385654/144403510-b2791893-3fbc-4e86-b2cc-caa792264d9e.jpg">
 	
 </details>
 	
-## <p> <h2> <a id="Finalisierung"> Finalisierung vom 1.12.2021 - 6.12.2021 </a> <h2>
+## <p> <h2> <a id="Finalisierung"> Finalisierung vom 1.12.2021 - 6.12.2021 </a> <h2> </p>
 	
 Während dieser finalten Phase wurden Testungen durchgeführt, um mögliche Probleme zu finden und zu behenben. Erfreulich war zu sehen, dass sowohl die Hardware als auch die Software ihren Zweck erfüllten und den Kern des Projektes erfüllten. Allerdings traten bei diesen Versuchen auch Unstimmigkeiten auf, die zu Problemen führte. 
 <ul>
