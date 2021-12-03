@@ -1161,7 +1161,10 @@ Während dieser finalen Phase wurden Testungen durchgeführt, um mögliche Probl
 Um diesem Problem Abhilfe zu schaffen wurden mehrere Sachen verändert. Die Funktion wurde mehrfach verändert, um den Hitzeverlauf des Topfes möglichst gut abzubilden. Schlussendlich wurde die Funktion f(x) = 80/(1 + 1,15^(-x+35)) +0,3 gewählt. Durch diesen deutlich geringeren y-Achsenabschnitt der Funktion wurde die Sparflamme, die die Temperatur des Wasser lediglich stabil halten soll, deutlich reduziert. Außerdem wurde die Steigung erhöht, damit ein schnelleres Erhitzen erzielt werden kann. Um ein besseres Verhätlnis aus Wärme und Abwärme zu erreiche, weil die Sparflamme nicht noch weiter reduziert werden konnte, wurden Löcher in den Deckel gebohrt, damit Dampf entweichen kann. Außerdem hat sich experimentell gezeigt, dass es für die Bedienung sinnvoll ist, nachdem die Temperatur erreicht ist, den Deckel halb zu öffnen. So kann noch mehr Wärme erreicht werden und die Temperatur für eine lange Zeit gehalten werden. 
 <details>
 	<summary>Bilder des durchlöcherten Deckels</summary>
-	<img 
+<b> durchlöcherter Topf von schräg oben </b> <img alt="Bild von schräg oben" src="https://user-images.githubusercontent.com/88385654/144590215-b5ce031f-54ec-404c-ba00-a88375558489.jpg">
+<b> durchlöcherter Topf von oben </b> <img alt="Bild von oben" src="https://user-images.githubusercontent.com/88385654/144590227-a04e88b3-419a-448f-8b68-e97be9177d0c.jpg">
+<b> durchlöcherter Topf von unten </b> <img alt="Bild von unten" src="https://user-images.githubusercontent.com/88385654/144590255-a0969242-5c4d-4b3d-aeb7-7b7cd181be80.jpg">
+
 </details>
 
 </ul>	
