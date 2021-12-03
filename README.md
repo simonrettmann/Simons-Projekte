@@ -1004,7 +1004,7 @@ Während dieser finalen Phase wurden Testungen durchgeführt, um mögliche Probl
 <ul>
 	<li> Bei einem Test, in dem die Temperatur auf 80 °C eingestellt wurde, erreichte der Gaskocher mehr als 90 °C. Das lag daran, dass der Gaskocher zu spät die Flamme reduzierte und die Sparflamme ausreichte, um das Wasser im Topf weiter zu erwärmen. Es gab dementsprechend keinen ausgeglichenen Zustand aus Erwärumen und Abgabe der Temperatur an die Umwelt. Somit wurde die Temperatur nicht gehalten, sondern langsam erhöht. 
 <details>
-	<summary>1. Versuch des arduinogesteuerten Gaskocher - novum hotplate</summary>
+	<summary>Video des 1. Versuchs des arduinogesteuerten Gaskochers - novum hotplate</summary>
 		<div align="center">
   			<a href="https://www.youtube.com/embed/qgBPvEuJ_uI"><img src="https://user-images.githubusercontent.com/88385654/144581701-aed885a0-5548-49c4-9298-5f9ebb8f64b3.jpg" alt="Test #1"></a>	
 		</div>
