@@ -996,10 +996,10 @@ In dieser Stunde wurde die Projektseite weiter mit Leben gefüllt. Dafür wurden
 <b> gesamter Aufbau der Hardware </b> <img src="https://user-images.githubusercontent.com/88385654/144403510-b2791893-3fbc-4e86-b2cc-caa792264d9e.jpg">
 	
 </details>
-	<b> </b>
+
 ## <h2> <a id="Finalisierung"> Finalisierung vom 1.12.2021 - 6.12.2021 </a> </h2> </p>
 	
-Während dieser finalten Phase wurden Testungen durchgeführt, um mögliche Probleme zu finden und zu behenben. Erfreulich war zu sehen, dass sowohl die Hardware als auch die Software ihren Zweck erfüllten und den Kern des Projektes erfüllten. Allerdings traten bei diesen Versuchen auch Unstimmigkeiten auf, die zu Problemen führte. 
+Während dieser finalen Phase wurden Testungen durchgeführt, um mögliche Probleme zu finden und zu behenben. Erfreulich war zu sehen, dass sowohl die Hardware als auch die Software ihren Zweck erfüllten und den Kern des Projektes erfüllten. Allerdings traten bei diesen Versuchen auch Unstimmigkeiten auf, die zu Problemen führte. 
 
 <ul>
 	<li> Bei einem Test, in dem die Temperatur auf 80 °C eingestellt wurde, erreichte der Gaskocher mehr als 90 °C. Das lag daran, dass der Gaskocher zu spät die Flamme reduzierte und die Sparflamme ausreichte, um das Wasser im Topf weiter zu erwärmen. Es gab dementsprechend keinen ausgeglichenen Zustand aus Erwärumen und Abgabe der Temperatur an die Umwelt. Somit wurde die Temperatur nicht gehalten, sondern langsam erhöht. 
@@ -1012,3 +1012,7 @@ Während dieser finalten Phase wurden Testungen durchgeführt, um mögliche Prob
 
 </ul>	
 
+## <p> <h2> <a id="Stundevom1.12.2021"> Stunde vom 1.12.2021 </a> <h2>
+	
+Die Hardware wurde zwischen dem 30.11-1.12 fertiggestellt. In der Werkstatt zu Hause wurde gebastelt, getüftelt und geplant. Ein zurechtgeschnittetes Blech wurde mit einer Öffnung versehen, sodass es sich um das Ventil des Gaskochers legt. Durch einen steckmechanismus wurde die Grundplatte noch weiter befestigt. Damit der Schrittmotor befestigt werden kann, wurden Löcher in die Grundplatte geborht und verschraubt. Mit Winkeln wurde eine Verlängerung von Grundplatte zu Schrittmotor hergestellt, sodass der Motor gut befestigt war. Durch die vielen Schraubverbindungen in den Winkeln ist eine gewisse Flexibilität der Halterung gegeben. Diese Beweglichkeit ist essenziell, da der Regler der Gasflasche auf einem Gewinde befindet und sich daher, je nach Öffnungsstand nach vorne, bzw. hinten bewegt. Auch die korrekte Ausrichtung wird durch die vielen "Gelenke" gegenüber einer starren Verbindung mit einer Stange erleichtert. <br>
+In dieser Stunde wurde die Projektseite weiter mit Leben gefüllt. Dafür wurden für die vorher geplanten Kategorien Texte geschrieben. Die Einleitung in das Physical Computing Projekt wurden gegeben und die Grundlagen des Arduino erklärt. Außerdem wurden Texte über die Idde, die Gruppe und die verwendeten Programme geschrieben. Die Finalisierung des Projekts soll nun bis zum Wochenende abgeschlossen werden, damit das Wochenende als Puffer zur Verfügung steht und eventuell noch auftretende Probleme gelöst werden können. Die Gruppe freut sich auf die Abgabe am 6.12.2021. 
