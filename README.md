@@ -1157,7 +1157,11 @@ Während dieser finalen Phase wurden Testungen durchgeführt, um mögliche Probl
 		<div align="center">
   			<a href="https://www.youtube.com/embed/qgBPvEuJ_uI"><img src="https://user-images.githubusercontent.com/88385654/144581701-aed885a0-5548-49c4-9298-5f9ebb8f64b3.jpg" alt="Test #1"></a>	
 		</div>
-Um diesem Problem Abhilfe zu schaffen wurden mehrere Sachen verändert. Die Funktion wurde mehrfach verändert, um den Hitzeverlauf des Topfes möglichst gut abzubilden. Schlussendlich wurde die Funktion f(x) = 80/(1 + 1,15^(-x+35)) +0,3 gewählt. Durch diesen deutlich geringeren y-Achsenabschnitt der Funktion wurde die Sparflamme, die die Temperatur des Wasser lediglich stabil halten soll, deutlich reduziert. Außerdem wurde die Steigung erhöht, damit ein schnelleres Erhitzen erzielt werden kann. 
+</details>
+Um diesem Problem Abhilfe zu schaffen wurden mehrere Sachen verändert. Die Funktion wurde mehrfach verändert, um den Hitzeverlauf des Topfes möglichst gut abzubilden. Schlussendlich wurde die Funktion f(x) = 80/(1 + 1,15^(-x+35)) +0,3 gewählt. Durch diesen deutlich geringeren y-Achsenabschnitt der Funktion wurde die Sparflamme, die die Temperatur des Wasser lediglich stabil halten soll, deutlich reduziert. Außerdem wurde die Steigung erhöht, damit ein schnelleres Erhitzen erzielt werden kann. Um ein besseres Verhätlnis aus Wärme und Abwärme zu erreiche, weil die Sparflamme nicht noch weiter reduziert werden konnte, wurden Löcher in den Deckel gebohrt, damit Dampf entweichen kann. Außerdem hat sich experimentell gezeigt, dass es für die Bedienung sinnvoll ist, nachdem die Temperatur erreicht ist, den Deckel halb zu öffnen. So kann noch mehr Wärme erreicht werden und die Temperatur für eine lange Zeit gehalten werden. 
+<details>
+	<summary>Bilder des durchlöcherten Deckels</summary>
+	<img 
 </details>
 
 </ul>	
