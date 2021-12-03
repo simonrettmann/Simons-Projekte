@@ -1134,6 +1134,7 @@ Während dieser finalten Phase wurden Testungen durchgeführt, um mögliche Prob
 </ul>	
 	
 <div align="center">
-  <a href="https://www.youtube.com/embed/qgBPvEuJ_uI"><img src="" alt="Test #1"></a>
+  <a href="https://www.youtube.com/embed/qgBPvEuJ_uI"><img src="https://user-images.githubusercontent.com/88385654/144581144-6f683161-0f62-41cf-8d5f-c48ceb758910.jpg" alt="Test #1"></a>
 </div>
+
 
