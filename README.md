@@ -263,7 +263,7 @@ Um die Fehlerquellen besser identifizieren und zu beheben können, erfolgte ein 
 	</p>
 
 <details> 
-    <summary>Arduion Code</summary>
+    <summary>Arduino Code</summary>
     
 ```c 
 #include <AccelStepper.h>
