@@ -933,7 +933,7 @@ Das finale Projekt soll in einer Box transportiert werden können und möglichst
     
 <details>
     <summary>Screenshot von fritzing</summary>
-<img src"https://user-images.githubusercontent.com/88385654/144753302-58a2dd0f-4f99-4b12-b6a0-f2f9e7dadcfa.jpg">
+<img src="https://user-images.githubusercontent.com/88385654/144753302-58a2dd0f-4f99-4b12-b6a0-f2f9e7dadcfa.jpg">
 </details>
     
 <details>
