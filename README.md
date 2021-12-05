@@ -730,7 +730,7 @@ Während dieser Unterrichtseinheit wurde weiter an dem LC-Display gefeilt.
 Außerdem wurde an dem 3D Modell gearbeitet und ein überarbeiteter Prototyp erstellt. 
 
 <details>
-    <summary>Screenshot des 3-D Modells</Summary>
+    <summary>Screenshot des 3D Modells</Summary>
 
 ## Screenshot von der Seite <img alt="Screenshot von der Seite" src="https://user-images.githubusercontent.com/88385654/140654383-49f75fb1-e714-4139-b03c-9751df766acc.PNG">
 ## Screenshot von unten <img alt="Screenshot von unten" src="https://user-images.githubusercontent.com/88385654/140654396-31ae6d5f-827a-439e-92cd-132f961bc5e8.PNG">
