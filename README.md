@@ -929,11 +929,11 @@ Außerdem wurden mit dem gedruckten 3D Modell erste Tests unter Aufsicht von Her
 ## <p> <h2> <a id="Stundevom17.11.2021"> Stunde vom 17.11.2021 </a> <h2>
 
 Ziel dieser Informatikstunde war es, den Steckplan des Projekts mit Hilfe der Software "Fritzing" zu digitalisieren. Außerdem wurde ein Kochtopf aus dem Kellerbestand einer befreundeten Familie organisiert. Die Planung für das finale Projekt wurde weitergebracht.
-Das finale Projekt soll in einer Box transportiert werden können und möglichst wenig Platz einnehmen. Dafür sollen alle Verbindung sicher gesteckt bzw. gelötet werden und in einem Kasten aus Holz oder Metall versteckt und geschützt werden. Des Weiteren soll der rotary encoder mit einem Handknauf ausgestattet werden, damit die Bedienung erleichtert ist. !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Das finale Projekt soll in einer Box transportiert werden können und möglichst wenig Platz einnehmen. Dafür sollen alle Verbindung sicher gesteckt bzw. gelötet werden und in einem Kasten aus Holz oder Metall versteckt und geschützt werden. Des Weiteren soll der rotary encoder mit einem Handknauf ausgestattet werden, damit die Bedienung erleichtert ist. 
     
 <details>
     <summary>Screenshot von fritzing</summary>
-
+<img src"https://user-images.githubusercontent.com/88385654/144753302-58a2dd0f-4f99-4b12-b6a0-f2f9e7dadcfa.jpg">
 </details>
     
 <details>
